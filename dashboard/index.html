@@ -870,8 +870,31 @@ function initializeFilters(){
         option.value =
             week;
 
-        option.textContent =
-            `Semana ${week}`;
+const monthNames = [
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre"
+];
+
+const approximateMonth =
+    monthNames[
+        Math.min(
+            Math.floor((week - 1) / 4.345),
+            11
+        )
+    ];
+
+option.textContent =
+    `Semana ${week} · ${approximateMonth}`;
 
         weekSelect.appendChild(
             option
