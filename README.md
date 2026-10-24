@@ -72,8 +72,9 @@ El dashboard permite explorar los datos utilizados en esta etapa del proyecto me
 
 ##  Agradecimientos
 
-<!-- Agregar aquí los agradecimientos correspondientes. -->
+**Edna Cruz Flores, Alida Zárate y Blanca Taboada** agradecen el financiamiento del **Proyecto Ciencia Básica y de Frontera CBF-2025-I-1026**, *“Vigilancia genómica de dengue y exploración del origen de síndromes febriles no diagnosticados en regiones endémicas mediante metagenómica”*, financiado por la **Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI)**, así como del proyecto **PAPIIT IN225126**, *“Desarrollo e implementación de vigilancia genómica del dengue en México”*.
 
+**Alida Zárate** agradece el apoyo del **Programa Estancias Posdoctorales por México de la SECIHTI**, mediante el proyecto *“Modelos de deep learning y de lenguaje para predecir la dispersión geográfica y evolución de las variantes de dengue y otros virus respiratorios a partir de datos genómicos y epidemiológicos”*.
 
 
 
