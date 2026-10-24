@@ -57,8 +57,8 @@ Variables climáticas utilizadas:
 
 El dashboard permite explorar los datos utilizados en esta etapa del proyecto mediante mapas y series temporales.
 
-**🔗 Dashboard interactivo:**  
-[Enlace de GitHub Pages]
+**🔗 Dashboard interactivo:**   
+[Explorar dashboard de dengue](https://alyzart22.github.io/Dengue_Data_Integration/dashboard/)
 
 ---
 
