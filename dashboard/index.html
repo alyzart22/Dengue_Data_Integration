@@ -1,0 +1,1894 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Dengue México | Epidemiología y clima</title>
+
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+
+<style>
+
+:root{
+    --bg:#f3f7fa;
+    --card:#ffffff;
+    --navy:#123a59;
+    --blue:#176b87;
+    --text:#183247;
+    --muted:#6c8191;
+    --border:#d7e2e9;
+}
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin:0;
+    font-family:Inter,Arial,Helvetica,sans-serif;
+    background:var(--bg);
+    color:var(--text);
+}
+
+header{
+    background:linear-gradient(110deg,#123a59,#1485a8);
+    color:white;
+    padding:18px 30px;
+}
+
+header h1{
+    margin:0;
+    font-size:26px;
+}
+
+header p{
+    margin:6px 0 0;
+    font-size:14px;
+    opacity:.92;
+}
+
+.container{
+    max-width:1550px;
+    margin:auto;
+    padding:16px 20px;
+}
+
+/* FILTROS */
+
+.filters{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:10px;
+    padding:13px 16px;
+
+    display:grid;
+    grid-template-columns:1.2fr 1fr 1fr auto;
+    gap:15px;
+
+    box-shadow:0 2px 8px rgba(0,0,0,.04);
+}
+
+.filter-group{
+    display:flex;
+    flex-direction:column;
+    gap:5px;
+}
+
+label{
+    font-size:11px;
+    font-weight:700;
+    text-transform:uppercase;
+    color:var(--muted);
+}
+
+select{
+    width:100%;
+    padding:9px;
+    border:1px solid var(--border);
+    border-radius:6px;
+    background:white;
+    color:var(--text);
+}
+
+button{
+    align-self:end;
+    padding:10px 20px;
+    border:0;
+    border-radius:6px;
+    background:var(--navy);
+    color:white;
+    font-weight:600;
+    cursor:pointer;
+}
+
+button:hover{
+    background:var(--blue);
+}
+
+/* KPI */
+
+.kpis{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:12px;
+    margin-top:12px;
+}
+
+.kpi{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:9px;
+    padding:13px 16px;
+    box-shadow:0 2px 8px rgba(0,0,0,.035);
+}
+
+.kpi-label{
+    color:var(--muted);
+    font-size:11px;
+    font-weight:700;
+    text-transform:uppercase;
+}
+
+.kpi-value{
+    margin-top:5px;
+    font-size:25px;
+    font-weight:750;
+    color:var(--navy);
+}
+
+.kpi-note{
+    margin-top:2px;
+    font-size:10px;
+    color:var(--muted);
+}
+
+/* MAPAS */
+
+.maps-grid{
+    display:grid;
+    grid-template-columns:1.25fr 1fr;
+    gap:12px;
+    margin-top:12px;
+}
+
+.right-maps{
+    display:grid;
+    grid-template-rows:1fr 1fr;
+    gap:12px;
+}
+
+.card{
+    background:white;
+    border:1px solid var(--border);
+    border-radius:9px;
+    padding:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,.035);
+    min-width:0;
+}
+
+.card-title{
+    font-size:15px;
+    font-weight:700;
+    color:var(--text);
+    margin:0 0 2px 3px;
+}
+
+.card-subtitle{
+    font-size:10px;
+    color:var(--muted);
+    margin:0 0 3px 3px;
+}
+
+#dengueMap{
+    height:540px;
+}
+
+#temperatureMap,
+#rainMap{
+    height:250px;
+}
+
+/* GRAFICAS */
+
+.charts-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:12px;
+    margin-top:12px;
+}
+
+#epiChart,
+#climateChart{
+    height:255px;
+}
+
+footer{
+    padding:13px 4px 4px;
+    font-size:10px;
+    color:var(--muted);
+    line-height:1.5;
+}
+
+.loading{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100%;
+    color:var(--muted);
+}
+
+@media(max-width:1000px){
+
+    .filters{
+        grid-template-columns:1fr 1fr;
+    }
+
+    .kpis{
+        grid-template-columns:1fr 1fr;
+    }
+
+    .maps-grid{
+        grid-template-columns:1fr;
+    }
+
+    .charts-grid{
+        grid-template-columns:1fr;
+    }
+
+}
+
+</style>
+</head>
+
+
+<body>
+
+<header>
+
+<h1>Dengue México | Epidemiología y clima</h1>
+
+<p>
+Exploración espacio-temporal de casos confirmados de dengue
+y variables climáticas en México durante 2025
+</p>
+
+</header>
+
+
+<div class="container">
+
+
+<!-- FILTROS -->
+
+<div class="filters">
+
+<div class="filter-group">
+
+<label>Estado</label>
+
+<select id="stateSelect">
+
+<option value="TODOS">
+Todos los estados
+</option>
+
+</select>
+
+</div>
+
+
+<div class="filter-group">
+
+<label>Semana epidemiológica</label>
+
+<select id="weekSelect"></select>
+
+</div>
+
+
+<div class="filter-group">
+
+<label>Variable climática para serie temporal</label>
+
+<select id="climateSelect">
+
+<option value="TEMPERATURA_MEDIA_C">
+Temperatura media
+</option>
+
+<option value="TEMPERATURA_MIN_C">
+Temperatura mínima
+</option>
+
+<option value="TEMPERATURA_MAX_C">
+Temperatura máxima
+</option>
+
+<option value="PRECIPITACION_MM">
+Precipitación
+</option>
+
+</select>
+
+</div>
+
+
+<button id="resetButton">
+Restablecer
+</button>
+
+</div>
+
+
+
+<!-- KPI -->
+
+<div class="kpis">
+
+
+<div class="kpi">
+
+<div class="kpi-label">
+Confirmados nuevos
+</div>
+
+<div
+class="kpi-value"
+id="kpiCases">
+—
+</div>
+
+<div
+class="kpi-note"
+id="kpiCasesNote">
+Semana seleccionada
+</div>
+
+</div>
+
+
+
+<div class="kpi">
+
+<div class="kpi-label">
+Incidencia
+</div>
+
+<div
+class="kpi-value"
+id="kpiIncidence">
+—
+</div>
+
+<div class="kpi-note">
+Acumulada · por 100 mil habitantes
+</div>
+
+</div>
+
+
+
+<div class="kpi">
+
+<div class="kpi-label">
+Temperatura media
+</div>
+
+<div
+class="kpi-value"
+id="kpiTemp">
+—
+</div>
+
+<div class="kpi-note">
+Promedio espacial semanal
+</div>
+
+</div>
+
+
+
+<div class="kpi">
+
+<div class="kpi-label">
+Precipitación
+</div>
+
+<div
+class="kpi-value"
+id="kpiRain">
+—
+</div>
+
+<div class="kpi-note">
+Promedio espacial semanal
+</div>
+
+</div>
+
+
+</div>
+
+
+
+<!-- MAPAS -->
+
+<div class="maps-grid">
+
+
+<!-- DENGUE -->
+
+<div class="card">
+
+<div class="card-title">
+Casos de dengue por estado
+</div>
+
+<div
+class="card-subtitle"
+id="dengueSubtitle">
+Casos confirmados nuevos
+</div>
+
+<div id="dengueMap">
+
+<div class="loading">
+Cargando mapa...
+</div>
+
+</div>
+
+</div>
+
+
+
+<!-- CLIMA -->
+
+<div class="right-maps">
+
+
+<div class="card">
+
+<div class="card-title">
+Temperatura media
+</div>
+
+<div
+class="card-subtitle"
+id="temperatureSubtitle">
+Temperatura media semanal por estado
+</div>
+
+<div id="temperatureMap"></div>
+
+</div>
+
+
+
+<div class="card">
+
+<div class="card-title">
+Precipitación
+</div>
+
+<div
+class="card-subtitle"
+id="rainSubtitle">
+Precipitación semanal por estado
+</div>
+
+<div id="rainMap"></div>
+
+</div>
+
+
+</div>
+
+</div>
+
+
+
+<!-- SERIES -->
+
+<div class="charts-grid">
+
+
+<div class="card">
+
+<div class="card-title">
+Dinámica epidemiológica
+</div>
+
+<div class="card-subtitle">
+Casos confirmados nuevos por semana
+</div>
+
+<div id="epiChart"></div>
+
+</div>
+
+
+
+<div class="card">
+
+<div class="card-title">
+Dinámica climática
+</div>
+
+<div
+class="card-subtitle"
+id="climateChartSubtitle">
+Serie temporal
+</div>
+
+<div id="climateChart"></div>
+
+</div>
+
+
+</div>
+
+
+
+<footer>
+
+<strong>Fuentes:</strong>
+Epidemiología: SINAVE / DGE / Secretaría de Salud.
+Clima: ERA5-Land, Copernicus Climate Change Service.
+
+<br>
+
+La visualización es descriptiva y permite explorar patrones
+espaciales y temporales. No implica relaciones causales entre
+las variables climáticas y la ocurrencia de dengue.
+
+</footer>
+
+
+</div>
+
+
+
+<script>
+
+/* =========================================================
+   ARCHIVOS
+========================================================= */
+
+const CSV_PATH =
+"../data/integrada/dengue_clima_2025_estatal_semanal.csv";
+
+const GEOJSON_PATH =
+"../data/geografia/mexico_estados.geojson";
+
+
+let DATA = [];
+let GEOJSON = null;
+
+
+/* =========================================================
+   ELEMENTOS
+========================================================= */
+
+const stateSelect =
+document.getElementById("stateSelect");
+
+const weekSelect =
+document.getElementById("weekSelect");
+
+const climateSelect =
+document.getElementById("climateSelect");
+
+
+/* =========================================================
+   UTILIDADES
+========================================================= */
+
+function normalizeState(text){
+
+    if(!text)
+        return "";
+
+    return text
+        .toString()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g,"")
+        .trim()
+        .toUpperCase();
+}
+
+
+function numeric(value){
+
+    if(
+        value === "" ||
+        value === null ||
+        value === undefined
+    ){
+        return null;
+    }
+
+    const x = Number(value);
+
+    return Number.isFinite(x)
+        ? x
+        : null;
+}
+
+
+function average(values){
+
+    const valid =
+        values.filter(
+            x => Number.isFinite(x)
+        );
+
+    if(valid.length === 0)
+        return null;
+
+    return valid.reduce(
+        (a,b) => a+b,
+        0
+    ) / valid.length;
+}
+
+
+function formatNumber(
+    value,
+    decimals=0
+){
+
+    if(!Number.isFinite(value))
+        return "—";
+
+    return value.toLocaleString(
+        "es-MX",
+        {
+            minimumFractionDigits:decimals,
+            maximumFractionDigits:decimals
+        }
+    );
+}
+
+
+/* =========================================================
+   NOMBRES GEOJSON
+========================================================= */
+
+function geoStateName(feature){
+
+    const p =
+        feature.properties || {};
+
+    return p.nomgeo || "";
+}
+
+/* =========================================================
+   EQUIVALENCIAS
+========================================================= */
+
+function canonicalState(text){
+
+    let x = normalizeState(text);
+
+    const aliases = {
+
+        "COAHUILA":
+            "COAHUILA DE ZARAGOZA",
+
+        "MICHOACAN":
+            "MICHOACAN DE OCAMPO",
+
+        "VERACRUZ":
+            "VERACRUZ DE IGNACIO DE LA LLAVE",
+
+        "CIUDAD DE MEXICO":
+            "CIUDAD DE MEXICO"
+    };
+
+    return aliases[x] || x;
+}
+
+/* =========================================================
+   CARGA
+========================================================= */
+
+async function loadData(){
+
+    try{
+
+        const [
+            csv,
+            geo
+        ] =
+        await Promise.all([
+
+            d3.csv(CSV_PATH),
+
+            d3.json(GEOJSON_PATH)
+
+        ]);
+
+
+        DATA =
+        csv.map(d => ({
+
+            ...d,
+
+            SEMANA:
+                Number(d.SEMANA),
+
+            TOTAL_CONFIRMADOS:
+                numeric(
+                    d.TOTAL_CONFIRMADOS
+                ),
+
+            TOTAL_CONFIRMADOS_SEMANA:
+                numeric(
+                    d.TOTAL_CONFIRMADOS_SEMANA
+                ),
+
+            INCIDENCIA_TOTAL:
+                numeric(
+                    d.INCIDENCIA_TOTAL
+                ),
+
+            TEMPERATURA_MIN_C:
+                numeric(
+                    d.TEMPERATURA_MIN_C
+                ),
+
+            TEMPERATURA_MEDIA_C:
+                numeric(
+                    d.TEMPERATURA_MEDIA_C
+                ),
+
+            TEMPERATURA_MAX_C:
+                numeric(
+                    d.TEMPERATURA_MAX_C
+                ),
+
+            PRECIPITACION_MM:
+                numeric(
+                    d.PRECIPITACION_MM
+                ),
+
+            ESTADO_CANONICO:
+                canonicalState(
+                    d.ESTADO_NORM ||
+                    d.ESTADO
+                )
+
+        }));
+
+
+        GEOJSON = geo;
+
+
+        /*
+        Asignamos ID explícito a cada
+        polígono del GeoJSON.
+        */
+
+        GEOJSON.features.forEach(
+            (feature,index) => {
+
+                feature.id =
+                    String(index);
+
+            }
+        );
+
+
+        initializeFilters();
+
+        updateDashboard();
+
+
+    }catch(error){
+
+        console.error(
+            "Error cargando datos:",
+            error
+        );
+
+        document.getElementById(
+            "dengueMap"
+        ).innerHTML =
+
+        `<div class="loading">
+        Error cargando datos:
+        ${error.message}
+        </div>`;
+    }
+}
+
+
+/* =========================================================
+   FILTROS
+========================================================= */
+
+function initializeFilters(){
+
+    const states =
+    [...new Set(
+        DATA.map(
+            d => d.ESTADO
+        )
+    )]
+    .filter(Boolean)
+    .sort(
+        (a,b) =>
+        a.localeCompare(
+            b,
+            "es"
+        )
+    );
+
+
+    states.forEach(state => {
+
+        const option =
+            document.createElement(
+                "option"
+            );
+
+        option.value =
+            state;
+
+        option.textContent =
+            state;
+
+        stateSelect.appendChild(
+            option
+        );
+
+    });
+
+
+    const weeks =
+    [...new Set(
+        DATA.map(
+            d => d.SEMANA
+        )
+    )]
+    .filter(Number.isFinite)
+    .sort(
+        (a,b) => a-b
+    );
+
+
+    weeks.forEach(week => {
+
+        const option =
+            document.createElement(
+                "option"
+            );
+
+        option.value =
+            week;
+
+        option.textContent =
+            `Semana ${week}`;
+
+        weekSelect.appendChild(
+            option
+        );
+
+    });
+
+
+    weekSelect.value =
+        Math.max(...weeks);
+}
+
+
+/* =========================================================
+   SUBSETS
+========================================================= */
+
+function selectedWeek(){
+
+    return Number(
+        weekSelect.value
+    );
+}
+
+
+function selectedState(){
+
+    return stateSelect.value;
+}
+
+
+function currentWeekRows(){
+
+    return DATA.filter(
+        d =>
+        d.SEMANA ===
+        selectedWeek()
+    );
+}
+
+
+function currentSeriesRows(){
+
+    const state =
+        selectedState();
+
+    if(state === "TODOS")
+        return DATA;
+
+    return DATA.filter(
+        d =>
+        d.ESTADO === state
+    );
+}
+
+
+/* =========================================================
+   KPI
+========================================================= */
+
+function updateKPIs(){
+
+    const week =
+        selectedWeek();
+
+    const state =
+        selectedState();
+
+
+    let rows =
+        currentWeekRows();
+
+
+    if(state !== "TODOS"){
+
+        rows =
+        rows.filter(
+            d =>
+            d.ESTADO === state
+        );
+    }
+
+
+    const cases =
+    rows.reduce(
+        (sum,d) =>
+        sum +
+        (
+            d.TOTAL_CONFIRMADOS_SEMANA
+            || 0
+        ),
+        0
+    );
+
+
+    /*
+    La incidencia nacional NO se calcula
+    promediando incidencias estatales.
+    */
+
+    let incidence = null;
+
+    if(
+        state !== "TODOS" &&
+        rows.length
+    ){
+
+        incidence =
+            rows[0]
+            .INCIDENCIA_TOTAL;
+    }
+
+
+    const temp =
+    average(
+        rows.map(
+            d =>
+            d.TEMPERATURA_MEDIA_C
+        )
+    );
+
+
+    const rain =
+    average(
+        rows.map(
+            d =>
+            d.PRECIPITACION_MM
+        )
+    );
+
+
+    document.getElementById(
+        "kpiCases"
+    ).textContent =
+        formatNumber(cases);
+
+
+    document.getElementById(
+        "kpiIncidence"
+    ).textContent =
+        formatNumber(
+            incidence,
+            2
+        );
+
+
+    document.getElementById(
+        "kpiTemp"
+    ).textContent =
+        Number.isFinite(temp)
+        ?
+        `${formatNumber(temp,1)} °C`
+        :
+        "—";
+
+
+    document.getElementById(
+        "kpiRain"
+    ).textContent =
+        Number.isFinite(rain)
+        ?
+        `${formatNumber(rain,1)} mm`
+        :
+        "—";
+
+
+    document.getElementById(
+        "kpiCasesNote"
+    ).textContent =
+
+        state === "TODOS"
+
+        ?
+
+        `México · semana ${week}`
+
+        :
+
+        `${state} · semana ${week}`;
+}
+
+
+/* =========================================================
+   DATOS PARA MAPAS
+========================================================= */
+
+function mapData(){
+
+    const rows =
+        currentWeekRows();
+
+
+    const lookup =
+        new Map();
+
+
+    rows.forEach(row => {
+
+        lookup.set(
+            row.ESTADO_CANONICO,
+            row
+        );
+
+    });
+
+
+    const locations = [];
+
+    const dengue = [];
+
+    const temperature = [];
+
+    const rain = [];
+
+    const hover = [];
+
+
+    GEOJSON.features.forEach(
+        (feature,index) => {
+
+
+            const stateName =
+                geoStateName(
+                    feature
+                );
+
+
+            const canonical =
+                canonicalState(
+                    stateName
+                );
+
+
+            const row =
+                lookup.get(
+                    canonical
+                );
+
+
+            locations.push(
+                String(index)
+            );
+
+
+            dengue.push(
+                row
+                ?
+                row.TOTAL_CONFIRMADOS_SEMANA
+                :
+                null
+            );
+
+
+            temperature.push(
+                row
+                ?
+                row.TEMPERATURA_MEDIA_C
+                :
+                null
+            );
+
+
+            rain.push(
+                row
+                ?
+                row.PRECIPITACION_MM
+                :
+                null
+            );
+
+
+            if(row){
+
+                hover.push(
+
+                    `<b>${row.ESTADO}</b>` +
+
+                    `<br>Semana: ${row.SEMANA}` +
+
+                    `<br>Casos nuevos: ${
+                        formatNumber(
+                            row.TOTAL_CONFIRMADOS_SEMANA
+                        )
+                    }` +
+
+                    `<br>Casos acumulados: ${
+                        formatNumber(
+                            row.TOTAL_CONFIRMADOS
+                        )
+                    }` +
+
+                    `<br>Incidencia: ${
+                        formatNumber(
+                            row.INCIDENCIA_TOTAL,
+                            2
+                        )
+                    }` +
+
+                    `<br>Temperatura media: ${
+                        formatNumber(
+                            row.TEMPERATURA_MEDIA_C,
+                            1
+                        )
+                    } °C` +
+
+                    `<br>Precipitación: ${
+                        formatNumber(
+                            row.PRECIPITACION_MM,
+                            1
+                        )
+                    } mm`
+
+                );
+
+            }else{
+
+                hover.push(
+
+                    `<b>${stateName}</b>` +
+                    `<br>Sin datos`
+
+                );
+            }
+
+        }
+    );
+
+
+    return {
+        locations,
+        dengue,
+        temperature,
+        rain,
+        hover
+    };
+}
+
+
+/* =========================================================
+   FUNCIÓN GENERAL DE MAPA
+========================================================= */
+
+function drawMap(
+    element,
+    locations,
+    values,
+    hover,
+    colorscale,
+    colorTitle
+){
+
+    const trace = {
+
+        type:
+            "choropleth",
+
+        geojson:
+            GEOJSON,
+
+        locations:
+            locations,
+
+        z:
+            values,
+
+        featureidkey:
+            "id",
+
+        text:
+            hover,
+
+        hovertemplate:
+            "%{text}<extra></extra>",
+
+        colorscale:
+            colorscale,
+
+        marker:{
+            line:{
+                color:"#ffffff",
+                width:1
+            }
+        },
+
+        colorbar:{
+
+            title:{
+                text:colorTitle,
+                side:"right"
+            },
+
+            thickness:12,
+
+            len:.65,
+
+            outlinewidth:0,
+
+            tickfont:{
+                size:9
+            }
+
+        }
+    };
+
+
+    const layout = {
+
+        margin:{
+            l:0,
+            r:15,
+            t:0,
+            b:0
+        },
+
+        geo:{
+
+            fitbounds:
+                "locations",
+
+            visible:
+                false,
+
+            projection:{
+                type:"mercator"
+            },
+
+            bgcolor:
+                "rgba(0,0,0,0)"
+        },
+
+        paper_bgcolor:
+            "rgba(0,0,0,0)",
+
+        font:{
+            family:
+                "Arial, sans-serif",
+
+            color:
+                "#183247"
+        }
+    };
+
+
+    Plotly.react(
+        element,
+        [trace],
+        layout,
+        {
+            responsive:true,
+            displayModeBar:false
+        }
+    );
+}
+
+
+/* =========================================================
+   LOS TRES MAPAS
+========================================================= */
+
+function updateMaps(){
+
+    const m =
+        mapData();
+
+
+    /*
+    DENGUE
+    */
+
+    drawMap(
+
+        "dengueMap",
+
+        m.locations,
+
+        m.dengue,
+
+        m.hover,
+
+        [
+            [0,"#fff4df"],
+            [.15,"#fed9a6"],
+            [.35,"#fdae6b"],
+            [.55,"#f16945"],
+            [.75,"#d7301f"],
+            [1,"#8c0d13"]
+        ],
+
+        "Casos"
+    );
+
+
+    /*
+    TEMPERATURA
+    */
+
+    drawMap(
+
+        "temperatureMap",
+
+        m.locations,
+
+        m.temperature,
+
+        m.hover,
+
+        [
+            [0,"#2b8cbe"],
+            [.2,"#7bccc4"],
+            [.4,"#bae4bc"],
+            [.55,"#ffff8c"],
+            [.7,"#feb24c"],
+            [.85,"#f03b20"],
+            [1,"#bd0026"]
+        ],
+
+        "°C"
+    );
+
+
+    /*
+    PRECIPITACIÓN
+    */
+
+    drawMap(
+
+        "rainMap",
+
+        m.locations,
+
+        m.rain,
+
+        m.hover,
+
+        [
+            [0,"#edf8fb"],
+            [.2,"#b2e2e2"],
+            [.4,"#66c2a4"],
+            [.6,"#2ca25f"],
+            [.8,"#2b8cbe"],
+            [1,"#253494"]
+        ],
+
+        "mm"
+    );
+
+
+    const week =
+        selectedWeek();
+
+
+    document.getElementById(
+        "dengueSubtitle"
+    ).textContent =
+        `Casos confirmados nuevos · Semana ${week}`;
+
+
+    document.getElementById(
+        "temperatureSubtitle"
+    ).textContent =
+        `Temperatura media semanal (°C) · Semana ${week}`;
+
+
+    document.getElementById(
+        "rainSubtitle"
+    ).textContent =
+        `Precipitación semanal (mm) · Semana ${week}`;
+}
+
+
+/* =========================================================
+   AGREGACIÓN TEMPORAL
+========================================================= */
+
+function temporalSeries(rows){
+
+    const weeks =
+    [...new Set(
+        rows.map(
+            d => d.SEMANA
+        )
+    )]
+    .sort(
+        (a,b) => a-b
+    );
+
+
+    return weeks.map(
+        week => {
+
+
+            const subset =
+            rows.filter(
+                d =>
+                d.SEMANA === week
+            );
+
+
+            return {
+
+                week,
+
+                cases:
+                subset.reduce(
+                    (sum,d) =>
+                    sum +
+                    (
+                        d.TOTAL_CONFIRMADOS_SEMANA
+                        || 0
+                    ),
+                    0
+                ),
+
+                tmin:
+                average(
+                    subset.map(
+                        d =>
+                        d.TEMPERATURA_MIN_C
+                    )
+                ),
+
+                tmean:
+                average(
+                    subset.map(
+                        d =>
+                        d.TEMPERATURA_MEDIA_C
+                    )
+                ),
+
+                tmax:
+                average(
+                    subset.map(
+                        d =>
+                        d.TEMPERATURA_MAX_C
+                    )
+                ),
+
+                rain:
+                average(
+                    subset.map(
+                        d =>
+                        d.PRECIPITACION_MM
+                    )
+                )
+
+            };
+
+        }
+    );
+}
+
+
+/* =========================================================
+   SERIE DENGUE
+========================================================= */
+
+function updateEpiChart(){
+
+    const series =
+        temporalSeries(
+            currentSeriesRows()
+        );
+
+
+    const trace = {
+
+        x:
+        series.map(
+            d => d.week
+        ),
+
+        y:
+        series.map(
+            d => d.cases
+        ),
+
+        type:
+            "scatter",
+
+        mode:
+            "lines",
+
+        line:{
+            color:"#176b87",
+            width:2.5
+        },
+
+        fill:
+            "tozeroy",
+
+        fillcolor:
+            "rgba(23,107,135,.12)",
+
+        hovertemplate:
+            "Semana %{x}<br>" +
+            "Casos: %{y:,}" +
+            "<extra></extra>"
+    };
+
+
+    drawSeriesChart(
+        "epiChart",
+        trace,
+        "Casos"
+    );
+}
+
+
+/* =========================================================
+   SERIE CLIMÁTICA
+========================================================= */
+
+function updateClimateChart(){
+
+    const series =
+        temporalSeries(
+            currentSeriesRows()
+        );
+
+
+    const variable =
+        climateSelect.value;
+
+
+    const configuration = {
+
+        TEMPERATURA_MEDIA_C:{
+
+            key:"tmean",
+
+            label:
+                "Temperatura media",
+
+            unit:"°C",
+
+            color:"#e76f51",
+
+            type:"scatter"
+        },
+
+
+        TEMPERATURA_MIN_C:{
+
+            key:"tmin",
+
+            label:
+                "Temperatura mínima",
+
+            unit:"°C",
+
+            color:"#2a9d8f",
+
+            type:"scatter"
+        },
+
+
+        TEMPERATURA_MAX_C:{
+
+            key:"tmax",
+
+            label:
+                "Temperatura máxima",
+
+            unit:"°C",
+
+            color:"#d7301f",
+
+            type:"scatter"
+        },
+
+
+        PRECIPITACION_MM:{
+
+            key:"rain",
+
+            label:
+                "Precipitación",
+
+            unit:"mm",
+
+            color:"#2b8cbe",
+
+            type:"bar"
+        }
+
+    };
+
+
+    const c =
+        configuration[
+            variable
+        ];
+
+
+    const trace = {
+
+        x:
+        series.map(
+            d => d.week
+        ),
+
+        y:
+        series.map(
+            d => d[c.key]
+        ),
+
+        type:
+            c.type,
+
+        mode:
+            "lines",
+
+        line:{
+            color:c.color,
+            width:2.5
+        },
+
+        marker:{
+            color:c.color
+        },
+
+        hovertemplate:
+            `Semana %{x}<br>` +
+            `${c.label}: %{y:.1f} ${c.unit}` +
+            "<extra></extra>"
+    };
+
+
+    drawSeriesChart(
+        "climateChart",
+        trace,
+        c.unit
+    );
+
+
+    document.getElementById(
+        "climateChartSubtitle"
+    ).textContent =
+
+        `${c.label} semanal · ${
+            selectedState() === "TODOS"
+            ?
+            "promedio de estados"
+            :
+            selectedState()
+        }`;
+}
+
+
+/* =========================================================
+   GRÁFICA GENERAL
+========================================================= */
+
+function drawSeriesChart(
+    element,
+    trace,
+    yTitle
+){
+
+    const week =
+        selectedWeek();
+
+
+    const layout = {
+
+        margin:{
+            l:55,
+            r:12,
+            t:8,
+            b:42
+        },
+
+        xaxis:{
+
+            title:
+                "Semana epidemiológica",
+
+            gridcolor:
+                "#edf1f4",
+
+            dtick:5
+        },
+
+        yaxis:{
+
+            title:
+                yTitle,
+
+            gridcolor:
+                "#edf1f4",
+
+            rangemode:
+                "tozero"
+        },
+
+        shapes:[{
+
+            type:"line",
+
+            x0:week,
+            x1:week,
+
+            y0:0,
+            y1:1,
+
+            yref:"paper",
+
+            line:{
+                color:"#e76f51",
+                width:1.5,
+                dash:"dot"
+            }
+
+        }],
+
+        paper_bgcolor:
+            "rgba(0,0,0,0)",
+
+        plot_bgcolor:
+            "rgba(0,0,0,0)",
+
+        showlegend:false,
+
+        font:{
+            size:10,
+            color:"#435968"
+        }
+    };
+
+
+    Plotly.react(
+        element,
+        [trace],
+        layout,
+        {
+            responsive:true,
+            displayModeBar:false
+        }
+    );
+}
+
+
+/* =========================================================
+   ACTUALIZACIÓN
+========================================================= */
+
+function updateDashboard(){
+
+    updateKPIs();
+
+    updateMaps();
+
+    updateEpiChart();
+
+    updateClimateChart();
+}
+
+
+/* =========================================================
+   EVENTOS
+========================================================= */
+
+stateSelect.addEventListener(
+    "change",
+    updateDashboard
+);
+
+
+weekSelect.addEventListener(
+    "change",
+    updateDashboard
+);
+
+
+climateSelect.addEventListener(
+    "change",
+    updateClimateChart
+);
+
+
+document
+.getElementById(
+    "resetButton"
+)
+.addEventListener(
+    "click",
+    () => {
+
+        stateSelect.value =
+            "TODOS";
+
+
+        weekSelect.value =
+            Math.max(
+                ...DATA.map(
+                    d => d.SEMANA
+                )
+            );
+
+
+        climateSelect.value =
+            "TEMPERATURA_MEDIA_C";
+
+
+        updateDashboard();
+
+    }
+);
+
+
+/* =========================================================
+   INICIO
+========================================================= */
+
+loadData();
+
+</script>
+
+</body>
+</html>

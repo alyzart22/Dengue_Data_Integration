@@ -1,0 +1,1665 @@
+ESTADO,ESTADO_NORM,SEMANA,FECHA,TEMPERATURA_MIN_C,TEMPERATURA_MEDIA_C,TEMPERATURA_MAX_C,PRECIPITACION_MM
+Aguascalientes,aguascalientes,1,2025-01-05,5.474,14.052,23.111,0.14
+Aguascalientes,aguascalientes,2,2025-01-12,6.991,12.879,21.456,11.149
+Aguascalientes,aguascalientes,3,2025-01-19,6.551,14.674,23.368,0.04
+Aguascalientes,aguascalientes,4,2025-01-26,3.104,13.241,23.481,0.012
+Aguascalientes,aguascalientes,5,2025-02-02,6.379,15.787,24.999,0.047
+Aguascalientes,aguascalientes,6,2025-02-09,7.417,16.842,25.84,0.01
+Aguascalientes,aguascalientes,7,2025-02-16,7.099,16.847,26.16,0.071
+Aguascalientes,aguascalientes,8,2025-02-23,7.957,17.506,25.679,0.45
+Aguascalientes,aguascalientes,9,2025-03-02,5.738,18.356,28.446,0.044
+Aguascalientes,aguascalientes,10,2025-03-09,6.823,18.258,28.364,0.0
+Aguascalientes,aguascalientes,11,2025-03-16,5.115,16.872,27.251,0.01
+Aguascalientes,aguascalientes,12,2025-03-23,6.899,18.07,28.153,0.224
+Aguascalientes,aguascalientes,13,2025-03-30,8.246,19.051,29.152,0.01
+Aguascalientes,aguascalientes,14,2025-04-06,8.981,19.562,29.942,0.01
+Aguascalientes,aguascalientes,15,2025-04-13,5.54,17.403,28.287,0.01
+Aguascalientes,aguascalientes,16,2025-04-20,9.993,20.997,30.548,0.01
+Aguascalientes,aguascalientes,17,2025-04-27,11.117,21.534,31.289,0.038
+Aguascalientes,aguascalientes,18,2025-05-04,12.31,22.374,30.89,0.546
+Aguascalientes,aguascalientes,19,2025-05-11,11.498,21.183,32.175,0.262
+Aguascalientes,aguascalientes,20,2025-05-18,12.082,24.192,33.478,0.051
+Aguascalientes,aguascalientes,21,2025-05-25,15.707,23.238,32.652,13.011
+Aguascalientes,aguascalientes,22,2025-06-01,15.082,21.261,29.722,29.701
+Aguascalientes,aguascalientes,23,2025-06-08,13.59,21.838,31.755,6.676
+Aguascalientes,aguascalientes,24,2025-06-15,14.297,20.799,31.371,28.87
+Aguascalientes,aguascalientes,25,2025-06-22,12.65,18.028,26.243,54.516
+Aguascalientes,aguascalientes,26,2025-06-29,12.889,17.729,24.987,32.144
+Aguascalientes,aguascalientes,27,2025-07-06,13.628,18.811,26.013,62.946
+Aguascalientes,aguascalientes,28,2025-07-13,12.459,17.263,23.0,66.26
+Aguascalientes,aguascalientes,29,2025-07-20,12.6,17.245,23.454,63.388
+Aguascalientes,aguascalientes,30,2025-07-27,11.588,18.647,26.011,12.9
+Aguascalientes,aguascalientes,31,2025-08-03,11.907,18.65,26.764,7.275
+Aguascalientes,aguascalientes,32,2025-08-10,12.668,19.457,27.512,22.038
+Aguascalientes,aguascalientes,33,2025-08-17,12.566,19.145,26.309,41.83
+Aguascalientes,aguascalientes,34,2025-08-24,12.439,18.815,27.063,66.076
+Aguascalientes,aguascalientes,35,2025-08-31,11.986,18.008,25.217,45.398
+Aguascalientes,aguascalientes,36,2025-09-07,13.448,18.359,24.282,49.124
+Aguascalientes,aguascalientes,37,2025-09-14,13.788,18.17,23.914,40.552
+Aguascalientes,aguascalientes,38,2025-09-21,13.482,18.621,26.422,15.715
+Aguascalientes,aguascalientes,39,2025-09-28,12.796,19.198,27.94,24.031
+Aguascalientes,aguascalientes,40,2025-10-05,9.638,17.729,24.557,10.432
+Aguascalientes,aguascalientes,41,2025-10-12,11.854,17.234,24.718,30.389
+Aguascalientes,aguascalientes,42,2025-10-19,9.565,18.078,26.789,0.517
+Aguascalientes,aguascalientes,43,2025-10-26,8.888,18.2,27.084,0.01
+Aguascalientes,aguascalientes,44,2025-11-02,8.985,18.267,27.68,0.031
+Aguascalientes,aguascalientes,45,2025-11-09,5.116,16.225,25.607,0.0
+Aguascalientes,aguascalientes,46,2025-11-16,5.7,15.726,26.489,0.183
+Aguascalientes,aguascalientes,47,2025-11-23,9.335,17.921,25.719,0.245
+Aguascalientes,aguascalientes,48,2025-11-30,8.402,16.219,24.514,0.211
+Aguascalientes,aguascalientes,49,2025-12-07,8.774,15.835,23.636,1.593
+Aguascalientes,aguascalientes,50,2025-12-14,7.851,15.151,23.467,4.775
+Aguascalientes,aguascalientes,51,2025-12-21,4.901,13.998,23.278,0.314
+Aguascalientes,aguascalientes,52,2025-12-28,5.685,14.77,23.484,0.326
+Baja California,baja california,1,2025-01-05,7.369,14.798,23.319,0.003
+Baja California,baja california,2,2025-01-12,5.214,12.684,21.494,0.661
+Baja California,baja california,3,2025-01-19,3.424,10.606,19.017,0.099
+Baja California,baja california,4,2025-01-26,4.646,12.149,20.613,0.625
+Baja California,baja california,5,2025-02-02,3.719,11.863,25.689,2.077
+Baja California,baja california,6,2025-02-09,8.501,16.579,26.064,0.266
+Baja California,baja california,7,2025-02-16,5.906,13.047,21.939,2.98
+Baja California,baja california,8,2025-02-23,8.175,15.998,24.934,0.022
+Baja California,baja california,9,2025-03-02,8.517,17.775,27.595,0.147
+Baja California,baja california,10,2025-03-09,4.627,12.396,22.193,6.103
+Baja California,baja california,11,2025-03-16,6.145,12.814,22.795,19.631
+Baja California,baja california,12,2025-03-23,7.682,16.38,25.672,0.14
+Baja California,baja california,13,2025-03-30,9.159,17.862,28.035,0.276
+Baja California,baja california,14,2025-04-06,5.658,14.365,25.705,1.992
+Baja California,baja california,15,2025-04-13,11.431,21.959,31.589,0.034
+Baja California,baja california,16,2025-04-20,9.024,16.347,26.516,0.392
+Baja California,baja california,17,2025-04-27,8.577,16.456,25.356,0.424
+Baja California,baja california,18,2025-05-04,9.172,17.225,25.882,0.852
+Baja California,baja california,19,2025-05-11,9.67,20.681,34.191,0.462
+Baja California,baja california,20,2025-05-18,10.492,18.96,30.725,0.253
+Baja California,baja california,21,2025-05-25,12.058,22.091,31.569,0.077
+Baja California,baja california,22,2025-06-01,13.433,21.57,30.355,6.364
+Baja California,baja california,23,2025-06-08,14.829,21.466,31.715,1.393
+Baja California,baja california,24,2025-06-15,16.396,24.828,35.565,0.159
+Baja California,baja california,25,2025-06-22,14.406,25.757,35.982,0.102
+Baja California,baja california,26,2025-06-29,14.347,24.41,34.145,0.05
+Baja California,baja california,27,2025-07-06,18.039,26.561,34.921,0.064
+Baja California,baja california,28,2025-07-13,19.256,27.654,35.778,0.256
+Baja California,baja california,29,2025-07-20,17.918,24.898,32.253,0.686
+Baja California,baja california,30,2025-07-27,16.464,25.213,33.795,0.118
+Baja California,baja california,31,2025-08-03,18.951,27.644,36.082,0.058
+Baja California,baja california,32,2025-08-10,20.917,29.105,37.624,0.487
+Baja California,baja california,33,2025-08-17,18.234,26.543,34.35,0.398
+Baja California,baja california,34,2025-08-24,19.816,28.915,36.13,1.319
+Baja California,baja california,35,2025-08-31,21.612,27.43,35.362,8.749
+Baja California,baja california,36,2025-09-07,21.667,27.255,34.783,12.485
+Baja California,baja california,37,2025-09-14,15.814,24.452,33.073,0.082
+Baja California,baja california,38,2025-09-21,20.353,26.369,32.928,9.362
+Baja California,baja california,39,2025-09-28,16.212,24.621,33.905,2.52
+Baja California,baja california,40,2025-10-05,13.634,22.469,31.079,0.06
+Baja California,baja california,41,2025-10-12,14.693,23.649,31.234,1.964
+Baja California,baja california,42,2025-10-19,11.519,18.701,28.348,0.749
+Baja California,baja california,43,2025-10-26,12.604,21.405,29.874,0.211
+Baja California,baja california,44,2025-11-02,14.789,22.704,31.055,0.016
+Baja California,baja california,45,2025-11-09,13.365,20.822,28.525,0.032
+Baja California,baja california,46,2025-11-16,12.4,20.434,29.529,6.374
+Baja California,baja california,47,2025-11-23,7.459,13.32,19.724,30.259
+Baja California,baja california,48,2025-11-30,9.227,15.479,23.074,0.007
+Baja California,baja california,49,2025-12-07,6.724,13.591,22.118,0.401
+Baja California,baja california,50,2025-12-14,10.764,17.816,25.764,0.001
+Baja California,baja california,51,2025-12-21,11.203,18.374,26.329,0.018
+Baja California,baja california,52,2025-12-28,9.033,16.377,24.592,9.607
+Baja California Sur,baja california sur,1,2025-01-05,11.06,18.107,26.45,0.004
+Baja California Sur,baja california sur,2,2025-01-12,8.138,15.578,25.083,0.535
+Baja California Sur,baja california sur,3,2025-01-19,8.143,15.198,23.277,0.043
+Baja California Sur,baja california sur,4,2025-01-26,9.554,16.738,25.842,0.028
+Baja California Sur,baja california sur,5,2025-02-02,7.709,15.628,27.316,0.013
+Baja California Sur,baja california sur,6,2025-02-09,10.685,18.651,27.663,0.043
+Baja California Sur,baja california sur,7,2025-02-16,9.332,17.304,26.268,0.059
+Baja California Sur,baja california sur,8,2025-02-23,10.941,18.558,28.424,0.009
+Baja California Sur,baja california sur,9,2025-03-02,11.609,20.344,29.617,0.015
+Baja California Sur,baja california sur,10,2025-03-09,9.096,17.028,26.608,0.027
+Baja California Sur,baja california sur,11,2025-03-16,9.635,17.19,27.736,0.205
+Baja California Sur,baja california sur,12,2025-03-23,11.647,20.169,29.821,0.013
+Baja California Sur,baja california sur,13,2025-03-30,11.944,19.4,28.632,0.055
+Baja California Sur,baja california sur,14,2025-04-06,9.464,18.078,30.434,0.058
+Baja California Sur,baja california sur,15,2025-04-13,14.258,23.778,33.918,0.011
+Baja California Sur,baja california sur,16,2025-04-20,12.181,20.721,30.784,0.052
+Baja California Sur,baja california sur,17,2025-04-27,12.164,19.489,28.377,0.022
+Baja California Sur,baja california sur,18,2025-05-04,12.24,19.828,28.487,0.048
+Baja California Sur,baja california sur,19,2025-05-11,11.422,21.402,33.821,0.166
+Baja California Sur,baja california sur,20,2025-05-18,14.172,22.129,32.318,0.026
+Baja California Sur,baja california sur,21,2025-05-25,13.601,22.864,33.246,0.04
+Baja California Sur,baja california sur,22,2025-06-01,14.191,23.101,31.863,3.896
+Baja California Sur,baja california sur,23,2025-06-08,15.122,22.91,33.194,0.067
+Baja California Sur,baja california sur,24,2025-06-15,16.598,24.835,34.441,0.041
+Baja California Sur,baja california sur,25,2025-06-22,16.849,25.269,35.171,0.157
+Baja California Sur,baja california sur,26,2025-06-29,17.133,25.526,35.016,0.103
+Baja California Sur,baja california sur,27,2025-07-06,19.677,26.754,35.498,2.772
+Baja California Sur,baja california sur,28,2025-07-13,20.37,26.841,34.359,1.489
+Baja California Sur,baja california sur,29,2025-07-20,19.087,25.71,32.914,1.721
+Baja California Sur,baja california sur,30,2025-07-27,18.087,26.544,36.048,0.098
+Baja California Sur,baja california sur,31,2025-08-03,21.635,28.55,36.242,0.888
+Baja California Sur,baja california sur,32,2025-08-10,21.851,28.527,37.265,5.504
+Baja California Sur,baja california sur,33,2025-08-17,21.999,27.831,35.316,5.711
+Baja California Sur,baja california sur,34,2025-08-24,22.546,28.857,36.356,4.472
+Baja California Sur,baja california sur,35,2025-08-31,23.541,28.592,35.371,18.979
+Baja California Sur,baja california sur,36,2025-09-07,23.374,27.215,34.501,54.743
+Baja California Sur,baja california sur,37,2025-09-14,22.159,27.159,33.565,4.199
+Baja California Sur,baja california sur,38,2025-09-21,23.614,27.949,33.791,23.307
+Baja California Sur,baja california sur,39,2025-09-28,20.853,27.557,36.07,10.428
+Baja California Sur,baja california sur,40,2025-10-05,19.117,26.323,34.236,0.182
+Baja California Sur,baja california sur,41,2025-10-12,19.77,26.414,34.026,8.032
+Baja California Sur,baja california sur,42,2025-10-19,16.82,22.66,30.798,0.942
+Baja California Sur,baja california sur,43,2025-10-26,17.819,24.936,33.246,0.033
+Baja California Sur,baja california sur,44,2025-11-02,17.693,24.783,33.279,0.029
+Baja California Sur,baja california sur,45,2025-11-09,16.567,24.054,32.42,0.012
+Baja California Sur,baja california sur,46,2025-11-16,16.794,23.427,31.034,0.033
+Baja California Sur,baja california sur,47,2025-11-23,12.957,19.502,26.353,1.612
+Baja California Sur,baja california sur,48,2025-11-30,13.87,20.038,27.593,0.185
+Baja California Sur,baja california sur,49,2025-12-07,13.532,19.068,26.17,14.23
+Baja California Sur,baja california sur,50,2025-12-14,13.295,20.281,27.973,0.002
+Baja California Sur,baja california sur,51,2025-12-21,13.471,20.775,29.371,0.024
+Baja California Sur,baja california sur,52,2025-12-28,15.025,22.002,29.171,2.154
+Campeche,campeche,1,2025-01-05,18.207,23.708,29.02,4.917
+Campeche,campeche,2,2025-01-12,19.022,24.239,31.267,4.022
+Campeche,campeche,3,2025-01-19,20.115,25.487,33.294,2.399
+Campeche,campeche,4,2025-01-26,16.678,22.388,29.184,9.38
+Campeche,campeche,5,2025-02-02,19.631,25.467,32.583,4.303
+Campeche,campeche,6,2025-02-09,20.328,25.83,32.311,2.516
+Campeche,campeche,7,2025-02-16,20.964,26.659,33.92,4.468
+Campeche,campeche,8,2025-02-23,20.312,25.576,34.014,25.237
+Campeche,campeche,9,2025-03-02,16.248,24.882,32.789,1.503
+Campeche,campeche,10,2025-03-09,21.671,27.769,37.007,0.637
+Campeche,campeche,11,2025-03-16,18.927,27.618,39.149,3.001
+Campeche,campeche,12,2025-03-23,19.722,26.648,35.266,1.474
+Campeche,campeche,13,2025-03-30,23.218,28.793,36.92,0.776
+Campeche,campeche,14,2025-04-06,24.609,30.351,37.972,0.382
+Campeche,campeche,15,2025-04-13,18.342,25.249,33.581,7.613
+Campeche,campeche,16,2025-04-20,20.808,27.965,36.219,0.694
+Campeche,campeche,17,2025-04-27,23.266,29.135,36.442,0.515
+Campeche,campeche,18,2025-05-04,23.66,29.875,38.589,0.876
+Campeche,campeche,19,2025-05-11,23.611,30.622,39.828,17.391
+Campeche,campeche,20,2025-05-18,21.864,30.102,38.411,0.412
+Campeche,campeche,21,2025-05-25,25.652,31.685,39.8,1.096
+Campeche,campeche,22,2025-06-01,25.755,31.558,39.071,1.278
+Campeche,campeche,23,2025-06-08,24.908,30.178,38.212,18.182
+Campeche,campeche,24,2025-06-15,25.779,30.539,37.428,5.246
+Campeche,campeche,25,2025-06-22,23.675,27.972,35.517,31.035
+Campeche,campeche,26,2025-06-29,23.129,26.39,33.664,71.289
+Campeche,campeche,27,2025-07-06,23.836,28.66,35.245,2.213
+Campeche,campeche,28,2025-07-13,24.262,28.766,35.034,11.728
+Campeche,campeche,29,2025-07-20,24.517,29.752,36.646,4.532
+Campeche,campeche,30,2025-07-27,23.929,28.815,36.307,12.899
+Campeche,campeche,31,2025-08-03,23.449,27.889,34.692,34.749
+Campeche,campeche,32,2025-08-10,23.14,28.142,35.243,30.024
+Campeche,campeche,33,2025-08-17,23.772,28.22,35.489,20.33
+Campeche,campeche,34,2025-08-24,23.648,28.786,35.924,17.336
+Campeche,campeche,35,2025-08-31,24.121,28.134,35.626,40.854
+Campeche,campeche,36,2025-09-07,23.996,29.292,36.406,10.111
+Campeche,campeche,37,2025-09-14,23.089,27.41,34.407,61.418
+Campeche,campeche,38,2025-09-21,23.084,26.173,32.108,66.225
+Campeche,campeche,39,2025-09-28,23.582,27.314,33.84,36.524
+Campeche,campeche,40,2025-10-05,22.804,26.632,32.32,49.105
+Campeche,campeche,41,2025-10-12,21.129,25.692,31.966,49.915
+Campeche,campeche,42,2025-10-19,21.526,26.221,32.552,16.23
+Campeche,campeche,43,2025-10-26,22.0,26.495,32.676,13.881
+Campeche,campeche,44,2025-11-02,17.918,25.361,31.749,4.08
+Campeche,campeche,45,2025-11-09,20.069,25.696,32.853,12.222
+Campeche,campeche,46,2025-11-16,17.473,23.465,30.301,17.668
+Campeche,campeche,47,2025-11-23,21.3,26.16,31.976,0.661
+Campeche,campeche,48,2025-11-30,19.364,25.492,31.841,4.606
+Campeche,campeche,49,2025-12-07,20.995,26.374,32.785,1.202
+Campeche,campeche,50,2025-12-14,21.16,24.734,30.778,34.085
+Campeche,campeche,51,2025-12-21,19.576,24.65,30.443,8.032
+Campeche,campeche,52,2025-12-28,19.396,24.54,30.0,7.478
+Chiapas,chiapas,1,2025-01-05,15.809,20.437,26.686,14.546
+Chiapas,chiapas,2,2025-01-12,15.831,21.022,28.411,16.98
+Chiapas,chiapas,3,2025-01-19,14.71,20.933,28.888,10.359
+Chiapas,chiapas,4,2025-01-26,14.281,18.887,26.129,23.205
+Chiapas,chiapas,5,2025-02-02,16.165,21.674,29.191,8.749
+Chiapas,chiapas,6,2025-02-09,16.853,21.752,27.77,8.723
+Chiapas,chiapas,7,2025-02-16,16.629,22.591,29.713,5.979
+Chiapas,chiapas,8,2025-02-23,17.075,21.528,29.018,32.726
+Chiapas,chiapas,9,2025-03-02,14.818,21.849,29.5,6.055
+Chiapas,chiapas,10,2025-03-09,16.595,23.318,31.427,3.074
+Chiapas,chiapas,11,2025-03-16,15.663,23.051,32.538,8.291
+Chiapas,chiapas,12,2025-03-23,16.043,22.312,31.242,15.966
+Chiapas,chiapas,13,2025-03-30,18.039,24.243,31.852,3.781
+Chiapas,chiapas,14,2025-04-06,18.776,25.38,32.508,4.0
+Chiapas,chiapas,15,2025-04-13,15.374,20.611,27.759,31.321
+Chiapas,chiapas,16,2025-04-20,16.731,23.745,32.041,2.496
+Chiapas,chiapas,17,2025-04-27,18.128,24.523,30.973,10.421
+Chiapas,chiapas,18,2025-05-04,18.304,25.081,32.402,6.945
+Chiapas,chiapas,19,2025-05-11,19.479,25.569,33.513,23.068
+Chiapas,chiapas,20,2025-05-18,18.148,25.839,33.433,3.279
+Chiapas,chiapas,21,2025-05-25,20.784,26.587,34.003,18.263
+Chiapas,chiapas,22,2025-06-01,20.722,25.876,32.414,25.185
+Chiapas,chiapas,23,2025-06-08,19.97,24.267,31.415,87.77
+Chiapas,chiapas,24,2025-06-15,19.855,24.034,29.688,58.445
+Chiapas,chiapas,25,2025-06-22,19.628,22.689,27.949,109.526
+Chiapas,chiapas,26,2025-06-29,19.247,22.447,27.781,84.795
+Chiapas,chiapas,27,2025-07-06,18.501,23.483,29.236,27.091
+Chiapas,chiapas,28,2025-07-13,18.715,23.256,28.881,36.161
+Chiapas,chiapas,29,2025-07-20,18.708,24.053,29.75,11.442
+Chiapas,chiapas,30,2025-07-27,19.274,23.858,29.705,34.091
+Chiapas,chiapas,31,2025-08-03,18.796,23.094,28.947,48.757
+Chiapas,chiapas,32,2025-08-10,18.848,23.424,29.216,43.732
+Chiapas,chiapas,33,2025-08-17,18.653,23.761,29.832,36.461
+Chiapas,chiapas,34,2025-08-24,19.221,23.586,28.976,41.623
+Chiapas,chiapas,35,2025-08-31,19.429,23.292,29.118,69.463
+Chiapas,chiapas,36,2025-09-07,19.056,24.1,30.004,28.807
+Chiapas,chiapas,37,2025-09-14,19.169,22.815,28.672,82.754
+Chiapas,chiapas,38,2025-09-21,19.554,22.004,27.191,156.625
+Chiapas,chiapas,39,2025-09-28,18.981,22.942,28.943,63.088
+Chiapas,chiapas,40,2025-10-05,19.077,22.366,27.02,65.266
+Chiapas,chiapas,41,2025-10-12,18.593,22.227,27.651,80.512
+Chiapas,chiapas,42,2025-10-19,17.904,22.044,27.332,32.498
+Chiapas,chiapas,43,2025-10-26,17.776,22.29,27.838,29.765
+Chiapas,chiapas,44,2025-11-02,16.086,21.357,27.35,10.496
+Chiapas,chiapas,45,2025-11-09,16.427,21.471,27.846,8.676
+Chiapas,chiapas,46,2025-11-16,14.148,19.718,26.673,48.675
+Chiapas,chiapas,47,2025-11-23,16.714,21.975,27.501,5.585
+Chiapas,chiapas,48,2025-11-30,16.374,21.295,27.519,9.793
+Chiapas,chiapas,49,2025-12-07,16.565,21.77,27.832,3.981
+Chiapas,chiapas,50,2025-12-14,17.452,21.067,26.266,63.856
+Chiapas,chiapas,51,2025-12-21,15.316,20.693,26.984,20.239
+Chiapas,chiapas,52,2025-12-28,16.121,20.594,26.074,19.457
+Chihuahua,chihuahua,1,2025-01-05,3.136,12.831,23.953,0.004
+Chihuahua,chihuahua,2,2025-01-12,-6.522,4.369,18.501,13.057
+Chihuahua,chihuahua,3,2025-01-19,-3.092,7.498,18.436,1.055
+Chihuahua,chihuahua,4,2025-01-26,-5.57,5.838,20.874,0.064
+Chihuahua,chihuahua,5,2025-02-02,-1.251,9.951,23.46,0.022
+Chihuahua,chihuahua,6,2025-02-09,5.224,16.69,27.415,0.01
+Chihuahua,chihuahua,7,2025-02-16,2.965,13.543,24.989,0.195
+Chihuahua,chihuahua,8,2025-02-23,1.056,12.478,24.131,0.004
+Chihuahua,chihuahua,9,2025-03-02,3.7,15.693,26.861,0.01
+Chihuahua,chihuahua,10,2025-03-09,0.863,12.859,25.462,0.322
+Chihuahua,chihuahua,11,2025-03-16,1.291,12.905,25.291,0.366
+Chihuahua,chihuahua,12,2025-03-23,2.55,15.71,28.387,0.015
+Chihuahua,chihuahua,13,2025-03-30,7.286,18.432,27.99,1.697
+Chihuahua,chihuahua,14,2025-04-06,-0.036,14.602,28.959,2.855
+Chihuahua,chihuahua,15,2025-04-13,1.413,18.401,31.386,0.013
+Chihuahua,chihuahua,16,2025-04-20,6.132,20.575,31.682,0.155
+Chihuahua,chihuahua,17,2025-04-27,8.458,20.836,31.493,0.018
+Chihuahua,chihuahua,18,2025-05-04,8.947,20.19,29.937,0.091
+Chihuahua,chihuahua,19,2025-05-11,7.937,18.477,29.797,1.229
+Chihuahua,chihuahua,20,2025-05-18,12.933,23.716,32.4,0.114
+Chihuahua,chihuahua,21,2025-05-25,12.404,24.569,34.354,0.127
+Chihuahua,chihuahua,22,2025-06-01,13.399,23.343,33.198,7.884
+Chihuahua,chihuahua,23,2025-06-08,15.054,25.885,36.157,1.703
+Chihuahua,chihuahua,24,2025-06-15,16.832,27.387,36.34,2.646
+Chihuahua,chihuahua,25,2025-06-22,19.167,27.643,37.123,12.575
+Chihuahua,chihuahua,26,2025-06-29,16.248,22.0,29.441,49.997
+Chihuahua,chihuahua,27,2025-07-06,15.965,21.837,31.107,43.682
+Chihuahua,chihuahua,28,2025-07-13,17.213,24.526,32.68,16.127
+Chihuahua,chihuahua,29,2025-07-20,16.539,23.376,30.898,21.839
+Chihuahua,chihuahua,30,2025-07-27,16.116,23.99,32.272,11.566
+Chihuahua,chihuahua,31,2025-08-03,16.907,24.575,33.258,16.771
+Chihuahua,chihuahua,32,2025-08-10,17.916,26.774,34.71,5.518
+Chihuahua,chihuahua,33,2025-08-17,17.314,23.818,32.132,31.341
+Chihuahua,chihuahua,34,2025-08-24,16.196,23.197,30.128,10.203
+Chihuahua,chihuahua,35,2025-08-31,16.537,23.51,30.857,22.123
+Chihuahua,chihuahua,36,2025-09-07,15.13,21.05,28.948,33.38
+Chihuahua,chihuahua,37,2025-09-14,15.123,22.71,30.365,8.639
+Chihuahua,chihuahua,38,2025-09-21,15.548,21.981,29.826,15.343
+Chihuahua,chihuahua,39,2025-09-28,15.01,22.43,30.963,14.278
+Chihuahua,chihuahua,40,2025-10-05,12.854,20.562,28.713,6.091
+Chihuahua,chihuahua,41,2025-10-12,14.235,21.423,29.276,13.196
+Chihuahua,chihuahua,42,2025-10-19,10.447,19.883,28.913,8.071
+Chihuahua,chihuahua,43,2025-10-26,8.994,19.117,29.4,1.334
+Chihuahua,chihuahua,44,2025-11-02,6.95,16.89,27.75,0.064
+Chihuahua,chihuahua,45,2025-11-09,7.297,17.26,27.176,0.0
+Chihuahua,chihuahua,46,2025-11-16,5.336,16.271,26.52,0.028
+Chihuahua,chihuahua,47,2025-11-23,4.483,14.157,23.126,5.467
+Chihuahua,chihuahua,48,2025-11-30,3.495,12.68,22.934,0.059
+Chihuahua,chihuahua,49,2025-12-07,3.702,11.917,20.91,1.862
+Chihuahua,chihuahua,50,2025-12-14,2.762,12.151,22.221,0.005
+Chihuahua,chihuahua,51,2025-12-21,3.738,13.26,24.345,0.017
+Chihuahua,chihuahua,52,2025-12-28,5.701,15.17,24.654,0.242
+Ciudad de México,ciudad de mexico,1,2025-01-05,4.173,10.415,18.705,5.919
+Ciudad de México,ciudad de mexico,2,2025-01-12,4.169,10.835,18.051,12.94
+Ciudad de México,ciudad de mexico,3,2025-01-19,3.305,11.8,19.509,3.842
+Ciudad de México,ciudad de mexico,4,2025-01-26,3.143,11.17,19.981,1.238
+Ciudad de México,ciudad de mexico,5,2025-02-02,4.937,12.855,21.276,5.046
+Ciudad de México,ciudad de mexico,6,2025-02-09,5.101,12.449,20.731,7.257
+Ciudad de México,ciudad de mexico,7,2025-02-16,4.897,13.423,20.906,6.327
+Ciudad de México,ciudad de mexico,8,2025-02-23,5.299,12.264,20.233,31.73
+Ciudad de México,ciudad de mexico,9,2025-03-02,5.367,14.125,22.9,5.311
+Ciudad de México,ciudad de mexico,10,2025-03-09,5.637,14.823,23.735,0.832
+Ciudad de México,ciudad de mexico,11,2025-03-16,5.493,15.3,24.197,0.043
+Ciudad de México,ciudad de mexico,12,2025-03-23,4.671,14.223,24.1,14.413
+Ciudad de México,ciudad de mexico,13,2025-03-30,5.676,14.919,23.983,1.605
+Ciudad de México,ciudad de mexico,14,2025-04-06,7.124,16.256,24.907,0.069
+Ciudad de México,ciudad de mexico,15,2025-04-13,3.299,13.834,23.067,0.927
+Ciudad de México,ciudad de mexico,16,2025-04-20,4.733,16.152,26.243,0.023
+Ciudad de México,ciudad de mexico,17,2025-04-27,8.164,17.587,25.724,2.213
+Ciudad de México,ciudad de mexico,18,2025-05-04,7.966,17.178,25.211,4.433
+Ciudad de México,ciudad de mexico,19,2025-05-11,9.251,17.173,27.177,13.663
+Ciudad de México,ciudad de mexico,20,2025-05-18,7.773,17.762,26.616,7.327
+Ciudad de México,ciudad de mexico,21,2025-05-25,10.632,17.243,25.961,23.679
+Ciudad de México,ciudad de mexico,22,2025-06-01,8.983,14.849,20.867,105.52
+Ciudad de México,ciudad de mexico,23,2025-06-08,10.029,15.519,22.293,26.445
+Ciudad de México,ciudad de mexico,24,2025-06-15,10.541,15.085,23.385,78.112
+Ciudad de México,ciudad de mexico,25,2025-06-22,10.043,13.237,17.915,110.565
+Ciudad de México,ciudad de mexico,26,2025-06-29,8.565,13.079,19.663,101.251
+Ciudad de México,ciudad de mexico,27,2025-07-06,8.225,14.311,21.493,55.914
+Ciudad de México,ciudad de mexico,28,2025-07-13,7.969,13.164,19.426,61.229
+Ciudad de México,ciudad de mexico,29,2025-07-20,8.707,13.842,19.845,64.891
+Ciudad de México,ciudad de mexico,30,2025-07-27,7.863,14.315,20.493,28.588
+Ciudad de México,ciudad de mexico,31,2025-08-03,7.726,13.443,19.864,53.595
+Ciudad de México,ciudad de mexico,32,2025-08-10,6.873,13.902,20.052,42.603
+Ciudad de México,ciudad de mexico,33,2025-08-17,7.631,13.745,20.159,69.537
+Ciudad de México,ciudad de mexico,34,2025-08-24,9.257,14.232,20.181,81.223
+Ciudad de México,ciudad de mexico,35,2025-08-31,9.553,14.347,20.208,68.91
+Ciudad de México,ciudad de mexico,36,2025-09-07,8.937,14.151,20.465,59.432
+Ciudad de México,ciudad de mexico,37,2025-09-14,10.296,14.109,19.568,71.048
+Ciudad de México,ciudad de mexico,38,2025-09-21,9.663,14.039,19.949,46.727
+Ciudad de México,ciudad de mexico,39,2025-09-28,8.815,14.392,19.791,94.383
+Ciudad de México,ciudad de mexico,40,2025-10-05,9.45,13.435,18.653,63.467
+Ciudad de México,ciudad de mexico,41,2025-10-12,9.583,13.256,19.555,84.618
+Ciudad de México,ciudad de mexico,42,2025-10-19,6.24,13.121,20.475,5.553
+Ciudad de México,ciudad de mexico,43,2025-10-26,6.383,13.324,21.019,1.733
+Ciudad de México,ciudad de mexico,44,2025-11-02,4.151,12.249,20.468,0.815
+Ciudad de México,ciudad de mexico,45,2025-11-09,3.984,11.921,20.245,0.131
+Ciudad de México,ciudad de mexico,46,2025-11-16,3.681,11.409,21.351,3.155
+Ciudad de México,ciudad de mexico,47,2025-11-23,4.967,13.472,21.507,0.511
+Ciudad de México,ciudad de mexico,48,2025-11-30,5.331,12.572,20.211,2.971
+Ciudad de México,ciudad de mexico,49,2025-12-07,6.375,13.204,19.932,3.45
+Ciudad de México,ciudad de mexico,50,2025-12-14,5.231,11.639,18.661,17.661
+Ciudad de México,ciudad de mexico,51,2025-12-21,3.793,10.825,18.173,5.071
+Ciudad de México,ciudad de mexico,52,2025-12-28,3.98,10.552,17.478,16.369
+Coahuila de Zaragoza,coahuila,1,2025-01-05,6.365,15.074,24.72,0.146
+Coahuila de Zaragoza,coahuila,2,2025-01-12,-1.23,6.411,20.559,5.227
+Coahuila de Zaragoza,coahuila,3,2025-01-19,0.602,11.071,24.789,0.146
+Coahuila de Zaragoza,coahuila,4,2025-01-26,-3.94,6.559,23.484,0.703
+Coahuila de Zaragoza,coahuila,5,2025-02-02,5.575,14.841,27.411,0.743
+Coahuila de Zaragoza,coahuila,6,2025-02-09,9.885,20.535,30.543,0.108
+Coahuila de Zaragoza,coahuila,7,2025-02-16,5.973,17.109,28.557,1.294
+Coahuila de Zaragoza,coahuila,8,2025-02-23,-0.735,10.616,27.023,0.375
+Coahuila de Zaragoza,coahuila,9,2025-03-02,7.284,18.597,30.732,0.118
+Coahuila de Zaragoza,coahuila,10,2025-03-09,6.687,19.638,32.317,0.027
+Coahuila de Zaragoza,coahuila,11,2025-03-16,6.239,19.678,31.777,0.011
+Coahuila de Zaragoza,coahuila,12,2025-03-23,6.541,19.493,32.889,0.026
+Coahuila de Zaragoza,coahuila,13,2025-03-30,12.812,21.483,31.727,9.178
+Coahuila de Zaragoza,coahuila,14,2025-04-06,5.926,22.415,35.288,2.767
+Coahuila de Zaragoza,coahuila,15,2025-04-13,5.241,20.799,34.042,0.023
+Coahuila de Zaragoza,coahuila,16,2025-04-20,14.789,25.265,35.153,0.689
+Coahuila de Zaragoza,coahuila,17,2025-04-27,14.231,24.204,33.639,3.857
+Coahuila de Zaragoza,coahuila,18,2025-05-04,15.464,24.54,34.765,8.469
+Coahuila de Zaragoza,coahuila,19,2025-05-11,13.072,22.196,33.242,10.75
+Coahuila de Zaragoza,coahuila,20,2025-05-18,14.729,28.695,38.218,2.077
+Coahuila de Zaragoza,coahuila,21,2025-05-25,20.043,28.204,36.952,5.778
+Coahuila de Zaragoza,coahuila,22,2025-06-01,18.837,25.709,36.403,19.977
+Coahuila de Zaragoza,coahuila,23,2025-06-08,21.021,28.355,36.976,2.718
+Coahuila de Zaragoza,coahuila,24,2025-06-15,20.138,27.977,36.003,6.543
+Coahuila de Zaragoza,coahuila,25,2025-06-22,20.415,27.278,36.349,4.971
+Coahuila de Zaragoza,coahuila,26,2025-06-29,19.877,26.299,33.336,5.749
+Coahuila de Zaragoza,coahuila,27,2025-07-06,19.484,24.278,31.509,40.21
+Coahuila de Zaragoza,coahuila,28,2025-07-13,19.363,25.391,32.853,17.145
+Coahuila de Zaragoza,coahuila,29,2025-07-20,19.229,25.336,33.365,21.311
+Coahuila de Zaragoza,coahuila,30,2025-07-27,19.962,26.901,34.369,9.832
+Coahuila de Zaragoza,coahuila,31,2025-08-03,18.923,27.206,34.683,1.458
+Coahuila de Zaragoza,coahuila,32,2025-08-10,21.162,28.277,35.74,1.053
+Coahuila de Zaragoza,coahuila,33,2025-08-17,21.452,27.772,34.539,6.304
+Coahuila de Zaragoza,coahuila,34,2025-08-24,19.623,25.995,34.351,12.748
+Coahuila de Zaragoza,coahuila,35,2025-08-31,20.154,26.718,34.558,7.917
+Coahuila de Zaragoza,coahuila,36,2025-09-07,19.329,25.702,33.339,26.501
+Coahuila de Zaragoza,coahuila,37,2025-09-14,17.978,23.712,29.95,12.585
+Coahuila de Zaragoza,coahuila,38,2025-09-21,17.898,23.669,31.642,6.696
+Coahuila de Zaragoza,coahuila,39,2025-09-28,18.319,25.513,33.478,2.03
+Coahuila de Zaragoza,coahuila,40,2025-10-05,15.503,23.275,30.667,0.663
+Coahuila de Zaragoza,coahuila,41,2025-10-12,17.124,23.292,31.111,2.534
+Coahuila de Zaragoza,coahuila,42,2025-10-19,15.876,23.783,32.59,0.482
+Coahuila de Zaragoza,coahuila,43,2025-10-26,14.514,23.32,32.571,1.0
+Coahuila de Zaragoza,coahuila,44,2025-11-02,7.924,18.915,31.243,0.034
+Coahuila de Zaragoza,coahuila,45,2025-11-09,9.127,19.61,30.27,0.003
+Coahuila de Zaragoza,coahuila,46,2025-11-16,6.683,18.509,29.813,0.01
+Coahuila de Zaragoza,coahuila,47,2025-11-23,12.757,20.706,29.509,2.969
+Coahuila de Zaragoza,coahuila,48,2025-11-30,9.224,16.849,26.667,3.558
+Coahuila de Zaragoza,coahuila,49,2025-12-07,7.709,14.989,25.496,2.691
+Coahuila de Zaragoza,coahuila,50,2025-12-14,6.068,15.011,25.411,1.007
+Coahuila de Zaragoza,coahuila,51,2025-12-21,6.396,14.992,26.92,0.249
+Coahuila de Zaragoza,coahuila,52,2025-12-28,9.629,18.561,27.401,0.162
+Colima,colima,1,2025-01-05,17.004,22.632,29.795,0.617
+Colima,colima,2,2025-01-12,16.759,21.835,29.338,17.058
+Colima,colima,3,2025-01-19,16.901,22.169,29.417,0.74
+Colima,colima,4,2025-01-26,15.428,22.664,31.365,0.21
+Colima,colima,5,2025-02-02,16.487,23.232,31.881,0.122
+Colima,colima,6,2025-02-09,17.704,23.72,31.785,1.368
+Colima,colima,7,2025-02-16,17.733,23.498,30.258,1.073
+Colima,colima,8,2025-02-23,17.609,23.806,30.92,2.002
+Colima,colima,9,2025-03-02,17.676,23.518,30.844,1.02
+Colima,colima,10,2025-03-09,17.387,23.701,31.063,0.209
+Colima,colima,11,2025-03-16,16.637,23.239,30.014,0.652
+Colima,colima,12,2025-03-23,17.162,23.876,31.604,0.018
+Colima,colima,13,2025-03-30,15.123,23.324,31.272,0.013
+Colima,colima,14,2025-04-06,16.28,23.176,31.254,0.014
+Colima,colima,15,2025-04-13,15.851,23.373,31.265,0.084
+Colima,colima,16,2025-04-20,16.856,24.344,32.825,0.017
+Colima,colima,17,2025-04-27,17.867,24.406,31.764,0.055
+Colima,colima,18,2025-05-04,18.267,25.148,32.43,1.827
+Colima,colima,19,2025-05-11,18.861,25.225,33.437,0.276
+Colima,colima,20,2025-05-18,20.217,26.329,34.522,1.446
+Colima,colima,21,2025-05-25,21.439,26.549,32.91,4.461
+Colima,colima,22,2025-06-01,21.666,26.066,33.326,16.517
+Colima,colima,23,2025-06-08,22.057,25.354,30.502,61.567
+Colima,colima,24,2025-06-15,21.055,24.654,30.082,69.479
+Colima,colima,25,2025-06-22,20.571,23.997,29.673,88.083
+Colima,colima,26,2025-06-29,20.018,24.453,30.432,67.366
+Colima,colima,27,2025-07-06,20.701,24.155,29.588,83.119
+Colima,colima,28,2025-07-13,20.653,24.716,30.232,30.577
+Colima,colima,29,2025-07-20,20.919,25.378,32.084,33.569
+Colima,colima,30,2025-07-27,21.972,25.671,31.965,35.662
+Colima,colima,31,2025-08-03,21.375,25.471,31.283,37.029
+Colima,colima,32,2025-08-10,20.331,24.755,30.325,57.585
+Colima,colima,33,2025-08-17,20.939,24.967,30.821,34.693
+Colima,colima,34,2025-08-24,21.167,24.932,30.045,45.62
+Colima,colima,35,2025-08-31,21.491,25.128,31.058,46.992
+Colima,colima,36,2025-09-07,20.589,24.665,30.39,40.581
+Colima,colima,37,2025-09-14,20.756,24.642,29.549,76.274
+Colima,colima,38,2025-09-21,20.855,24.503,29.638,61.701
+Colima,colima,39,2025-09-28,20.783,24.445,29.563,53.568
+Colima,colima,40,2025-10-05,20.515,24.27,29.012,47.388
+Colima,colima,41,2025-10-12,20.002,23.8,29.244,92.464
+Colima,colima,42,2025-10-19,19.811,24.048,29.148,40.597
+Colima,colima,43,2025-10-26,21.282,25.173,30.238,10.836
+Colima,colima,44,2025-11-02,20.126,24.783,29.419,13.269
+Colima,colima,45,2025-11-09,19.368,24.247,30.06,3.745
+Colima,colima,46,2025-11-16,19.114,24.572,31.842,1.685
+Colima,colima,47,2025-11-23,19.339,24.277,29.296,3.449
+Colima,colima,48,2025-11-30,18.479,24.272,30.537,3.179
+Colima,colima,49,2025-12-07,18.287,22.849,29.42,15.921
+Colima,colima,50,2025-12-14,19.173,23.623,30.099,4.062
+Colima,colima,51,2025-12-21,15.567,22.846,30.239,0.601
+Colima,colima,52,2025-12-28,17.344,23.442,31.366,0.93
+Durango,durango,1,2025-01-05,4.707,14.281,23.938,0.035
+Durango,durango,2,2025-01-12,-0.896,9.032,21.821,21.979
+Durango,durango,3,2025-01-19,1.112,11.535,22.297,0.175
+Durango,durango,4,2025-01-26,-1.452,9.678,22.615,0.05
+Durango,durango,5,2025-02-02,1.901,12.976,24.305,0.015
+Durango,durango,6,2025-02-09,5.057,16.233,26.459,0.01
+Durango,durango,7,2025-02-16,4.016,15.094,25.885,0.252
+Durango,durango,8,2025-02-23,4.597,15.116,25.396,0.12
+Durango,durango,9,2025-03-02,4.965,16.795,28.347,0.011
+Durango,durango,10,2025-03-09,2.993,16.0,27.686,0.073
+Durango,durango,11,2025-03-16,2.739,15.135,27.081,0.01
+Durango,durango,12,2025-03-23,5.123,16.728,28.882,0.035
+Durango,durango,13,2025-03-30,7.05,17.998,28.769,0.564
+Durango,durango,14,2025-04-06,4.188,17.016,30.451,0.094
+Durango,durango,15,2025-04-13,3.066,17.13,29.877,0.069
+Durango,durango,16,2025-04-20,8.585,21.063,31.552,0.094
+Durango,durango,17,2025-04-27,8.73,20.829,31.906,0.511
+Durango,durango,18,2025-05-04,9.822,20.833,30.544,0.243
+Durango,durango,19,2025-05-11,8.564,19.206,30.64,0.542
+Durango,durango,20,2025-05-18,11.328,23.015,32.845,0.336
+Durango,durango,21,2025-05-25,13.586,23.619,33.079,1.929
+Durango,durango,22,2025-06-01,13.669,21.625,31.801,19.315
+Durango,durango,23,2025-06-08,13.772,23.873,33.195,4.298
+Durango,durango,24,2025-06-15,16.319,24.216,32.95,10.169
+Durango,durango,25,2025-06-22,16.328,22.866,32.439,39.298
+Durango,durango,26,2025-06-29,14.373,20.426,27.551,43.569
+Durango,durango,27,2025-07-06,14.735,19.521,26.832,81.046
+Durango,durango,28,2025-07-13,13.562,19.262,26.108,55.954
+Durango,durango,29,2025-07-20,13.2,19.598,27.031,28.844
+Durango,durango,30,2025-07-27,13.661,21.035,28.546,14.13
+Durango,durango,31,2025-08-03,14.687,21.83,28.994,16.63
+Durango,durango,32,2025-08-10,14.616,22.182,29.782,19.284
+Durango,durango,33,2025-08-17,15.001,21.218,28.563,39.551
+Durango,durango,34,2025-08-24,14.305,20.418,27.95,29.2
+Durango,durango,35,2025-08-31,13.969,19.547,26.785,50.934
+Durango,durango,36,2025-09-07,14.31,19.631,26.403,53.033
+Durango,durango,37,2025-09-14,13.553,19.686,26.427,24.145
+Durango,durango,38,2025-09-21,13.584,18.794,26.216,60.212
+Durango,durango,39,2025-09-28,13.501,20.056,27.954,25.159
+Durango,durango,40,2025-10-05,11.05,18.342,26.322,13.016
+Durango,durango,41,2025-10-12,12.739,19.236,26.724,13.65
+Durango,durango,42,2025-10-19,11.577,19.6,27.81,4.69
+Durango,durango,43,2025-10-26,10.199,19.452,27.701,0.696
+Durango,durango,44,2025-11-02,7.841,17.323,27.34,0.239
+Durango,durango,45,2025-11-09,6.504,16.529,26.077,0.005
+Durango,durango,46,2025-11-16,6.54,16.297,26.303,0.21
+Durango,durango,47,2025-11-23,6.55,15.635,25.159,1.065
+Durango,durango,48,2025-11-30,5.939,14.912,24.596,0.182
+Durango,durango,49,2025-12-07,6.897,13.694,21.786,14.725
+Durango,durango,50,2025-12-14,5.213,13.52,22.782,0.09
+Durango,durango,51,2025-12-21,4.116,13.771,23.801,0.023
+Durango,durango,52,2025-12-28,6.129,15.309,24.354,0.444
+Guanajuato,guanajuato,1,2025-01-05,6.549,14.363,24.079,0.52
+Guanajuato,guanajuato,2,2025-01-12,6.974,14.142,22.666,7.57
+Guanajuato,guanajuato,3,2025-01-19,7.349,15.442,25.293,0.338
+Guanajuato,guanajuato,4,2025-01-26,2.796,13.675,24.774,0.306
+Guanajuato,guanajuato,5,2025-02-02,7.577,16.744,26.781,0.593
+Guanajuato,guanajuato,6,2025-02-09,8.213,17.021,26.62,0.312
+Guanajuato,guanajuato,7,2025-02-16,9.189,18.025,27.036,0.638
+Guanajuato,guanajuato,8,2025-02-23,8.099,16.923,26.78,8.529
+Guanajuato,guanajuato,9,2025-03-02,7.193,18.672,29.457,0.28
+Guanajuato,guanajuato,10,2025-03-09,9.221,19.885,29.735,0.081
+Guanajuato,guanajuato,11,2025-03-16,6.748,18.976,29.286,0.011
+Guanajuato,guanajuato,12,2025-03-23,7.024,18.578,29.344,1.022
+Guanajuato,guanajuato,13,2025-03-30,9.811,20.014,29.861,0.97
+Guanajuato,guanajuato,14,2025-04-06,11.005,21.551,31.068,0.058
+Guanajuato,guanajuato,15,2025-04-13,6.364,17.214,28.223,0.235
+Guanajuato,guanajuato,16,2025-04-20,8.438,20.846,31.483,0.164
+Guanajuato,guanajuato,17,2025-04-27,13.25,22.191,31.869,1.088
+Guanajuato,guanajuato,18,2025-05-04,12.628,22.558,31.7,0.883
+Guanajuato,guanajuato,19,2025-05-11,12.247,21.988,32.829,1.887
+Guanajuato,guanajuato,20,2025-05-18,12.518,24.134,34.118,0.776
+Guanajuato,guanajuato,21,2025-05-25,15.174,23.325,33.622,12.501
+Guanajuato,guanajuato,22,2025-06-01,14.508,19.964,27.738,62.601
+Guanajuato,guanajuato,23,2025-06-08,14.251,20.217,29.008,30.226
+Guanajuato,guanajuato,24,2025-06-15,15.076,19.909,29.653,65.586
+Guanajuato,guanajuato,25,2025-06-22,13.559,16.911,22.816,101.94
+Guanajuato,guanajuato,26,2025-06-29,12.614,17.162,23.773,35.936
+Guanajuato,guanajuato,27,2025-07-06,13.923,18.508,26.157,56.149
+Guanajuato,guanajuato,28,2025-07-13,12.5,17.128,23.101,61.663
+Guanajuato,guanajuato,29,2025-07-20,13.498,17.22,23.074,66.693
+Guanajuato,guanajuato,30,2025-07-27,12.381,18.19,24.912,11.597
+Guanajuato,guanajuato,31,2025-08-03,12.875,17.906,25.737,12.118
+Guanajuato,guanajuato,32,2025-08-10,12.026,18.593,26.357,22.919
+Guanajuato,guanajuato,33,2025-08-17,13.152,18.814,26.086,32.488
+Guanajuato,guanajuato,34,2025-08-24,12.75,18.568,25.415,43.418
+Guanajuato,guanajuato,35,2025-08-31,13.11,18.155,24.989,37.181
+Guanajuato,guanajuato,36,2025-09-07,13.769,18.309,24.482,61.27
+Guanajuato,guanajuato,37,2025-09-14,14.06,18.04,23.643,30.205
+Guanajuato,guanajuato,38,2025-09-21,13.065,18.027,25.052,12.962
+Guanajuato,guanajuato,39,2025-09-28,13.626,18.593,25.729,29.09
+Guanajuato,guanajuato,40,2025-10-05,9.725,16.986,23.74,8.908
+Guanajuato,guanajuato,41,2025-10-12,12.229,16.755,24.43,49.316
+Guanajuato,guanajuato,42,2025-10-19,9.645,17.509,25.977,0.566
+Guanajuato,guanajuato,43,2025-10-26,9.393,17.95,27.259,0.241
+Guanajuato,guanajuato,44,2025-11-02,8.293,17.28,27.27,0.912
+Guanajuato,guanajuato,45,2025-11-09,5.632,15.586,25.822,0.044
+Guanajuato,guanajuato,46,2025-11-16,5.766,15.063,26.964,0.448
+Guanajuato,guanajuato,47,2025-11-23,9.86,18.103,26.889,0.384
+Guanajuato,guanajuato,48,2025-11-30,9.185,16.312,25.16,1.951
+Guanajuato,guanajuato,49,2025-12-07,10.501,17.137,24.937,4.041
+Guanajuato,guanajuato,50,2025-12-14,8.747,15.485,23.743,5.599
+Guanajuato,guanajuato,51,2025-12-21,5.74,14.564,23.371,2.327
+Guanajuato,guanajuato,52,2025-12-28,6.945,14.579,23.372,1.529
+Guerrero,guerrero,1,2025-01-05,15.391,21.78,28.927,0.897
+Guerrero,guerrero,2,2025-01-12,15.91,21.316,28.58,21.108
+Guerrero,guerrero,3,2025-01-19,15.542,21.734,29.098,0.995
+Guerrero,guerrero,4,2025-01-26,14.707,21.827,29.829,1.533
+Guerrero,guerrero,5,2025-02-02,15.712,22.996,30.475,1.027
+Guerrero,guerrero,6,2025-02-09,16.445,23.008,30.286,3.92
+Guerrero,guerrero,7,2025-02-16,16.722,23.18,30.315,3.494
+Guerrero,guerrero,8,2025-02-23,17.583,23.362,30.498,12.074
+Guerrero,guerrero,9,2025-03-02,16.8,23.798,31.606,0.464
+Guerrero,guerrero,10,2025-03-09,16.289,23.999,32.219,0.171
+Guerrero,guerrero,11,2025-03-16,15.851,23.711,32.122,0.234
+Guerrero,guerrero,12,2025-03-23,16.488,24.404,32.798,1.057
+Guerrero,guerrero,13,2025-03-30,16.251,24.439,32.538,0.512
+Guerrero,guerrero,14,2025-04-06,16.242,24.226,32.434,0.131
+Guerrero,guerrero,15,2025-04-13,15.92,24.223,32.67,0.709
+Guerrero,guerrero,16,2025-04-20,16.084,24.879,33.815,0.012
+Guerrero,guerrero,17,2025-04-27,18.231,25.428,33.209,4.201
+Guerrero,guerrero,18,2025-05-04,18.247,25.34,33.349,0.995
+Guerrero,guerrero,19,2025-05-11,18.28,25.688,34.019,10.708
+Guerrero,guerrero,20,2025-05-18,20.19,26.29,34.321,3.017
+Guerrero,guerrero,21,2025-05-25,19.168,25.844,33.99,17.878
+Guerrero,guerrero,22,2025-06-01,19.749,24.185,31.227,51.835
+Guerrero,guerrero,23,2025-06-08,19.763,23.869,29.716,71.642
+Guerrero,guerrero,24,2025-06-15,18.6,22.836,29.808,107.648
+Guerrero,guerrero,25,2025-06-22,18.51,22.013,27.752,115.272
+Guerrero,guerrero,26,2025-06-29,18.276,22.381,28.407,93.765
+Guerrero,guerrero,27,2025-07-06,18.457,22.603,28.795,56.83
+Guerrero,guerrero,28,2025-07-13,18.133,22.352,27.803,56.872
+Guerrero,guerrero,29,2025-07-20,18.867,23.577,29.684,45.367
+Guerrero,guerrero,30,2025-07-27,19.102,23.932,29.994,46.022
+Guerrero,guerrero,31,2025-08-03,18.679,23.567,29.822,39.008
+Guerrero,guerrero,32,2025-08-10,18.554,23.298,29.293,40.008
+Guerrero,guerrero,33,2025-08-17,18.811,23.399,29.854,53.416
+Guerrero,guerrero,34,2025-08-24,19.15,23.298,28.89,62.552
+Guerrero,guerrero,35,2025-08-31,19.381,23.466,29.949,67.415
+Guerrero,guerrero,36,2025-09-07,18.845,23.127,28.821,41.106
+Guerrero,guerrero,37,2025-09-14,19.088,23.107,28.743,78.309
+Guerrero,guerrero,38,2025-09-21,19.105,22.862,28.065,84.65
+Guerrero,guerrero,39,2025-09-28,18.493,22.69,28.552,69.375
+Guerrero,guerrero,40,2025-10-05,18.674,22.168,28.021,106.708
+Guerrero,guerrero,41,2025-10-12,18.278,21.771,27.731,108.411
+Guerrero,guerrero,42,2025-10-19,17.831,22.326,27.406,35.891
+Guerrero,guerrero,43,2025-10-26,18.366,23.397,28.845,11.149
+Guerrero,guerrero,44,2025-11-02,17.272,23.036,28.745,8.705
+Guerrero,guerrero,45,2025-11-09,16.4,22.554,28.817,2.969
+Guerrero,guerrero,46,2025-11-16,16.292,22.543,29.852,1.033
+Guerrero,guerrero,47,2025-11-23,17.793,23.142,29.408,3.168
+Guerrero,guerrero,48,2025-11-30,16.312,22.861,29.885,2.311
+Guerrero,guerrero,49,2025-12-07,17.378,22.441,28.402,4.867
+Guerrero,guerrero,50,2025-12-14,17.505,22.766,28.942,9.811
+Guerrero,guerrero,51,2025-12-21,15.436,22.081,29.117,3.007
+Guerrero,guerrero,52,2025-12-28,15.714,22.282,29.495,3.174
+Hidalgo,hidalgo,1,2025-01-05,7.326,13.895,22.478,2.981
+Hidalgo,hidalgo,2,2025-01-12,5.052,12.373,22.626,9.602
+Hidalgo,hidalgo,3,2025-01-19,6.842,14.085,25.638,4.4
+Hidalgo,hidalgo,4,2025-01-26,1.739,10.296,21.993,3.357
+Hidalgo,hidalgo,5,2025-02-02,6.583,14.948,25.984,7.269
+Hidalgo,hidalgo,6,2025-02-09,8.551,15.547,24.136,3.98
+Hidalgo,hidalgo,7,2025-02-16,9.575,16.764,26.637,7.995
+Hidalgo,hidalgo,8,2025-02-23,7.323,14.004,25.352,21.886
+Hidalgo,hidalgo,9,2025-03-02,4.759,16.136,26.567,2.749
+Hidalgo,hidalgo,10,2025-03-09,8.588,18.699,30.591,0.538
+Hidalgo,hidalgo,11,2025-03-16,6.422,17.925,30.598,0.015
+Hidalgo,hidalgo,12,2025-03-23,6.662,16.25,28.479,4.209
+Hidalgo,hidalgo,13,2025-03-30,10.837,18.77,29.516,9.964
+Hidalgo,hidalgo,14,2025-04-06,11.677,21.267,32.066,2.867
+Hidalgo,hidalgo,15,2025-04-13,4.498,14.128,24.582,1.469
+Hidalgo,hidalgo,16,2025-04-20,6.261,18.255,29.397,1.143
+Hidalgo,hidalgo,17,2025-04-27,13.216,19.916,28.339,13.784
+Hidalgo,hidalgo,18,2025-05-04,11.438,20.052,28.29,10.866
+Hidalgo,hidalgo,19,2025-05-11,11.432,19.951,31.697,15.279
+Hidalgo,hidalgo,20,2025-05-18,10.154,21.34,31.286,0.984
+Hidalgo,hidalgo,21,2025-05-25,15.398,21.893,32.365,16.61
+Hidalgo,hidalgo,22,2025-06-01,14.819,19.23,26.611,94.362
+Hidalgo,hidalgo,23,2025-06-08,14.822,19.615,26.441,17.133
+Hidalgo,hidalgo,24,2025-06-15,15.648,19.609,27.669,53.483
+Hidalgo,hidalgo,25,2025-06-22,14.946,16.626,20.455,250.137
+Hidalgo,hidalgo,26,2025-06-29,13.511,16.68,22.406,58.49
+Hidalgo,hidalgo,27,2025-07-06,14.515,18.553,25.489,43.975
+Hidalgo,hidalgo,28,2025-07-13,13.244,17.418,23.059,43.192
+Hidalgo,hidalgo,29,2025-07-20,14.094,17.697,22.928,39.814
+Hidalgo,hidalgo,30,2025-07-27,13.729,18.073,23.958,17.393
+Hidalgo,hidalgo,31,2025-08-03,12.787,17.147,24.326,28.059
+Hidalgo,hidalgo,32,2025-08-10,12.562,18.115,24.606,15.093
+Hidalgo,hidalgo,33,2025-08-17,13.515,18.537,24.385,25.742
+Hidalgo,hidalgo,34,2025-08-24,13.533,18.311,23.841,34.064
+Hidalgo,hidalgo,35,2025-08-31,14.323,18.276,24.621,18.752
+Hidalgo,hidalgo,36,2025-09-07,14.424,18.502,24.639,57.557
+Hidalgo,hidalgo,37,2025-09-14,14.727,17.585,22.695,74.267
+Hidalgo,hidalgo,38,2025-09-21,13.79,17.418,22.598,39.03
+Hidalgo,hidalgo,39,2025-09-28,13.578,18.015,23.508,37.14
+Hidalgo,hidalgo,40,2025-10-05,11.113,16.642,22.277,11.754
+Hidalgo,hidalgo,41,2025-10-12,13.37,16.633,23.123,211.336
+Hidalgo,hidalgo,42,2025-10-19,11.047,16.897,23.98,4.046
+Hidalgo,hidalgo,43,2025-10-26,10.702,17.107,24.708,4.657
+Hidalgo,hidalgo,44,2025-11-02,6.874,15.115,24.206,4.955
+Hidalgo,hidalgo,45,2025-11-09,6.365,14.558,24.131,1.427
+Hidalgo,hidalgo,46,2025-11-16,6.211,13.307,24.366,11.401
+Hidalgo,hidalgo,47,2025-11-23,7.811,16.548,24.8,1.956
+Hidalgo,hidalgo,48,2025-11-30,9.354,15.315,24.056,26.418
+Hidalgo,hidalgo,49,2025-12-07,10.07,16.201,23.638,7.589
+Hidalgo,hidalgo,50,2025-12-14,8.014,14.488,22.277,11.86
+Hidalgo,hidalgo,51,2025-12-21,6.458,13.835,21.48,21.881
+Hidalgo,hidalgo,52,2025-12-28,7.854,13.813,21.625,11.267
+Jalisco,jalisco,1,2025-01-05,10.259,18.01,26.761,0.594
+Jalisco,jalisco,2,2025-01-12,10.436,16.425,25.215,14.696
+Jalisco,jalisco,3,2025-01-19,10.521,17.97,26.806,0.222
+Jalisco,jalisco,4,2025-01-26,8.481,17.679,27.026,0.047
+Jalisco,jalisco,5,2025-02-02,10.445,19.12,28.196,0.087
+Jalisco,jalisco,6,2025-02-09,11.496,20.013,29.13,0.297
+Jalisco,jalisco,7,2025-02-16,11.472,19.762,28.525,0.211
+Jalisco,jalisco,8,2025-02-23,12.335,20.169,29.029,1.672
+Jalisco,jalisco,9,2025-03-02,11.163,20.893,30.808,0.148
+Jalisco,jalisco,10,2025-03-09,11.774,21.054,30.736,0.043
+Jalisco,jalisco,11,2025-03-16,10.044,20.224,30.446,0.042
+Jalisco,jalisco,12,2025-03-23,11.403,21.296,30.857,0.105
+Jalisco,jalisco,13,2025-03-30,11.257,21.111,30.88,0.013
+Jalisco,jalisco,14,2025-04-06,11.783,21.229,31.806,0.024
+Jalisco,jalisco,15,2025-04-13,10.531,20.972,31.327,0.106
+Jalisco,jalisco,16,2025-04-20,12.808,22.618,32.599,0.03
+Jalisco,jalisco,17,2025-04-27,13.394,23.053,33.061,0.145
+Jalisco,jalisco,18,2025-05-04,14.561,23.374,32.36,0.276
+Jalisco,jalisco,19,2025-05-11,14.422,23.399,33.455,0.273
+Jalisco,jalisco,20,2025-05-18,15.661,24.71,34.502,0.624
+Jalisco,jalisco,21,2025-05-25,16.624,24.359,33.674,9.357
+Jalisco,jalisco,22,2025-06-01,16.645,22.87,31.449,17.648
+Jalisco,jalisco,23,2025-06-08,17.709,23.382,31.515,27.535
+Jalisco,jalisco,24,2025-06-15,17.194,21.925,30.1,58.106
+Jalisco,jalisco,25,2025-06-22,16.49,20.495,27.821,78.51
+Jalisco,jalisco,26,2025-06-29,15.25,20.256,27.125,81.943
+Jalisco,jalisco,27,2025-07-06,16.193,20.604,27.353,70.866
+Jalisco,jalisco,28,2025-07-13,15.276,19.897,26.368,59.596
+Jalisco,jalisco,29,2025-07-20,15.361,20.391,27.141,54.491
+Jalisco,jalisco,30,2025-07-27,15.783,21.469,28.538,28.498
+Jalisco,jalisco,31,2025-08-03,16.0,21.072,27.844,44.396
+Jalisco,jalisco,32,2025-08-10,15.657,21.05,28.369,36.619
+Jalisco,jalisco,33,2025-08-17,15.721,20.721,27.599,56.19
+Jalisco,jalisco,34,2025-08-24,16.173,21.088,28.121,61.106
+Jalisco,jalisco,35,2025-08-31,16.022,20.657,27.546,62.175
+Jalisco,jalisco,36,2025-09-07,16.032,20.64,26.843,54.913
+Jalisco,jalisco,37,2025-09-14,16.159,20.725,26.732,71.952
+Jalisco,jalisco,38,2025-09-21,16.221,20.775,27.693,56.079
+Jalisco,jalisco,39,2025-09-28,16.038,21.018,27.838,34.839
+Jalisco,jalisco,40,2025-10-05,15.2,20.297,26.608,41.203
+Jalisco,jalisco,41,2025-10-12,15.006,19.909,26.313,39.592
+Jalisco,jalisco,42,2025-10-19,14.061,20.468,28.133,11.564
+Jalisco,jalisco,43,2025-10-26,14.447,21.363,28.896,3.102
+Jalisco,jalisco,44,2025-11-02,13.805,20.868,28.893,3.018
+Jalisco,jalisco,45,2025-11-09,11.113,19.717,27.671,0.698
+Jalisco,jalisco,46,2025-11-16,11.384,19.668,28.632,0.16
+Jalisco,jalisco,47,2025-11-23,13.13,20.303,27.851,1.45
+Jalisco,jalisco,48,2025-11-30,12.568,19.692,27.03,0.985
+Jalisco,jalisco,49,2025-12-07,12.394,18.461,26.203,11.697
+Jalisco,jalisco,50,2025-12-14,12.145,18.576,26.415,6.573
+Jalisco,jalisco,51,2025-12-21,9.234,17.958,26.635,0.092
+Jalisco,jalisco,52,2025-12-28,10.072,18.501,26.806,0.45
+México,mexico,1,2025-01-05,5.996,12.833,21.103,2.566
+México,mexico,2,2025-01-12,6.171,12.808,20.374,22.48
+México,mexico,3,2025-01-19,5.711,13.538,21.708,3.118
+México,mexico,4,2025-01-26,5.027,13.038,22.287,0.705
+México,mexico,5,2025-02-02,6.796,14.754,23.439,3.86
+México,mexico,6,2025-02-09,6.616,14.63,23.152,3.826
+México,mexico,7,2025-02-16,7.069,15.441,23.502,2.798
+México,mexico,8,2025-02-23,7.999,14.505,22.846,25.268
+México,mexico,9,2025-03-02,7.171,16.356,25.473,1.911
+México,mexico,10,2025-03-09,7.832,17.129,26.227,0.468
+México,mexico,11,2025-03-16,7.189,17.173,26.448,0.035
+México,mexico,12,2025-03-23,7.191,16.765,26.37,6.273
+México,mexico,13,2025-03-30,7.437,17.252,26.495,1.534
+México,mexico,14,2025-04-06,8.647,18.284,27.467,0.083
+México,mexico,15,2025-04-13,5.288,16.052,26.051,0.255
+México,mexico,16,2025-04-20,6.72,18.287,28.309,0.089
+México,mexico,17,2025-04-27,10.298,19.401,28.302,2.73
+México,mexico,18,2025-05-04,10.256,19.264,27.849,2.602
+México,mexico,19,2025-05-11,10.897,19.381,29.243,7.569
+México,mexico,20,2025-05-18,10.663,19.971,29.233,5.8
+México,mexico,21,2025-05-25,12.591,19.552,28.722,23.881
+México,mexico,22,2025-06-01,11.527,16.785,23.833,93.053
+México,mexico,23,2025-06-08,11.844,17.254,24.803,42.66
+México,mexico,24,2025-06-15,12.106,16.805,25.039,83.074
+México,mexico,25,2025-06-22,12.007,14.885,20.112,104.813
+México,mexico,26,2025-06-29,10.519,14.936,21.493,88.424
+México,mexico,27,2025-07-06,10.619,16.082,23.239,69.917
+México,mexico,28,2025-07-13,9.712,14.789,20.941,65.382
+México,mexico,29,2025-07-20,10.656,15.589,21.841,58.767
+México,mexico,30,2025-07-27,10.102,16.21,22.942,37.42
+México,mexico,31,2025-08-03,9.677,15.395,22.18,45.748
+México,mexico,32,2025-08-10,9.594,15.728,22.251,43.119
+México,mexico,33,2025-08-17,9.969,15.622,22.463,70.869
+México,mexico,34,2025-08-24,10.849,15.993,22.026,71.325
+México,mexico,35,2025-08-31,11.402,16.166,22.492,55.873
+México,mexico,36,2025-09-07,10.891,15.837,22.271,65.328
+México,mexico,37,2025-09-14,11.785,15.872,21.812,66.425
+México,mexico,38,2025-09-21,10.929,15.714,21.807,57.409
+México,mexico,39,2025-09-28,10.522,15.91,21.916,75.328
+México,mexico,40,2025-10-05,10.237,15.023,21.028,70.171
+México,mexico,41,2025-10-12,10.706,14.905,21.485,88.853
+México,mexico,42,2025-10-19,8.528,15.099,22.252,13.375
+México,mexico,43,2025-10-26,8.797,15.5,22.883,6.018
+México,mexico,44,2025-11-02,6.96,14.48,22.677,1.91
+México,mexico,45,2025-11-09,6.121,14.039,22.117,0.428
+México,mexico,46,2025-11-16,6.073,13.65,23.276,2.088
+México,mexico,47,2025-11-23,7.314,15.256,23.361,0.971
+México,mexico,48,2025-11-30,7.632,14.422,22.284,3.358
+México,mexico,49,2025-12-07,7.994,14.724,21.831,4.475
+México,mexico,50,2025-12-14,7.267,13.696,20.792,17.688
+México,mexico,51,2025-12-21,5.417,12.87,20.448,4.055
+México,mexico,52,2025-12-28,6.372,12.947,20.335,9.787
+Michoacán de Ocampo,michoacan,1,2025-01-05,11.866,19.264,27.584,1.671
+Michoacán de Ocampo,michoacan,2,2025-01-12,12.262,18.298,26.107,29.916
+Michoacán de Ocampo,michoacan,3,2025-01-19,12.106,19.011,27.033,0.75
+Michoacán de Ocampo,michoacan,4,2025-01-26,11.054,19.106,28.172,0.284
+Michoacán de Ocampo,michoacan,5,2025-02-02,12.337,20.485,29.071,0.24
+Michoacán de Ocampo,michoacan,6,2025-02-09,13.254,20.934,29.227,0.828
+Michoacán de Ocampo,michoacan,7,2025-02-16,13.576,20.938,29.073,1.148
+Michoacán de Ocampo,michoacan,8,2025-02-23,14.485,21.067,29.192,7.427
+Michoacán de Ocampo,michoacan,9,2025-03-02,13.063,21.774,30.964,0.538
+Michoacán de Ocampo,michoacan,10,2025-03-09,13.429,22.164,31.405,0.309
+Michoacán de Ocampo,michoacan,11,2025-03-16,12.612,21.721,31.118,0.347
+Michoacán de Ocampo,michoacan,12,2025-03-23,13.215,22.562,31.673,0.817
+Michoacán de Ocampo,michoacan,13,2025-03-30,12.529,22.263,31.582,0.055
+Michoacán de Ocampo,michoacan,14,2025-04-06,13.293,22.398,32.047,0.045
+Michoacán de Ocampo,michoacan,15,2025-04-13,12.502,22.201,31.972,0.088
+Michoacán de Ocampo,michoacan,16,2025-04-20,13.735,23.488,32.877,0.026
+Michoacán de Ocampo,michoacan,17,2025-04-27,14.704,23.892,33.218,0.394
+Michoacán de Ocampo,michoacan,18,2025-05-04,16.092,23.885,32.758,1.998
+Michoacán de Ocampo,michoacan,19,2025-05-11,16.333,24.278,33.526,1.319
+Michoacán de Ocampo,michoacan,20,2025-05-18,17.423,25.142,34.488,2.786
+Michoacán de Ocampo,michoacan,21,2025-05-25,17.385,24.346,33.389,24.647
+Michoacán de Ocampo,michoacan,22,2025-06-01,17.358,22.836,30.335,29.752
+Michoacán de Ocampo,michoacan,23,2025-06-08,18.242,23.017,30.015,37.498
+Michoacán de Ocampo,michoacan,24,2025-06-15,17.33,21.676,30.272,93.034
+Michoacán de Ocampo,michoacan,25,2025-06-22,16.864,20.474,26.707,97.797
+Michoacán de Ocampo,michoacan,26,2025-06-29,15.79,20.604,27.317,81.336
+Michoacán de Ocampo,michoacan,27,2025-07-06,16.165,20.8,27.346,70.907
+Michoacán de Ocampo,michoacan,28,2025-07-13,15.819,20.439,26.594,59.016
+Michoacán de Ocampo,michoacan,29,2025-07-20,16.672,21.42,27.865,51.285
+Michoacán de Ocampo,michoacan,30,2025-07-27,16.561,22.131,29.105,38.183
+Michoacán de Ocampo,michoacan,31,2025-08-03,16.515,21.581,28.225,47.915
+Michoacán de Ocampo,michoacan,32,2025-08-10,16.473,21.616,28.397,49.225
+Michoacán de Ocampo,michoacan,33,2025-08-17,16.473,21.449,28.389,52.952
+Michoacán de Ocampo,michoacan,34,2025-08-24,16.675,21.653,27.934,55.915
+Michoacán de Ocampo,michoacan,35,2025-08-31,17.06,21.66,28.52,71.568
+Michoacán de Ocampo,michoacan,36,2025-09-07,16.455,21.249,27.772,44.969
+Michoacán de Ocampo,michoacan,37,2025-09-14,16.842,21.387,27.472,82.148
+Michoacán de Ocampo,michoacan,38,2025-09-21,16.34,21.192,27.598,55.383
+Michoacán de Ocampo,michoacan,39,2025-09-28,15.987,21.181,27.694,48.048
+Michoacán de Ocampo,michoacan,40,2025-10-05,15.815,20.504,27.365,62.785
+Michoacán de Ocampo,michoacan,41,2025-10-12,15.629,19.937,27.049,85.841
+Michoacán de Ocampo,michoacan,42,2025-10-19,15.016,20.761,27.618,17.19
+Michoacán de Ocampo,michoacan,43,2025-10-26,15.792,21.711,28.525,6.246
+Michoacán de Ocampo,michoacan,44,2025-11-02,14.732,21.264,28.644,5.044
+Michoacán de Ocampo,michoacan,45,2025-11-09,13.458,20.585,28.094,1.875
+Michoacán de Ocampo,michoacan,46,2025-11-16,13.269,20.812,29.255,0.576
+Michoacán de Ocampo,michoacan,47,2025-11-23,14.778,21.141,28.34,2.468
+Michoacán de Ocampo,michoacan,48,2025-11-30,13.614,20.647,28.099,2.783
+Michoacán de Ocampo,michoacan,49,2025-12-07,13.525,19.818,27.402,9.402
+Michoacán de Ocampo,michoacan,50,2025-12-14,14.156,19.993,27.018,11.323
+Michoacán de Ocampo,michoacan,51,2025-12-21,11.428,19.379,27.339,2.247
+Michoacán de Ocampo,michoacan,52,2025-12-28,12.262,19.733,27.488,1.196
+Morelos,morelos,1,2025-01-05,11.667,19.168,27.124,0.632
+Morelos,morelos,2,2025-01-12,12.358,18.953,26.402,17.319
+Morelos,morelos,3,2025-01-19,11.999,19.366,27.386,1.027
+Morelos,morelos,4,2025-01-26,10.861,18.881,27.658,0.18
+Morelos,morelos,5,2025-02-02,12.3,20.879,29.076,1.263
+Morelos,morelos,6,2025-02-09,12.941,21.137,29.051,2.603
+Morelos,morelos,7,2025-02-16,13.083,22.23,29.714,0.871
+Morelos,morelos,8,2025-02-23,14.976,22.101,29.977,4.413
+Morelos,morelos,9,2025-03-02,14.285,23.281,31.832,1.489
+Morelos,morelos,10,2025-03-09,13.752,23.871,32.867,0.143
+Morelos,morelos,11,2025-03-16,12.856,23.652,32.591,0.089
+Morelos,morelos,12,2025-03-23,13.246,23.474,32.953,1.7
+Morelos,morelos,13,2025-03-30,13.347,24.243,32.707,0.642
+Morelos,morelos,14,2025-04-06,14.919,24.858,33.42,0.011
+Morelos,morelos,15,2025-04-13,12.904,23.461,32.684,0.351
+Morelos,morelos,16,2025-04-20,13.589,24.421,34.13,0.013
+Morelos,morelos,17,2025-04-27,15.171,25.953,33.548,4.152
+Morelos,morelos,18,2025-05-04,15.671,25.287,33.46,3.927
+Morelos,morelos,19,2025-05-11,17.411,26.023,35.156,16.376
+Morelos,morelos,20,2025-05-18,16.801,25.657,33.724,5.997
+Morelos,morelos,21,2025-05-25,18.198,25.491,34.277,29.086
+Morelos,morelos,22,2025-06-01,17.291,22.185,28.945,104.172
+Morelos,morelos,23,2025-06-08,17.057,22.343,29.515,60.433
+Morelos,morelos,24,2025-06-15,16.767,21.615,29.068,72.808
+Morelos,morelos,25,2025-06-22,16.801,20.125,26.162,86.702
+Morelos,morelos,26,2025-06-29,15.666,20.382,27.31,85.62
+Morelos,morelos,27,2025-07-06,16.159,21.441,28.289,59.525
+Morelos,morelos,28,2025-07-13,15.443,20.468,26.377,54.115
+Morelos,morelos,29,2025-07-20,16.088,21.674,27.851,24.97
+Morelos,morelos,30,2025-07-27,15.11,22.124,28.637,41.715
+Morelos,morelos,31,2025-08-03,14.964,21.441,28.14,47.402
+Morelos,morelos,32,2025-08-10,15.537,21.723,28.458,25.67
+Morelos,morelos,33,2025-08-17,15.645,21.823,28.703,53.488
+Morelos,morelos,34,2025-08-24,16.547,21.653,28.705,88.739
+Morelos,morelos,35,2025-08-31,16.818,21.958,28.416,56.881
+Morelos,morelos,36,2025-09-07,16.376,21.484,28.094,44.384
+Morelos,morelos,37,2025-09-14,17.331,21.593,27.823,102.262
+Morelos,morelos,38,2025-09-21,16.408,21.302,27.46,74.968
+Morelos,morelos,39,2025-09-28,16.662,21.235,26.969,109.913
+Morelos,morelos,40,2025-10-05,16.655,20.47,26.728,92.954
+Morelos,morelos,41,2025-10-12,16.511,20.119,26.782,91.697
+Morelos,morelos,42,2025-10-19,14.444,20.511,27.934,14.795
+Morelos,morelos,43,2025-10-26,14.443,21.064,27.668,3.303
+Morelos,morelos,44,2025-11-02,13.262,20.508,28.527,2.684
+Morelos,morelos,45,2025-11-09,12.055,19.94,27.698,0.165
+Morelos,morelos,46,2025-11-16,11.933,19.213,27.904,0.561
+Morelos,morelos,47,2025-11-23,13.275,20.893,28.663,0.43
+Morelos,morelos,48,2025-11-30,12.649,20.509,28.177,2.878
+Morelos,morelos,49,2025-12-07,14.293,20.84,27.669,0.988
+Morelos,morelos,50,2025-12-14,13.487,20.37,27.666,11.216
+Morelos,morelos,51,2025-12-21,11.972,19.478,27.467,1.579
+Morelos,morelos,52,2025-12-28,11.804,19.243,26.987,9.011
+Nayarit,nayarit,1,2025-01-05,12.001,20.124,28.872,0.122
+Nayarit,nayarit,2,2025-01-12,11.849,17.616,27.667,36.042
+Nayarit,nayarit,3,2025-01-19,11.368,18.95,27.858,0.02
+Nayarit,nayarit,4,2025-01-26,10.07,18.753,28.854,0.016
+Nayarit,nayarit,5,2025-02-02,10.987,19.583,29.278,0.012
+Nayarit,nayarit,6,2025-02-09,12.096,20.845,30.486,0.01
+Nayarit,nayarit,7,2025-02-16,11.682,20.438,29.877,0.014
+Nayarit,nayarit,8,2025-02-23,12.944,21.28,30.647,0.068
+Nayarit,nayarit,9,2025-03-02,12.51,21.267,31.748,0.027
+Nayarit,nayarit,10,2025-03-09,11.22,20.928,30.878,0.004
+Nayarit,nayarit,11,2025-03-16,10.28,20.293,31.465,0.013
+Nayarit,nayarit,12,2025-03-23,11.67,21.43,31.756,0.013
+Nayarit,nayarit,13,2025-03-30,11.585,21.256,31.308,0.017
+Nayarit,nayarit,14,2025-04-06,12.143,21.254,31.698,0.095
+Nayarit,nayarit,15,2025-04-13,11.818,22.059,33.411,0.116
+Nayarit,nayarit,16,2025-04-20,14.38,23.197,32.96,0.022
+Nayarit,nayarit,17,2025-04-27,12.884,22.835,32.772,0.05
+Nayarit,nayarit,18,2025-05-04,15.141,23.675,32.318,0.034
+Nayarit,nayarit,19,2025-05-11,14.922,23.792,33.329,0.121
+Nayarit,nayarit,20,2025-05-18,15.494,24.86,34.578,0.127
+Nayarit,nayarit,21,2025-05-25,16.709,25.404,34.495,0.139
+Nayarit,nayarit,22,2025-06-01,17.529,25.124,33.571,18.389
+Nayarit,nayarit,23,2025-06-08,20.458,25.622,33.131,5.818
+Nayarit,nayarit,24,2025-06-15,21.045,25.221,33.678,27.054
+Nayarit,nayarit,25,2025-06-22,19.903,23.666,31.529,115.825
+Nayarit,nayarit,26,2025-06-29,19.171,23.51,29.896,74.766
+Nayarit,nayarit,27,2025-07-06,19.878,23.528,29.662,107.666
+Nayarit,nayarit,28,2025-07-13,18.736,22.893,29.056,67.37
+Nayarit,nayarit,29,2025-07-20,19.166,23.997,30.719,36.895
+Nayarit,nayarit,30,2025-07-27,19.376,24.886,31.128,34.102
+Nayarit,nayarit,31,2025-08-03,20.229,24.371,30.729,70.276
+Nayarit,nayarit,32,2025-08-10,18.859,24.114,30.383,64.147
+Nayarit,nayarit,33,2025-08-17,19.473,23.735,29.947,55.386
+Nayarit,nayarit,34,2025-08-24,20.017,24.061,30.422,61.155
+Nayarit,nayarit,35,2025-08-31,19.912,23.804,29.757,47.315
+Nayarit,nayarit,36,2025-09-07,19.244,23.676,29.39,52.425
+Nayarit,nayarit,37,2025-09-14,20.112,23.932,29.672,82.305
+Nayarit,nayarit,38,2025-09-21,19.969,23.791,29.563,60.305
+Nayarit,nayarit,39,2025-09-28,19.618,23.716,29.368,111.306
+Nayarit,nayarit,40,2025-10-05,19.738,23.683,29.374,37.645
+Nayarit,nayarit,41,2025-10-12,19.231,23.741,30.74,46.07
+Nayarit,nayarit,42,2025-10-19,18.754,23.428,29.995,17.63
+Nayarit,nayarit,43,2025-10-26,19.3,24.571,31.164,6.393
+Nayarit,nayarit,44,2025-11-02,17.86,23.373,30.688,4.014
+Nayarit,nayarit,45,2025-11-09,16.023,22.856,30.269,0.742
+Nayarit,nayarit,46,2025-11-16,15.345,22.529,31.103,0.112
+Nayarit,nayarit,47,2025-11-23,15.198,22.187,29.417,1.126
+Nayarit,nayarit,48,2025-11-30,14.623,22.152,30.17,0.069
+Nayarit,nayarit,49,2025-12-07,15.283,20.875,27.568,19.422
+Nayarit,nayarit,50,2025-12-14,13.964,21.059,29.105,1.291
+Nayarit,nayarit,51,2025-12-21,12.473,20.272,29.565,0.059
+Nayarit,nayarit,52,2025-12-28,13.348,21.416,30.192,0.244
+Nuevo León,nuevo leon,1,2025-01-05,10.16,16.31,27.027,1.866
+Nuevo León,nuevo leon,2,2025-01-12,2.808,8.916,22.789,15.159
+Nuevo León,nuevo leon,3,2025-01-19,5.067,12.635,24.988,1.07
+Nuevo León,nuevo leon,4,2025-01-26,-2.102,7.972,24.151,2.227
+Nuevo León,nuevo leon,5,2025-02-02,8.492,16.153,27.097,1.795
+Nuevo León,nuevo leon,6,2025-02-09,11.743,20.407,29.825,1.257
+Nuevo León,nuevo leon,7,2025-02-16,8.049,18.337,30.663,2.912
+Nuevo León,nuevo leon,8,2025-02-23,2.633,11.113,27.724,2.311
+Nuevo León,nuevo leon,9,2025-03-02,6.662,18.244,29.713,2.187
+Nuevo León,nuevo leon,10,2025-03-09,9.719,20.946,33.488,0.092
+Nuevo León,nuevo leon,11,2025-03-16,8.379,21.102,34.664,0.01
+Nuevo León,nuevo leon,12,2025-03-23,9.016,19.697,32.36,0.144
+Nuevo León,nuevo leon,13,2025-03-30,14.958,21.709,31.951,32.015
+Nuevo León,nuevo leon,14,2025-04-06,9.879,24.014,36.413,1.819
+Nuevo León,nuevo leon,15,2025-04-13,8.451,20.021,32.205,0.185
+Nuevo León,nuevo leon,16,2025-04-20,14.842,23.987,34.293,0.762
+Nuevo León,nuevo leon,17,2025-04-27,17.268,24.072,32.251,6.0
+Nuevo León,nuevo leon,18,2025-05-04,17.446,24.367,34.282,20.046
+Nuevo León,nuevo leon,19,2025-05-11,13.912,22.82,33.461,23.761
+Nuevo León,nuevo leon,20,2025-05-18,14.602,27.877,38.737,1.863
+Nuevo León,nuevo leon,21,2025-05-25,20.605,27.271,37.017,18.085
+Nuevo León,nuevo leon,22,2025-06-01,19.808,25.517,35.037,26.446
+Nuevo León,nuevo leon,23,2025-06-08,20.99,27.264,35.543,4.379
+Nuevo León,nuevo leon,24,2025-06-15,21.193,27.264,34.91,10.331
+Nuevo León,nuevo leon,25,2025-06-22,19.763,25.292,33.231,16.546
+Nuevo León,nuevo leon,26,2025-06-29,19.126,25.125,32.165,9.648
+Nuevo León,nuevo leon,27,2025-07-06,19.735,23.834,30.706,57.571
+Nuevo León,nuevo leon,28,2025-07-13,19.512,25.053,31.727,18.014
+Nuevo León,nuevo leon,29,2025-07-20,19.457,25.814,33.774,13.092
+Nuevo León,nuevo leon,30,2025-07-27,20.521,26.952,35.025,4.265
+Nuevo León,nuevo leon,31,2025-08-03,18.871,26.841,34.472,3.107
+Nuevo León,nuevo leon,32,2025-08-10,21.113,27.396,34.878,4.319
+Nuevo León,nuevo leon,33,2025-08-17,21.541,27.34,34.549,8.012
+Nuevo León,nuevo leon,34,2025-08-24,20.479,25.902,33.732,27.522
+Nuevo León,nuevo leon,35,2025-08-31,20.32,25.898,33.81,13.647
+Nuevo León,nuevo leon,36,2025-09-07,20.244,26.32,33.718,29.874
+Nuevo León,nuevo leon,37,2025-09-14,19.801,23.333,28.596,46.05
+Nuevo León,nuevo leon,38,2025-09-21,19.061,23.349,29.641,16.328
+Nuevo León,nuevo leon,39,2025-09-28,18.964,24.867,32.066,11.648
+Nuevo León,nuevo leon,40,2025-10-05,16.696,23.596,30.194,1.19
+Nuevo León,nuevo leon,41,2025-10-12,17.072,23.157,31.585,16.163
+Nuevo León,nuevo leon,42,2025-10-19,16.799,23.406,31.882,1.304
+Nuevo León,nuevo leon,43,2025-10-26,17.416,23.962,31.836,0.538
+Nuevo León,nuevo leon,44,2025-11-02,10.358,20.051,32.217,0.971
+Nuevo León,nuevo leon,45,2025-11-09,11.355,19.782,31.271,0.271
+Nuevo León,nuevo leon,46,2025-11-16,7.691,18.254,29.913,0.051
+Nuevo León,nuevo leon,47,2025-11-23,16.007,22.402,30.059,1.798
+Nuevo León,nuevo leon,48,2025-11-30,12.402,18.709,28.41,19.589
+Nuevo León,nuevo leon,49,2025-12-07,10.045,15.589,26.282,5.271
+Nuevo León,nuevo leon,50,2025-12-14,8.032,16.315,26.423,5.519
+Nuevo León,nuevo leon,51,2025-12-21,8.266,15.693,27.413,2.338
+Nuevo León,nuevo leon,52,2025-12-28,12.592,19.183,27.539,1.062
+Oaxaca,oaxaca,1,2025-01-05,13.557,19.051,26.471,6.864
+Oaxaca,oaxaca,2,2025-01-12,13.193,18.828,27.487,12.7
+Oaxaca,oaxaca,3,2025-01-19,13.492,19.539,28.417,7.662
+Oaxaca,oaxaca,4,2025-01-26,10.648,17.437,25.678,10.176
+Oaxaca,oaxaca,5,2025-02-02,13.193,20.072,28.924,6.742
+Oaxaca,oaxaca,6,2025-02-09,14.856,20.384,27.817,6.2
+Oaxaca,oaxaca,7,2025-02-16,14.82,21.24,29.843,7.806
+Oaxaca,oaxaca,8,2025-02-23,14.308,19.747,28.615,23.243
+Oaxaca,oaxaca,9,2025-03-02,13.004,20.854,29.385,4.466
+Oaxaca,oaxaca,10,2025-03-09,14.435,22.081,31.024,4.637
+Oaxaca,oaxaca,11,2025-03-16,13.507,21.92,31.601,2.405
+Oaxaca,oaxaca,12,2025-03-23,12.726,20.915,31.475,4.811
+Oaxaca,oaxaca,13,2025-03-30,16.081,22.928,31.555,5.506
+Oaxaca,oaxaca,14,2025-04-06,15.846,23.534,32.028,2.213
+Oaxaca,oaxaca,15,2025-04-13,11.73,19.846,28.513,5.106
+Oaxaca,oaxaca,16,2025-04-20,13.402,22.6,32.159,1.113
+Oaxaca,oaxaca,17,2025-04-27,16.334,23.477,30.928,13.255
+Oaxaca,oaxaca,18,2025-05-04,16.621,23.615,31.398,12.339
+Oaxaca,oaxaca,19,2025-05-11,17.126,23.666,32.522,38.742
+Oaxaca,oaxaca,20,2025-05-18,16.298,24.034,31.975,2.511
+Oaxaca,oaxaca,21,2025-05-25,18.381,24.209,32.509,29.29
+Oaxaca,oaxaca,22,2025-06-01,18.474,22.916,29.407,64.079
+Oaxaca,oaxaca,23,2025-06-08,18.071,22.061,28.424,84.086
+Oaxaca,oaxaca,24,2025-06-15,18.025,21.972,27.989,57.271
+Oaxaca,oaxaca,25,2025-06-22,17.278,20.577,26.067,194.77
+Oaxaca,oaxaca,26,2025-06-29,17.085,20.568,25.841,83.057
+Oaxaca,oaxaca,27,2025-07-06,17.381,21.79,27.764,36.684
+Oaxaca,oaxaca,28,2025-07-13,16.858,21.139,26.827,49.469
+Oaxaca,oaxaca,29,2025-07-20,17.296,21.899,27.559,25.628
+Oaxaca,oaxaca,30,2025-07-27,17.177,21.816,27.706,51.084
+Oaxaca,oaxaca,31,2025-08-03,16.845,21.139,27.11,48.481
+Oaxaca,oaxaca,32,2025-08-10,16.778,21.125,27.26,98.784
+Oaxaca,oaxaca,33,2025-08-17,17.067,21.574,27.643,58.313
+Oaxaca,oaxaca,34,2025-08-24,17.056,21.61,26.987,57.588
+Oaxaca,oaxaca,35,2025-08-31,17.374,21.39,27.078,61.455
+Oaxaca,oaxaca,36,2025-09-07,17.434,21.968,28.135,43.427
+Oaxaca,oaxaca,37,2025-09-14,17.362,21.19,27.593,81.539
+Oaxaca,oaxaca,38,2025-09-21,17.433,20.563,25.914,128.718
+Oaxaca,oaxaca,39,2025-09-28,17.079,21.0,26.861,81.093
+Oaxaca,oaxaca,40,2025-10-05,17.465,20.808,25.795,61.786
+Oaxaca,oaxaca,41,2025-10-12,16.899,20.27,25.934,126.794
+Oaxaca,oaxaca,42,2025-10-19,15.762,20.427,26.089,24.452
+Oaxaca,oaxaca,43,2025-10-26,15.95,20.78,27.137,16.455
+Oaxaca,oaxaca,44,2025-11-02,14.048,19.994,26.883,8.065
+Oaxaca,oaxaca,45,2025-11-09,14.827,19.964,27.187,8.526
+Oaxaca,oaxaca,46,2025-11-16,13.513,18.898,26.885,22.631
+Oaxaca,oaxaca,47,2025-11-23,15.653,20.996,27.72,3.673
+Oaxaca,oaxaca,48,2025-11-30,14.357,19.998,27.56,16.103
+Oaxaca,oaxaca,49,2025-12-07,14.919,20.525,27.255,2.951
+Oaxaca,oaxaca,50,2025-12-14,14.567,19.831,26.412,14.155
+Oaxaca,oaxaca,51,2025-12-21,13.873,19.422,26.722,14.405
+Oaxaca,oaxaca,52,2025-12-28,13.414,19.044,25.967,13.864
+Puebla,puebla,1,2025-01-05,8.833,15.612,23.52,3.881
+Puebla,puebla,2,2025-01-12,8.906,15.121,23.399,9.659
+Puebla,puebla,3,2025-01-19,9.053,16.343,25.744,4.888
+Puebla,puebla,4,2025-01-26,6.246,13.972,23.479,3.87
+Puebla,puebla,5,2025-02-02,9.079,16.981,26.029,8.167
+Puebla,puebla,6,2025-02-09,9.844,16.983,25.173,8.982
+Puebla,puebla,7,2025-02-16,10.885,18.317,26.602,7.62
+Puebla,puebla,8,2025-02-23,10.28,16.793,26.125,13.697
+Puebla,puebla,9,2025-03-02,9.16,18.637,27.274,4.885
+Puebla,puebla,10,2025-03-09,10.431,19.926,29.392,2.34
+Puebla,puebla,11,2025-03-16,9.905,19.853,29.865,0.386
+Puebla,puebla,12,2025-03-23,8.603,18.196,29.219,4.088
+Puebla,puebla,13,2025-03-30,12.38,20.112,29.166,12.653
+Puebla,puebla,14,2025-04-06,12.947,21.746,30.429,2.491
+Puebla,puebla,15,2025-04-13,7.264,17.081,26.486,1.972
+Puebla,puebla,16,2025-04-20,9.051,19.65,29.657,1.758
+Puebla,puebla,17,2025-04-27,12.411,20.694,27.841,18.72
+Puebla,puebla,18,2025-05-04,11.499,20.647,28.424,18.117
+Puebla,puebla,19,2025-05-11,13.96,21.11,30.807,25.693
+Puebla,puebla,20,2025-05-18,12.619,21.815,30.242,3.417
+Puebla,puebla,21,2025-05-25,15.814,22.292,31.34,24.904
+Puebla,puebla,22,2025-06-01,14.755,19.545,26.024,99.297
+Puebla,puebla,23,2025-06-08,14.543,19.779,26.396,34.217
+Puebla,puebla,24,2025-06-15,15.157,19.619,26.401,49.397
+Puebla,puebla,25,2025-06-22,14.17,17.634,22.62,123.433
+Puebla,puebla,26,2025-06-29,13.048,17.663,23.923,74.916
+Puebla,puebla,27,2025-07-06,13.094,18.882,25.949,54.055
+Puebla,puebla,28,2025-07-13,13.157,18.155,24.374,37.81
+Puebla,puebla,29,2025-07-20,13.325,18.878,25.032,19.428
+Puebla,puebla,30,2025-07-27,12.73,19.215,25.908,18.019
+Puebla,puebla,31,2025-08-03,12.137,18.392,25.61,31.984
+Puebla,puebla,32,2025-08-10,13.13,18.897,26.06,27.437
+Puebla,puebla,33,2025-08-17,13.445,19.123,25.746,34.549
+Puebla,puebla,34,2025-08-24,13.909,19.404,25.963,51.478
+Puebla,puebla,35,2025-08-31,13.746,19.337,25.789,28.902
+Puebla,puebla,36,2025-09-07,14.456,19.165,26.023,59.162
+Puebla,puebla,37,2025-09-14,14.206,18.873,25.528,48.99
+Puebla,puebla,38,2025-09-21,13.962,18.808,24.667,29.975
+Puebla,puebla,39,2025-09-28,13.92,18.767,24.774,61.54
+Puebla,puebla,40,2025-10-05,13.658,18.073,23.713,50.064
+Puebla,puebla,41,2025-10-12,13.826,17.704,24.142,117.142
+Puebla,puebla,42,2025-10-19,11.827,17.834,24.552,12.52
+Puebla,puebla,43,2025-10-26,11.269,18.149,25.848,3.657
+Puebla,puebla,44,2025-11-02,9.631,17.119,25.868,4.169
+Puebla,puebla,45,2025-11-09,9.303,16.855,25.609,2.297
+Puebla,puebla,46,2025-11-16,8.663,15.795,25.643,14.335
+Puebla,puebla,47,2025-11-23,10.816,18.148,26.098,2.483
+Puebla,puebla,48,2025-11-30,9.31,16.922,25.206,20.009
+Puebla,puebla,49,2025-12-07,11.373,17.791,24.939,5.323
+Puebla,puebla,50,2025-12-14,10.158,16.733,24.154,12.604
+Puebla,puebla,51,2025-12-21,9.1,15.985,23.764,13.633
+Puebla,puebla,52,2025-12-28,8.66,15.517,22.754,18.074
+Querétaro,queretaro,1,2025-01-05,8.14,14.404,24.031,1.194
+Querétaro,queretaro,2,2025-01-12,5.419,13.324,23.15,6.612
+Querétaro,queretaro,3,2025-01-19,6.842,14.857,26.561,1.231
+Querétaro,queretaro,4,2025-01-26,1.495,11.45,24.11,1.228
+Querétaro,queretaro,5,2025-02-02,7.373,16.156,27.766,1.528
+Querétaro,queretaro,6,2025-02-09,7.998,16.617,26.273,1.588
+Querétaro,queretaro,7,2025-02-16,10.291,18.022,27.856,3.5
+Querétaro,queretaro,8,2025-02-23,7.745,15.461,26.693,16.778
+Querétaro,queretaro,9,2025-03-02,6.447,17.525,29.032,1.104
+Querétaro,queretaro,10,2025-03-09,9.136,20.106,31.129,0.186
+Querétaro,queretaro,11,2025-03-16,6.659,19.175,30.861,0.01
+Querétaro,queretaro,12,2025-03-23,6.543,17.757,30.066,2.578
+Querétaro,queretaro,13,2025-03-30,10.955,19.891,30.868,4.512
+Querétaro,queretaro,14,2025-04-06,12.19,22.547,32.598,0.574
+Querétaro,queretaro,15,2025-04-13,6.025,15.703,27.076,0.982
+Querétaro,queretaro,16,2025-04-20,7.843,20.012,31.529,0.412
+Querétaro,queretaro,17,2025-04-27,14.031,21.26,30.792,7.707
+Querétaro,queretaro,18,2025-05-04,12.63,21.608,30.785,4.369
+Querétaro,queretaro,19,2025-05-11,11.435,21.266,33.316,6.948
+Querétaro,queretaro,20,2025-05-18,11.511,23.371,33.559,1.203
+Querétaro,queretaro,21,2025-05-25,15.506,23.186,33.911,13.156
+Querétaro,queretaro,22,2025-06-01,14.988,19.593,27.575,82.777
+Querétaro,queretaro,23,2025-06-08,15.356,20.192,28.042,18.133
+Querétaro,queretaro,24,2025-06-15,15.991,20.114,29.493,47.455
+Querétaro,queretaro,25,2025-06-22,14.999,16.725,21.411,162.787
+Querétaro,queretaro,26,2025-06-29,13.389,17.053,23.147,41.264
+Querétaro,queretaro,27,2025-07-06,15.179,18.76,26.087,60.379
+Querétaro,queretaro,28,2025-07-13,13.588,17.628,23.313,46.415
+Querétaro,queretaro,29,2025-07-20,14.359,17.656,23.361,58.762
+Querétaro,queretaro,30,2025-07-27,13.861,18.463,24.669,11.421
+Querétaro,queretaro,31,2025-08-03,13.799,17.779,25.93,12.488
+Querétaro,queretaro,32,2025-08-10,13.574,18.756,26.25,16.055
+Querétaro,queretaro,33,2025-08-17,14.287,19.307,26.203,22.135
+Querétaro,queretaro,34,2025-08-24,14.073,18.819,24.881,30.675
+Querétaro,queretaro,35,2025-08-31,14.859,18.859,25.788,12.82
+Querétaro,queretaro,36,2025-09-07,14.612,18.743,25.097,59.333
+Querétaro,queretaro,37,2025-09-14,14.963,17.769,23.112,90.224
+Querétaro,queretaro,38,2025-09-21,14.214,17.689,23.564,40.664
+Querétaro,queretaro,39,2025-09-28,14.209,18.393,24.096,31.805
+Querétaro,queretaro,40,2025-10-05,10.123,16.678,22.558,7.103
+Querétaro,queretaro,41,2025-10-12,12.986,16.677,23.568,120.486
+Querétaro,queretaro,42,2025-10-19,11.319,17.195,24.826,1.905
+Querétaro,queretaro,43,2025-10-26,11.118,17.498,25.944,1.919
+Querétaro,queretaro,44,2025-11-02,7.535,15.881,25.657,4.001
+Querétaro,queretaro,45,2025-11-09,6.272,15.01,25.189,0.592
+Querétaro,queretaro,46,2025-11-16,5.821,13.845,26.118,2.646
+Querétaro,queretaro,47,2025-11-23,9.418,17.647,26.315,1.396
+Querétaro,queretaro,48,2025-11-30,10.02,16.013,25.132,14.138
+Querétaro,queretaro,49,2025-12-07,10.59,16.946,24.925,4.678
+Querétaro,queretaro,50,2025-12-14,8.623,15.001,23.205,7.739
+Querétaro,queretaro,51,2025-12-21,5.78,14.167,22.508,10.622
+Querétaro,queretaro,52,2025-12-28,8.985,14.367,22.862,3.61
+Quintana Roo,quintana roo,1,2025-01-05,19.09,22.989,27.018,14.813
+Quintana Roo,quintana roo,2,2025-01-12,18.372,23.15,28.503,6.069
+Quintana Roo,quintana roo,3,2025-01-19,20.839,24.939,30.239,7.236
+Quintana Roo,quintana roo,4,2025-01-26,17.587,22.042,27.308,18.698
+Quintana Roo,quintana roo,5,2025-02-02,20.917,24.687,29.399,7.551
+Quintana Roo,quintana roo,6,2025-02-09,21.208,24.84,29.498,5.231
+Quintana Roo,quintana roo,7,2025-02-16,21.689,25.579,30.499,10.032
+Quintana Roo,quintana roo,8,2025-02-23,21.24,24.922,30.518,21.187
+Quintana Roo,quintana roo,9,2025-03-02,17.718,24.118,29.82,5.301
+Quintana Roo,quintana roo,10,2025-03-09,21.636,26.204,32.548,2.125
+Quintana Roo,quintana roo,11,2025-03-16,19.831,26.477,34.928,2.237
+Quintana Roo,quintana roo,12,2025-03-23,18.992,25.279,31.554,3.535
+Quintana Roo,quintana roo,13,2025-03-30,23.047,27.07,32.822,4.487
+Quintana Roo,quintana roo,14,2025-04-06,24.451,28.07,32.759,4.233
+Quintana Roo,quintana roo,15,2025-04-13,19.003,25.018,32.455,20.684
+Quintana Roo,quintana roo,16,2025-04-20,19.755,26.279,32.32,2.62
+Quintana Roo,quintana roo,17,2025-04-27,22.224,27.068,32.58,3.472
+Quintana Roo,quintana roo,18,2025-05-04,23.116,27.636,34.495,4.807
+Quintana Roo,quintana roo,19,2025-05-11,23.257,28.402,34.61,43.947
+Quintana Roo,quintana roo,20,2025-05-18,22.205,28.049,33.31,3.952
+Quintana Roo,quintana roo,21,2025-05-25,25.871,29.401,34.59,3.581
+Quintana Roo,quintana roo,22,2025-06-01,25.379,29.518,35.069,3.507
+Quintana Roo,quintana roo,23,2025-06-08,24.402,28.482,34.026,33.214
+Quintana Roo,quintana roo,24,2025-06-15,25.441,28.628,33.625,13.663
+Quintana Roo,quintana roo,25,2025-06-22,24.516,27.484,32.746,45.14
+Quintana Roo,quintana roo,26,2025-06-29,23.485,26.232,31.56,80.474
+Quintana Roo,quintana roo,27,2025-07-06,24.193,27.968,32.803,8.345
+Quintana Roo,quintana roo,28,2025-07-13,24.119,27.772,32.655,24.371
+Quintana Roo,quintana roo,29,2025-07-20,24.5,28.666,34.343,7.239
+Quintana Roo,quintana roo,30,2025-07-27,24.154,28.095,33.508,19.713
+Quintana Roo,quintana roo,31,2025-08-03,24.344,28.316,33.687,18.771
+Quintana Roo,quintana roo,32,2025-08-10,24.125,28.176,34.08,32.273
+Quintana Roo,quintana roo,33,2025-08-17,24.373,27.631,33.241,40.051
+Quintana Roo,quintana roo,34,2025-08-24,24.006,28.449,33.942,10.561
+Quintana Roo,quintana roo,35,2025-08-31,24.8,28.215,33.927,30.847
+Quintana Roo,quintana roo,36,2025-09-07,24.736,29.0,34.65,11.215
+Quintana Roo,quintana roo,37,2025-09-14,23.493,27.46,33.303,39.827
+Quintana Roo,quintana roo,38,2025-09-21,23.728,26.375,31.814,64.203
+Quintana Roo,quintana roo,39,2025-09-28,24.174,27.662,33.303,28.418
+Quintana Roo,quintana roo,40,2025-10-05,23.632,27.33,32.956,39.519
+Quintana Roo,quintana roo,41,2025-10-12,21.75,26.133,31.406,58.906
+Quintana Roo,quintana roo,42,2025-10-19,22.24,26.228,30.823,33.159
+Quintana Roo,quintana roo,43,2025-10-26,22.784,26.255,31.295,21.25
+Quintana Roo,quintana roo,44,2025-11-02,19.22,25.608,31.495,3.375
+Quintana Roo,quintana roo,45,2025-11-09,20.831,25.406,30.569,30.147
+Quintana Roo,quintana roo,46,2025-11-16,18.973,23.8,29.216,16.624
+Quintana Roo,quintana roo,47,2025-11-23,21.135,25.261,29.85,4.407
+Quintana Roo,quintana roo,48,2025-11-30,20.219,24.846,29.876,11.63
+Quintana Roo,quintana roo,49,2025-12-07,21.271,25.529,30.42,4.994
+Quintana Roo,quintana roo,50,2025-12-14,21.596,24.437,29.584,56.381
+Quintana Roo,quintana roo,51,2025-12-21,19.65,24.229,28.904,14.157
+Quintana Roo,quintana roo,52,2025-12-28,20.094,24.154,28.424,12.729
+San Luis Potosí,san luis potosi,1,2025-01-05,8.807,15.428,24.853,3.468
+San Luis Potosí,san luis potosi,2,2025-01-12,4.056,11.873,22.708,11.031
+San Luis Potosí,san luis potosi,3,2025-01-19,6.987,14.628,27.056,0.736
+San Luis Potosí,san luis potosi,4,2025-01-26,1.141,10.413,23.65,1.924
+San Luis Potosí,san luis potosi,5,2025-02-02,7.69,16.349,27.929,1.182
+San Luis Potosí,san luis potosi,6,2025-02-09,9.553,17.702,26.834,1.727
+San Luis Potosí,san luis potosi,7,2025-02-16,9.992,18.569,29.619,2.1
+San Luis Potosí,san luis potosi,8,2025-02-23,7.063,15.526,27.752,3.973
+San Luis Potosí,san luis potosi,9,2025-03-02,7.339,18.103,29.645,1.514
+San Luis Potosí,san luis potosi,10,2025-03-09,9.03,20.418,33.242,0.082
+San Luis Potosí,san luis potosi,11,2025-03-16,6.561,19.413,31.95,0.01
+San Luis Potosí,san luis potosi,12,2025-03-23,7.52,18.199,31.067,0.468
+San Luis Potosí,san luis potosi,13,2025-03-30,12.419,20.857,32.3,4.651
+San Luis Potosí,san luis potosi,14,2025-04-06,13.415,23.684,34.908,0.596
+San Luis Potosí,san luis potosi,15,2025-04-13,7.257,17.245,28.184,0.428
+San Luis Potosí,san luis potosi,16,2025-04-20,11.338,21.361,32.228,0.402
+San Luis Potosí,san luis potosi,17,2025-04-27,15.325,22.32,31.359,8.341
+San Luis Potosí,san luis potosi,18,2025-05-04,14.789,22.859,32.149,6.415
+San Luis Potosí,san luis potosi,19,2025-05-11,14.024,22.474,34.574,14.996
+San Luis Potosí,san luis potosi,20,2025-05-18,12.731,25.015,34.753,0.497
+San Luis Potosí,san luis potosi,21,2025-05-25,17.644,25.088,35.495,10.32
+San Luis Potosí,san luis potosi,22,2025-06-01,17.649,22.574,31.63,39.357
+San Luis Potosí,san luis potosi,23,2025-06-08,16.813,22.901,30.931,17.812
+San Luis Potosí,san luis potosi,24,2025-06-15,17.418,22.616,32.714,27.829
+San Luis Potosí,san luis potosi,25,2025-06-22,15.571,19.144,24.63,92.144
+San Luis Potosí,san luis potosi,26,2025-06-29,14.504,19.344,26.18,28.188
+San Luis Potosí,san luis potosi,27,2025-07-06,17.041,20.935,27.974,34.926
+San Luis Potosí,san luis potosi,28,2025-07-13,16.033,20.298,25.876,31.486
+San Luis Potosí,san luis potosi,29,2025-07-20,15.629,19.851,25.317,36.512
+San Luis Potosí,san luis potosi,30,2025-07-27,16.046,21.174,28.362,10.33
+San Luis Potosí,san luis potosi,31,2025-08-03,15.142,20.908,29.528,5.512
+San Luis Potosí,san luis potosi,32,2025-08-10,15.803,22.125,29.848,5.79
+San Luis Potosí,san luis potosi,33,2025-08-17,17.105,22.651,29.971,10.508
+San Luis Potosí,san luis potosi,34,2025-08-24,16.687,21.513,29.248,35.851
+San Luis Potosí,san luis potosi,35,2025-08-31,16.363,21.026,28.206,14.229
+San Luis Potosí,san luis potosi,36,2025-09-07,16.913,21.766,28.161,27.393
+San Luis Potosí,san luis potosi,37,2025-09-14,16.525,19.797,25.132,60.912
+San Luis Potosí,san luis potosi,38,2025-09-21,16.053,19.86,26.249,24.985
+San Luis Potosí,san luis potosi,39,2025-09-28,16.444,21.093,27.639,28.085
+San Luis Potosí,san luis potosi,40,2025-10-05,12.784,19.408,25.673,3.757
+San Luis Potosí,san luis potosi,41,2025-10-12,13.393,18.792,26.086,57.096
+San Luis Potosí,san luis potosi,42,2025-10-19,12.06,19.756,28.03,1.683
+San Luis Potosí,san luis potosi,43,2025-10-26,12.716,20.082,28.347,1.605
+San Luis Potosí,san luis potosi,44,2025-11-02,9.547,18.094,28.231,3.385
+San Luis Potosí,san luis potosi,45,2025-11-09,8.28,17.327,27.236,0.269
+San Luis Potosí,san luis potosi,46,2025-11-16,6.509,15.761,27.705,0.892
+San Luis Potosí,san luis potosi,47,2025-11-23,11.954,19.43,27.634,1.617
+San Luis Potosí,san luis potosi,48,2025-11-30,11.865,17.358,26.569,12.243
+San Luis Potosí,san luis potosi,49,2025-12-07,11.275,17.641,26.346,4.846
+San Luis Potosí,san luis potosi,50,2025-12-14,8.786,16.07,24.923,3.59
+San Luis Potosí,san luis potosi,51,2025-12-21,7.187,15.679,24.729,6.129
+San Luis Potosí,san luis potosi,52,2025-12-28,9.875,15.925,24.802,5.589
+Sinaloa,sinaloa,1,2025-01-05,10.968,19.479,29.018,0.006
+Sinaloa,sinaloa,2,2025-01-12,8.275,16.589,27.489,19.471
+Sinaloa,sinaloa,3,2025-01-19,8.877,17.622,26.582,0.425
+Sinaloa,sinaloa,4,2025-01-26,8.8,17.827,28.564,0.031
+Sinaloa,sinaloa,5,2025-02-02,8.024,18.11,29.664,0.011
+Sinaloa,sinaloa,6,2025-02-09,10.678,20.44,30.951,0.016
+Sinaloa,sinaloa,7,2025-02-16,10.775,19.908,29.858,0.46
+Sinaloa,sinaloa,8,2025-02-23,11.082,20.653,31.087,0.006
+Sinaloa,sinaloa,9,2025-03-02,12.004,21.25,31.642,0.015
+Sinaloa,sinaloa,10,2025-03-09,10.13,20.078,30.152,0.043
+Sinaloa,sinaloa,11,2025-03-16,10.282,20.112,32.108,0.013
+Sinaloa,sinaloa,12,2025-03-23,11.866,21.846,32.329,0.013
+Sinaloa,sinaloa,13,2025-03-30,12.833,22.457,32.283,0.037
+Sinaloa,sinaloa,14,2025-04-06,11.834,21.493,33.104,0.301
+Sinaloa,sinaloa,15,2025-04-13,12.423,23.714,34.619,0.026
+Sinaloa,sinaloa,16,2025-04-20,14.71,25.255,35.209,0.041
+Sinaloa,sinaloa,17,2025-04-27,14.303,23.953,34.055,0.012
+Sinaloa,sinaloa,18,2025-05-04,15.056,24.914,33.86,0.012
+Sinaloa,sinaloa,19,2025-05-11,14.889,24.675,35.7,0.089
+Sinaloa,sinaloa,20,2025-05-18,17.802,26.903,36.197,0.034
+Sinaloa,sinaloa,21,2025-05-25,17.661,27.261,36.849,0.038
+Sinaloa,sinaloa,22,2025-06-01,19.685,27.684,36.167,6.315
+Sinaloa,sinaloa,23,2025-06-08,20.597,27.989,35.86,0.416
+Sinaloa,sinaloa,24,2025-06-15,23.508,28.971,37.047,7.392
+Sinaloa,sinaloa,25,2025-06-22,22.867,28.005,36.785,39.482
+Sinaloa,sinaloa,26,2025-06-29,22.632,27.646,35.353,25.536
+Sinaloa,sinaloa,27,2025-07-06,22.622,26.964,33.982,65.562
+Sinaloa,sinaloa,28,2025-07-13,22.451,26.504,32.642,47.622
+Sinaloa,sinaloa,29,2025-07-20,21.332,26.761,33.369,44.728
+Sinaloa,sinaloa,30,2025-07-27,21.778,28.207,34.986,8.367
+Sinaloa,sinaloa,31,2025-08-03,23.61,28.307,34.049,24.662
+Sinaloa,sinaloa,32,2025-08-10,22.698,28.064,35.471,29.985
+Sinaloa,sinaloa,33,2025-08-17,22.547,26.863,33.59,45.744
+Sinaloa,sinaloa,34,2025-08-24,22.599,27.397,33.71,51.457
+Sinaloa,sinaloa,35,2025-08-31,22.304,26.353,31.621,58.109
+Sinaloa,sinaloa,36,2025-09-07,22.064,26.22,32.065,35.946
+Sinaloa,sinaloa,37,2025-09-14,23.187,27.125,32.895,36.059
+Sinaloa,sinaloa,38,2025-09-21,22.335,26.519,31.928,42.387
+Sinaloa,sinaloa,39,2025-09-28,21.709,26.722,33.246,79.246
+Sinaloa,sinaloa,40,2025-10-05,21.937,26.727,32.829,13.383
+Sinaloa,sinaloa,41,2025-10-12,21.852,26.771,35.194,41.856
+Sinaloa,sinaloa,42,2025-10-19,19.652,25.112,32.061,8.17
+Sinaloa,sinaloa,43,2025-10-26,18.749,26.075,32.698,1.309
+Sinaloa,sinaloa,44,2025-11-02,17.872,24.947,32.757,1.083
+Sinaloa,sinaloa,45,2025-11-09,16.668,24.631,33.448,0.061
+Sinaloa,sinaloa,46,2025-11-16,16.469,24.203,32.97,0.016
+Sinaloa,sinaloa,47,2025-11-23,15.26,22.686,30.64,1.387
+Sinaloa,sinaloa,48,2025-11-30,14.003,21.843,31.119,0.017
+Sinaloa,sinaloa,49,2025-12-07,14.956,21.071,28.725,8.368
+Sinaloa,sinaloa,50,2025-12-14,13.903,21.289,30.36,0.008
+Sinaloa,sinaloa,51,2025-12-21,12.964,20.894,31.441,0.025
+Sinaloa,sinaloa,52,2025-12-28,14.211,22.611,32.304,0.031
+Sonora,sonora,1,2025-01-05,7.046,16.402,26.889,0.0
+Sonora,sonora,2,2025-01-12,2.436,11.562,22.967,4.647
+Sonora,sonora,3,2025-01-19,2.123,11.857,21.9,0.069
+Sonora,sonora,4,2025-01-26,2.896,12.909,23.708,0.013
+Sonora,sonora,5,2025-02-02,2.814,12.783,27.969,0.38
+Sonora,sonora,6,2025-02-09,8.463,19.008,29.693,0.01
+Sonora,sonora,7,2025-02-16,6.626,15.93,26.069,0.11
+Sonora,sonora,8,2025-02-23,7.571,17.548,27.834,0.003
+Sonora,sonora,9,2025-03-02,8.046,19.474,30.705,0.011
+Sonora,sonora,10,2025-03-09,5.443,15.149,26.885,1.427
+Sonora,sonora,11,2025-03-16,6.477,15.627,28.241,2.738
+Sonora,sonora,12,2025-03-23,8.352,19.619,30.219,0.01
+Sonora,sonora,13,2025-03-30,10.676,21.874,33.314,0.061
+Sonora,sonora,14,2025-04-06,7.047,17.362,30.584,0.625
+Sonora,sonora,15,2025-04-13,10.385,24.561,36.931,0.01
+Sonora,sonora,16,2025-04-20,10.404,21.885,33.072,0.119
+Sonora,sonora,17,2025-04-27,11.73,22.088,30.868,0.01
+Sonora,sonora,18,2025-05-04,11.975,21.847,30.518,0.062
+Sonora,sonora,19,2025-05-11,10.305,23.26,37.26,0.521
+Sonora,sonora,20,2025-05-18,14.676,24.883,35.223,0.012
+Sonora,sonora,21,2025-05-25,15.1,26.692,37.02,0.01
+Sonora,sonora,22,2025-06-01,16.069,26.838,35.569,5.704
+Sonora,sonora,23,2025-06-08,17.796,26.618,38.44,6.021
+Sonora,sonora,24,2025-06-15,20.113,30.346,41.443,0.292
+Sonora,sonora,25,2025-06-22,22.046,31.091,40.838,1.44
+Sonora,sonora,26,2025-06-29,21.318,29.209,39.785,8.487
+Sonora,sonora,27,2025-07-06,22.772,29.845,40.153,19.534
+Sonora,sonora,28,2025-07-13,23.81,30.225,38.547,6.054
+Sonora,sonora,29,2025-07-20,22.147,28.165,35.882,22.053
+Sonora,sonora,30,2025-07-27,20.376,29.445,39.288,3.286
+Sonora,sonora,31,2025-08-03,23.602,31.314,39.579,4.418
+Sonora,sonora,32,2025-08-10,24.291,31.772,41.316,6.411
+Sonora,sonora,33,2025-08-17,22.902,29.206,37.203,16.936
+Sonora,sonora,34,2025-08-24,23.102,29.984,37.951,9.957
+Sonora,sonora,35,2025-08-31,22.998,28.9,36.991,14.909
+Sonora,sonora,36,2025-09-07,20.715,26.084,35.349,63.115
+Sonora,sonora,37,2025-09-14,21.138,27.476,34.994,8.828
+Sonora,sonora,38,2025-09-21,21.778,27.173,34.111,18.552
+Sonora,sonora,39,2025-09-28,18.771,27.142,37.077,19.842
+Sonora,sonora,40,2025-10-05,16.892,25.962,34.739,0.13
+Sonora,sonora,41,2025-10-12,16.369,26.154,35.667,39.032
+Sonora,sonora,42,2025-10-19,13.746,21.402,30.39,13.274
+Sonora,sonora,43,2025-10-26,13.511,23.049,32.925,0.321
+Sonora,sonora,44,2025-11-02,13.778,23.168,33.06,0.134
+Sonora,sonora,45,2025-11-09,12.875,22.493,32.124,0.001
+Sonora,sonora,46,2025-11-16,12.905,21.616,31.5,0.356
+Sonora,sonora,47,2025-11-23,8.473,16.139,23.967,20.561
+Sonora,sonora,48,2025-11-30,8.38,16.506,26.632,0.003
+Sonora,sonora,49,2025-12-07,7.791,15.295,24.168,1.06
+Sonora,sonora,50,2025-12-14,8.345,17.499,28.049,0.0
+Sonora,sonora,51,2025-12-21,9.594,18.288,28.334,0.01
+Sonora,sonora,52,2025-12-28,9.675,19.0,28.755,2.567
+Tabasco,tabasco,1,2025-01-05,19.465,23.793,28.649,10.559
+Tabasco,tabasco,2,2025-01-12,19.641,23.69,30.89,25.711
+Tabasco,tabasco,3,2025-01-19,18.854,23.937,30.869,19.856
+Tabasco,tabasco,4,2025-01-26,17.587,21.621,26.818,36.103
+Tabasco,tabasco,5,2025-02-02,19.118,24.672,31.34,18.097
+Tabasco,tabasco,6,2025-02-09,21.298,25.212,30.402,4.042
+Tabasco,tabasco,7,2025-02-16,21.617,26.512,33.33,3.591
+Tabasco,tabasco,8,2025-02-23,20.547,24.65,32.591,71.968
+Tabasco,tabasco,9,2025-03-02,16.374,24.01,31.102,5.508
+Tabasco,tabasco,10,2025-03-09,21.315,26.874,34.53,3.097
+Tabasco,tabasco,11,2025-03-16,18.727,26.324,36.088,9.253
+Tabasco,tabasco,12,2025-03-23,19.692,25.462,33.941,11.932
+Tabasco,tabasco,13,2025-03-30,23.089,28.704,36.201,0.576
+Tabasco,tabasco,14,2025-04-06,24.543,31.021,37.85,0.642
+Tabasco,tabasco,15,2025-04-13,19.211,23.9,30.779,25.053
+Tabasco,tabasco,16,2025-04-20,21.324,28.024,36.015,0.516
+Tabasco,tabasco,17,2025-04-27,23.868,29.651,36.0,0.903
+Tabasco,tabasco,18,2025-05-04,24.387,30.522,37.987,0.471
+Tabasco,tabasco,19,2025-05-11,23.908,30.959,39.751,14.864
+Tabasco,tabasco,20,2025-05-18,21.847,30.924,38.779,0.049
+Tabasco,tabasco,21,2025-05-25,27.357,32.626,40.227,2.605
+Tabasco,tabasco,22,2025-06-01,26.234,31.69,38.541,8.785
+Tabasco,tabasco,23,2025-06-08,24.893,29.804,37.102,36.809
+Tabasco,tabasco,24,2025-06-15,25.557,30.347,36.314,18.165
+Tabasco,tabasco,25,2025-06-22,24.017,27.692,34.431,51.839
+Tabasco,tabasco,26,2025-06-29,23.602,26.577,33.023,94.904
+Tabasco,tabasco,27,2025-07-06,24.089,28.413,34.117,4.685
+Tabasco,tabasco,28,2025-07-13,24.154,28.283,33.844,23.338
+Tabasco,tabasco,29,2025-07-20,24.88,29.715,35.525,4.678
+Tabasco,tabasco,30,2025-07-27,24.7,29.218,35.623,17.709
+Tabasco,tabasco,31,2025-08-03,23.772,27.511,33.171,58.957
+Tabasco,tabasco,32,2025-08-10,23.656,27.908,33.674,39.073
+Tabasco,tabasco,33,2025-08-17,24.175,28.929,35.301,15.64
+Tabasco,tabasco,34,2025-08-24,24.181,28.089,33.551,39.444
+Tabasco,tabasco,35,2025-08-31,23.707,27.873,33.764,50.348
+Tabasco,tabasco,36,2025-09-07,24.219,29.126,35.315,15.401
+Tabasco,tabasco,37,2025-09-14,23.421,26.897,33.129,96.016
+Tabasco,tabasco,38,2025-09-21,23.535,26.012,31.491,102.389
+Tabasco,tabasco,39,2025-09-28,23.916,27.238,32.709,52.504
+Tabasco,tabasco,40,2025-10-05,23.016,25.987,30.423,65.598
+Tabasco,tabasco,41,2025-10-12,22.756,25.842,31.165,73.224
+Tabasco,tabasco,42,2025-10-19,21.853,26.219,31.717,14.9
+Tabasco,tabasco,43,2025-10-26,22.41,26.181,31.106,33.389
+Tabasco,tabasco,44,2025-11-02,19.171,24.785,30.135,16.367
+Tabasco,tabasco,45,2025-11-09,20.639,25.035,31.156,13.863
+Tabasco,tabasco,46,2025-11-16,18.047,23.152,29.315,39.729
+Tabasco,tabasco,47,2025-11-23,21.78,25.945,30.335,1.852
+Tabasco,tabasco,48,2025-11-30,20.256,24.76,30.413,21.485
+Tabasco,tabasco,49,2025-12-07,20.948,25.393,30.931,1.601
+Tabasco,tabasco,50,2025-12-14,21.393,24.508,28.886,47.295
+Tabasco,tabasco,51,2025-12-21,19.754,24.218,29.144,19.496
+Tabasco,tabasco,52,2025-12-28,20.093,24.023,28.571,22.094
+Tamaulipas,tamaulipas,1,2025-01-05,15.28,20.406,28.868,3.004
+Tamaulipas,tamaulipas,2,2025-01-12,6.278,12.247,25.622,9.997
+Tamaulipas,tamaulipas,3,2025-01-19,9.375,15.717,27.877,0.889
+Tamaulipas,tamaulipas,4,2025-01-26,0.498,10.812,25.57,4.379
+Tamaulipas,tamaulipas,5,2025-02-02,12.179,19.675,28.388,2.183
+Tamaulipas,tamaulipas,6,2025-02-09,16.41,22.221,29.657,2.22
+Tamaulipas,tamaulipas,7,2025-02-16,11.806,21.166,33.324,2.582
+Tamaulipas,tamaulipas,8,2025-02-23,5.668,13.677,28.63,3.019
+Tamaulipas,tamaulipas,9,2025-03-02,8.788,19.671,29.148,1.254
+Tamaulipas,tamaulipas,10,2025-03-09,13.304,23.036,35.995,0.377
+Tamaulipas,tamaulipas,11,2025-03-16,11.616,22.81,36.161,0.056
+Tamaulipas,tamaulipas,12,2025-03-23,12.985,21.496,31.952,0.404
+Tamaulipas,tamaulipas,13,2025-03-30,18.911,24.222,34.394,23.516
+Tamaulipas,tamaulipas,14,2025-04-06,15.23,26.476,36.992,0.499
+Tamaulipas,tamaulipas,15,2025-04-13,12.255,21.281,31.207,0.068
+Tamaulipas,tamaulipas,16,2025-04-20,17.203,24.715,33.042,0.885
+Tamaulipas,tamaulipas,17,2025-04-27,20.623,25.668,32.571,8.356
+Tamaulipas,tamaulipas,18,2025-05-04,20.616,25.896,33.322,16.419
+Tamaulipas,tamaulipas,19,2025-05-11,18.118,25.711,35.418,19.234
+Tamaulipas,tamaulipas,20,2025-05-18,19.046,28.489,37.591,0.42
+Tamaulipas,tamaulipas,21,2025-05-25,23.884,29.265,37.425,6.077
+Tamaulipas,tamaulipas,22,2025-06-01,23.232,27.806,35.413,24.732
+Tamaulipas,tamaulipas,23,2025-06-08,23.857,28.766,35.375,5.779
+Tamaulipas,tamaulipas,24,2025-06-15,24.033,28.698,35.662,16.983
+Tamaulipas,tamaulipas,25,2025-06-22,22.234,25.89,32.301,82.325
+Tamaulipas,tamaulipas,26,2025-06-29,21.539,25.861,31.576,26.696
+Tamaulipas,tamaulipas,27,2025-07-06,22.233,25.451,31.244,98.777
+Tamaulipas,tamaulipas,28,2025-07-13,22.176,26.462,31.756,12.97
+Tamaulipas,tamaulipas,29,2025-07-20,22.303,27.003,32.661,10.146
+Tamaulipas,tamaulipas,30,2025-07-27,23.215,27.841,34.104,6.115
+Tamaulipas,tamaulipas,31,2025-08-03,21.738,27.948,35.451,2.655
+Tamaulipas,tamaulipas,32,2025-08-10,23.288,28.566,35.313,5.86
+Tamaulipas,tamaulipas,33,2025-08-17,23.995,28.781,35.192,7.855
+Tamaulipas,tamaulipas,34,2025-08-24,23.0,27.755,34.572,37.209
+Tamaulipas,tamaulipas,35,2025-08-31,23.168,27.623,34.1,13.073
+Tamaulipas,tamaulipas,36,2025-09-07,22.932,28.03,34.664,30.678
+Tamaulipas,tamaulipas,37,2025-09-14,22.271,25.256,30.15,74.207
+Tamaulipas,tamaulipas,38,2025-09-21,21.845,25.279,30.654,33.371
+Tamaulipas,tamaulipas,39,2025-09-28,21.416,26.417,32.062,16.705
+Tamaulipas,tamaulipas,40,2025-10-05,20.003,25.446,31.294,2.094
+Tamaulipas,tamaulipas,41,2025-10-12,19.489,24.712,31.86,39.888
+Tamaulipas,tamaulipas,42,2025-10-19,19.386,24.85,32.023,2.87
+Tamaulipas,tamaulipas,43,2025-10-26,20.863,25.816,31.966,1.958
+Tamaulipas,tamaulipas,44,2025-11-02,12.627,22.15,31.872,2.103
+Tamaulipas,tamaulipas,45,2025-11-09,14.6,21.742,31.369,0.467
+Tamaulipas,tamaulipas,46,2025-11-16,10.663,20.457,29.872,0.318
+Tamaulipas,tamaulipas,47,2025-11-23,19.499,24.486,30.52,2.232
+Tamaulipas,tamaulipas,48,2025-11-30,16.717,21.902,30.083,20.722
+Tamaulipas,tamaulipas,49,2025-12-07,13.454,18.693,28.681,4.122
+Tamaulipas,tamaulipas,50,2025-12-14,11.564,19.592,27.947,4.208
+Tamaulipas,tamaulipas,51,2025-12-21,11.965,19.268,28.297,7.282
+Tamaulipas,tamaulipas,52,2025-12-28,16.999,21.579,27.874,5.397
+Tlaxcala,tlaxcala,1,2025-01-05,4.453,11.068,18.66,1.517
+Tlaxcala,tlaxcala,2,2025-01-12,4.95,11.262,18.649,8.418
+Tlaxcala,tlaxcala,3,2025-01-19,4.375,12.421,20.303,2.489
+Tlaxcala,tlaxcala,4,2025-01-26,3.12,10.93,20.456,0.351
+Tlaxcala,tlaxcala,5,2025-02-02,5.931,13.079,21.771,4.955
+Tlaxcala,tlaxcala,6,2025-02-09,5.126,12.236,21.324,9.715
+Tlaxcala,tlaxcala,7,2025-02-16,6.534,13.853,21.534,2.766
+Tlaxcala,tlaxcala,8,2025-02-23,6.514,12.709,21.533,19.267
+Tlaxcala,tlaxcala,9,2025-03-02,2.906,14.525,23.617,4.242
+Tlaxcala,tlaxcala,10,2025-03-09,6.985,15.629,24.282,0.914
+Tlaxcala,tlaxcala,11,2025-03-16,6.152,16.159,24.989,0.079
+Tlaxcala,tlaxcala,12,2025-03-23,5.736,14.145,25.049,5.605
+Tlaxcala,tlaxcala,13,2025-03-30,7.869,15.169,23.786,14.602
+Tlaxcala,tlaxcala,14,2025-04-06,8.36,16.921,25.591,0.519
+Tlaxcala,tlaxcala,15,2025-04-13,0.603,12.979,22.849,2.272
+Tlaxcala,tlaxcala,16,2025-04-20,2.386,15.522,26.427,0.41
+Tlaxcala,tlaxcala,17,2025-04-27,8.578,16.21,24.398,15.041
+Tlaxcala,tlaxcala,18,2025-05-04,7.001,16.331,24.307,13.51
+Tlaxcala,tlaxcala,19,2025-05-11,9.776,16.303,26.106,23.115
+Tlaxcala,tlaxcala,20,2025-05-18,7.476,17.617,26.848,2.975
+Tlaxcala,tlaxcala,21,2025-05-25,11.33,17.652,26.614,16.244
+Tlaxcala,tlaxcala,22,2025-06-01,10.473,15.032,21.559,120.654
+Tlaxcala,tlaxcala,23,2025-06-08,10.021,15.59,22.859,19.992
+Tlaxcala,tlaxcala,24,2025-06-15,10.975,15.392,22.786,38.559
+Tlaxcala,tlaxcala,25,2025-06-22,10.034,13.382,17.619,86.788
+Tlaxcala,tlaxcala,26,2025-06-29,8.314,13.327,20.149,65.815
+Tlaxcala,tlaxcala,27,2025-07-06,8.397,14.609,22.3,51.346
+Tlaxcala,tlaxcala,28,2025-07-13,8.645,13.562,20.666,30.969
+Tlaxcala,tlaxcala,29,2025-07-20,9.009,14.56,20.747,18.346
+Tlaxcala,tlaxcala,30,2025-07-27,8.021,14.582,21.621,9.98
+Tlaxcala,tlaxcala,31,2025-08-03,6.764,13.587,21.19,19.072
+Tlaxcala,tlaxcala,32,2025-08-10,8.566,14.473,21.164,15.963
+Tlaxcala,tlaxcala,33,2025-08-17,8.345,14.418,21.322,35.622
+Tlaxcala,tlaxcala,34,2025-08-24,8.56,14.818,21.003,55.704
+Tlaxcala,tlaxcala,35,2025-08-31,9.262,14.898,21.208,17.264
+Tlaxcala,tlaxcala,36,2025-09-07,10.041,14.811,21.957,47.998
+Tlaxcala,tlaxcala,37,2025-09-14,10.411,14.636,21.012,26.125
+Tlaxcala,tlaxcala,38,2025-09-21,9.426,14.412,20.325,20.507
+Tlaxcala,tlaxcala,39,2025-09-28,9.269,14.541,20.69,36.909
+Tlaxcala,tlaxcala,40,2025-10-05,8.549,13.723,19.633,31.503
+Tlaxcala,tlaxcala,41,2025-10-12,10.234,13.701,20.291,67.533
+Tlaxcala,tlaxcala,42,2025-10-19,7.517,13.454,20.881,5.948
+Tlaxcala,tlaxcala,43,2025-10-26,6.633,13.704,22.263,0.485
+Tlaxcala,tlaxcala,44,2025-11-02,3.967,12.024,21.794,0.367
+Tlaxcala,tlaxcala,45,2025-11-09,3.571,12.169,21.501,0.116
+Tlaxcala,tlaxcala,46,2025-11-16,3.927,11.513,22.655,2.339
+Tlaxcala,tlaxcala,47,2025-11-23,6.043,13.912,22.622,0.093
+Tlaxcala,tlaxcala,48,2025-11-30,6.071,12.682,21.351,3.951
+Tlaxcala,tlaxcala,49,2025-12-07,7.471,13.946,21.319,2.174
+Tlaxcala,tlaxcala,50,2025-12-14,5.282,11.902,19.336,9.49
+Tlaxcala,tlaxcala,51,2025-12-21,4.255,11.126,19.036,6.151
+Tlaxcala,tlaxcala,52,2025-12-28,2.722,10.691,17.954,14.421
+Veracruz de Ignacio de la Llave,veracruz,1,2025-01-05,16.389,21.108,26.418,18.384
+Veracruz de Ignacio de la Llave,veracruz,2,2025-01-12,13.069,18.322,26.938,19.937
+Veracruz de Ignacio de la Llave,veracruz,3,2025-01-19,15.401,20.46,30.444,11.793
+Veracruz de Ignacio de la Llave,veracruz,4,2025-01-26,10.359,16.422,24.424,18.482
+Veracruz de Ignacio de la Llave,veracruz,5,2025-02-02,15.812,21.125,29.389,22.089
+Veracruz de Ignacio de la Llave,veracruz,6,2025-02-09,17.991,22.281,27.547,11.929
+Veracruz de Ignacio de la Llave,veracruz,7,2025-02-16,17.857,23.26,32.035,9.271
+Veracruz de Ignacio de la Llave,veracruz,8,2025-02-23,14.712,19.811,29.177,38.7
+Veracruz de Ignacio de la Llave,veracruz,9,2025-03-02,13.616,21.196,28.48,6.086
+Veracruz de Ignacio de la Llave,veracruz,10,2025-03-09,16.891,24.212,34.178,4.032
+Veracruz de Ignacio de la Llave,veracruz,11,2025-03-16,15.19,23.733,35.539,1.822
+Veracruz de Ignacio de la Llave,veracruz,12,2025-03-23,15.24,22.384,32.255,6.589
+Veracruz de Ignacio de la Llave,veracruz,13,2025-03-30,20.078,25.607,34.923,8.927
+Veracruz de Ignacio de la Llave,veracruz,14,2025-04-06,20.849,27.806,36.32,2.661
+Veracruz de Ignacio de la Llave,veracruz,15,2025-04-13,14.905,20.958,28.378,6.457
+Veracruz de Ignacio de la Llave,veracruz,16,2025-04-20,17.62,24.727,33.15,2.181
+Veracruz de Ignacio de la Llave,veracruz,17,2025-04-27,20.77,26.399,32.574,9.55
+Veracruz de Ignacio de la Llave,veracruz,18,2025-05-04,21.134,27.013,33.649,17.47
+Veracruz de Ignacio de la Llave,veracruz,19,2025-05-11,20.869,27.266,37.046,41.77
+Veracruz de Ignacio de la Llave,veracruz,20,2025-05-18,19.363,27.484,35.053,1.09
+Veracruz de Ignacio de la Llave,veracruz,21,2025-05-25,23.894,28.816,36.688,12.306
+Veracruz de Ignacio de la Llave,veracruz,22,2025-06-01,23.066,27.591,34.328,44.09
+Veracruz de Ignacio de la Llave,veracruz,23,2025-06-08,22.675,26.917,32.634,39.075
+Veracruz de Ignacio de la Llave,veracruz,24,2025-06-15,23.192,27.151,32.828,39.917
+Veracruz de Ignacio de la Llave,veracruz,25,2025-06-22,22.087,24.339,28.266,181.576
+Veracruz de Ignacio de la Llave,veracruz,26,2025-06-29,20.99,23.797,28.136,119.758
+Veracruz de Ignacio de la Llave,veracruz,27,2025-07-06,21.955,25.812,30.619,49.329
+Veracruz de Ignacio de la Llave,veracruz,28,2025-07-13,21.48,25.165,29.888,62.891
+Veracruz de Ignacio de la Llave,veracruz,29,2025-07-20,21.69,25.602,29.839,35.013
+Veracruz de Ignacio de la Llave,veracruz,30,2025-07-27,21.669,25.646,30.162,45.389
+Veracruz de Ignacio de la Llave,veracruz,31,2025-08-03,21.067,24.675,30.01,58.628
+Veracruz de Ignacio de la Llave,veracruz,32,2025-08-10,21.471,25.447,30.433,58.401
+Veracruz de Ignacio de la Llave,veracruz,33,2025-08-17,22.219,26.164,31.182,32.192
+Veracruz de Ignacio de la Llave,veracruz,34,2025-08-24,21.865,25.859,30.446,39.273
+Veracruz de Ignacio de la Llave,veracruz,35,2025-08-31,21.863,25.449,30.283,57.726
+Veracruz de Ignacio de la Llave,veracruz,36,2025-09-07,22.397,26.328,31.947,44.254
+Veracruz de Ignacio de la Llave,veracruz,37,2025-09-14,21.75,24.764,29.988,83.51
+Veracruz de Ignacio de la Llave,veracruz,38,2025-09-21,21.727,24.267,28.695,72.345
+Veracruz de Ignacio de la Llave,veracruz,39,2025-09-28,21.939,25.3,29.769,53.798
+Veracruz de Ignacio de la Llave,veracruz,40,2025-10-05,21.256,24.572,28.885,39.735
+Veracruz de Ignacio de la Llave,veracruz,41,2025-10-12,20.392,23.827,28.992,152.793
+Veracruz de Ignacio de la Llave,veracruz,42,2025-10-19,19.739,24.145,29.296,19.334
+Veracruz de Ignacio de la Llave,veracruz,43,2025-10-26,20.162,24.325,29.203,23.692
+Veracruz de Ignacio de la Llave,veracruz,44,2025-11-02,16.238,22.52,28.926,13.088
+Veracruz de Ignacio de la Llave,veracruz,45,2025-11-09,17.686,22.423,28.782,12.938
+Veracruz de Ignacio de la Llave,veracruz,46,2025-11-16,15.793,20.888,27.489,28.469
+Veracruz de Ignacio de la Llave,veracruz,47,2025-11-23,19.48,23.864,28.644,7.144
+Veracruz de Ignacio de la Llave,veracruz,48,2025-11-30,17.902,22.091,27.942,51.139
+Veracruz de Ignacio de la Llave,veracruz,49,2025-12-07,18.322,22.404,28.022,9.335
+Veracruz de Ignacio de la Llave,veracruz,50,2025-12-14,16.983,21.531,26.644,27.414
+Veracruz de Ignacio de la Llave,veracruz,51,2025-12-21,16.887,21.295,26.837,24.078
+Veracruz de Ignacio de la Llave,veracruz,52,2025-12-28,16.975,21.231,26.191,39.953
+Yucatán,yucatan,1,2025-01-05,17.756,23.6,29.215,2.414
+Yucatán,yucatan,2,2025-01-12,17.607,23.184,30.908,3.788
+Yucatán,yucatan,3,2025-01-19,20.731,25.327,32.208,5.314
+Yucatán,yucatan,4,2025-01-26,15.965,21.852,28.63,8.269
+Yucatán,yucatan,5,2025-02-02,19.481,25.24,31.98,0.965
+Yucatán,yucatan,6,2025-02-09,20.254,25.632,32.219,0.414
+Yucatán,yucatan,7,2025-02-16,21.015,26.651,33.65,1.527
+Yucatán,yucatan,8,2025-02-23,20.423,25.096,33.318,17.535
+Yucatán,yucatan,9,2025-03-02,16.73,24.238,31.412,2.929
+Yucatán,yucatan,10,2025-03-09,20.931,26.861,35.424,0.119
+Yucatán,yucatan,11,2025-03-16,18.897,26.896,37.133,2.405
+Yucatán,yucatan,12,2025-03-23,18.093,25.395,33.725,0.537
+Yucatán,yucatan,13,2025-03-30,22.107,28.092,35.865,2.32
+Yucatán,yucatan,14,2025-04-06,24.151,29.456,36.333,0.622
+Yucatán,yucatan,15,2025-04-13,17.414,24.87,34.772,3.606
+Yucatán,yucatan,16,2025-04-20,19.501,27.182,35.365,0.216
+Yucatán,yucatan,17,2025-04-27,22.369,28.401,35.417,1.479
+Yucatán,yucatan,18,2025-05-04,23.247,29.038,37.081,1.176
+Yucatán,yucatan,19,2025-05-11,23.225,29.608,38.458,39.931
+Yucatán,yucatan,20,2025-05-18,20.625,28.837,36.149,0.755
+Yucatán,yucatan,21,2025-05-25,25.564,30.745,37.721,3.045
+Yucatán,yucatan,22,2025-06-01,25.64,31.005,37.841,0.854
+Yucatán,yucatan,23,2025-06-08,24.656,29.39,36.827,23.707
+Yucatán,yucatan,24,2025-06-15,25.579,30.037,36.373,5.78
+Yucatán,yucatan,25,2025-06-22,24.349,29.06,35.824,23.219
+Yucatán,yucatan,26,2025-06-29,23.39,27.055,33.586,45.001
+Yucatán,yucatan,27,2025-07-06,23.3,29.022,35.379,5.054
+Yucatán,yucatan,28,2025-07-13,24.138,28.463,34.623,17.919
+Yucatán,yucatan,29,2025-07-20,24.528,29.657,36.651,4.26
+Yucatán,yucatan,30,2025-07-27,24.215,28.995,35.798,12.003
+Yucatán,yucatan,31,2025-08-03,24.172,28.46,34.515,30.319
+Yucatán,yucatan,32,2025-08-10,24.035,28.417,34.99,32.557
+Yucatán,yucatan,33,2025-08-17,23.393,27.429,34.147,38.7
+Yucatán,yucatan,34,2025-08-24,23.628,28.72,35.68,7.592
+Yucatán,yucatan,35,2025-08-31,24.073,28.366,34.928,31.813
+Yucatán,yucatan,36,2025-09-07,24.326,28.756,35.703,21.134
+Yucatán,yucatan,37,2025-09-14,23.18,27.51,34.182,31.855
+Yucatán,yucatan,38,2025-09-21,23.043,26.552,33.037,52.163
+Yucatán,yucatan,39,2025-09-28,23.959,27.464,33.679,36.855
+Yucatán,yucatan,40,2025-10-05,22.881,26.59,32.507,51.586
+Yucatán,yucatan,41,2025-10-12,21.525,25.902,31.383,41.77
+Yucatán,yucatan,42,2025-10-19,21.375,26.223,31.793,16.909
+Yucatán,yucatan,43,2025-10-26,22.418,26.459,31.876,15.181
+Yucatán,yucatan,44,2025-11-02,18.952,25.283,31.239,3.086
+Yucatán,yucatan,45,2025-11-09,20.316,25.499,32.001,20.485
+Yucatán,yucatan,46,2025-11-16,18.1,23.606,29.856,4.639
+Yucatán,yucatan,47,2025-11-23,20.759,25.592,31.266,1.717
+Yucatán,yucatan,48,2025-11-30,19.31,25.062,31.286,2.435
+Yucatán,yucatan,49,2025-12-07,20.748,25.935,32.364,1.734
+Yucatán,yucatan,50,2025-12-14,20.462,24.707,30.285,22.654
+Yucatán,yucatan,51,2025-12-21,18.6,24.348,29.879,7.598
+Yucatán,yucatan,52,2025-12-28,18.439,24.456,29.93,2.651
+Zacatecas,zacatecas,1,2025-01-05,5.282,14.012,22.817,0.055
+Zacatecas,zacatecas,2,2025-01-12,2.241,11.246,21.37,13.065
+Zacatecas,zacatecas,3,2025-01-19,4.278,13.713,23.337,0.036
+Zacatecas,zacatecas,4,2025-01-26,-0.169,11.485,22.848,0.023
+Zacatecas,zacatecas,5,2025-02-02,5.167,15.057,24.926,0.244
+Zacatecas,zacatecas,6,2025-02-09,6.526,16.495,25.678,0.027
+Zacatecas,zacatecas,7,2025-02-16,6.027,16.598,26.291,0.043
+Zacatecas,zacatecas,8,2025-02-23,7.383,16.88,25.652,0.302
+Zacatecas,zacatecas,9,2025-03-02,5.95,17.573,28.459,0.041
+Zacatecas,zacatecas,10,2025-03-09,5.772,17.621,28.195,0.001
+Zacatecas,zacatecas,11,2025-03-16,3.636,16.434,27.109,0.01
+Zacatecas,zacatecas,12,2025-03-23,5.84,17.33,28.282,0.05
+Zacatecas,zacatecas,13,2025-03-30,7.87,18.642,28.888,0.192
+Zacatecas,zacatecas,14,2025-04-06,7.267,19.059,30.398,0.01
+Zacatecas,zacatecas,15,2025-04-13,3.69,16.49,27.894,0.011
+Zacatecas,zacatecas,16,2025-04-20,10.395,21.19,30.795,0.027
+Zacatecas,zacatecas,17,2025-04-27,10.801,21.327,31.228,0.499
+Zacatecas,zacatecas,18,2025-05-04,12.299,21.84,30.843,0.92
+Zacatecas,zacatecas,19,2025-05-11,10.339,20.388,31.395,0.417
+Zacatecas,zacatecas,20,2025-05-18,11.17,23.753,32.956,0.152
+Zacatecas,zacatecas,21,2025-05-25,15.084,23.426,32.311,8.921
+Zacatecas,zacatecas,22,2025-06-01,15.072,21.539,30.562,36.589
+Zacatecas,zacatecas,23,2025-06-08,14.428,22.34,31.866,3.723
+Zacatecas,zacatecas,24,2025-06-15,14.824,21.966,31.758,15.755
+Zacatecas,zacatecas,25,2025-06-22,13.989,19.801,28.198,27.37
+Zacatecas,zacatecas,26,2025-06-29,12.378,18.836,26.164,26.843
+Zacatecas,zacatecas,27,2025-07-06,14.601,19.247,26.174,61.079
+Zacatecas,zacatecas,28,2025-07-13,12.802,17.904,23.486,58.319
+Zacatecas,zacatecas,29,2025-07-20,12.019,17.843,24.149,36.894
+Zacatecas,zacatecas,30,2025-07-27,12.593,19.639,27.189,9.168
+Zacatecas,zacatecas,31,2025-08-03,12.644,19.941,27.726,5.545
+Zacatecas,zacatecas,32,2025-08-10,13.656,20.518,27.912,12.972
+Zacatecas,zacatecas,33,2025-08-17,13.892,20.307,27.413,28.239
+Zacatecas,zacatecas,34,2025-08-24,13.543,19.263,27.549,53.418
+Zacatecas,zacatecas,35,2025-08-31,12.918,18.307,25.13,36.968
+Zacatecas,zacatecas,36,2025-09-07,13.451,18.609,24.367,48.735
+Zacatecas,zacatecas,37,2025-09-14,12.967,18.053,23.755,37.006
+Zacatecas,zacatecas,38,2025-09-21,12.915,18.069,24.49,32.999
+Zacatecas,zacatecas,39,2025-09-28,12.899,19.144,26.67,21.524
+Zacatecas,zacatecas,40,2025-10-05,9.915,17.449,24.226,16.878
+Zacatecas,zacatecas,41,2025-10-12,11.372,17.683,25.158,15.978
+Zacatecas,zacatecas,42,2025-10-19,9.449,18.649,26.705,0.87
+Zacatecas,zacatecas,43,2025-10-26,9.254,18.491,26.606,0.039
+Zacatecas,zacatecas,44,2025-11-02,8.107,17.27,26.536,0.112
+Zacatecas,zacatecas,45,2025-11-09,5.857,15.993,24.845,0.006
+Zacatecas,zacatecas,46,2025-11-16,5.485,15.564,25.854,0.049
+Zacatecas,zacatecas,47,2025-11-23,8.528,17.236,25.388,0.575
+Zacatecas,zacatecas,48,2025-11-30,7.865,15.622,24.171,1.082
+Zacatecas,zacatecas,49,2025-12-07,8.266,15.048,23.24,7.964
+Zacatecas,zacatecas,50,2025-12-14,6.3,14.002,22.184,2.02
+Zacatecas,zacatecas,51,2025-12-21,4.429,13.773,22.726,0.127
+Zacatecas,zacatecas,52,2025-12-28,5.379,14.378,23.146,0.447

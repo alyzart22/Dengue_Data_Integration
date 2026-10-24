@@ -1,0 +1,385 @@
+ESTADO,ESTADO_NORM,MES,TEMPERATURA_MEDIA_C,PRECIPITACION_MM
+Aguascalientes,aguascalientes,1,14.101,11.343
+Aguascalientes,aguascalientes,2,17.044,0.613
+Aguascalientes,aguascalientes,3,18.226,0.251
+Aguascalientes,aguascalientes,4,20.134,0.604
+Aguascalientes,aguascalientes,5,22.5,35.291
+Aguascalientes,aguascalientes,6,19.615,130.786
+Aguascalientes,aguascalientes,7,17.983,205.445
+Aguascalientes,aguascalientes,8,18.882,181.828
+Aguascalientes,aguascalientes,9,18.562,138.065
+Aguascalientes,aguascalientes,10,17.862,32.731
+Aguascalientes,aguascalientes,11,16.636,0.648
+Aguascalientes,aguascalientes,12,14.835,
+Baja California,baja california,1,12.023,3.46
+Baja California,baja california,2,15.988,3.278
+Baja California,baja california,3,14.932,26.364
+Baja California,baja california,4,17.214,2.805
+Baja California,baja california,5,20.32,2.391
+Baja California,baja california,6,24.209,7.276
+Baja California,baja california,7,26.18,1.146
+Baja California,baja california,8,28.003,10.979
+Baja California,baja california,9,25.466,24.486
+Baja California,baja california,10,21.711,2.954
+Baja California,baja california,11,17.824,36.68
+Baja California,baja california,12,16.406,
+Baja California Sur,baja california sur,1,16.038,0.614
+Baja California Sur,baja california sur,2,18.605,0.127
+Baja California Sur,baja california sur,3,18.595,0.302
+Baja California Sur,baja california sur,4,20.423,0.139
+Baja California Sur,baja california sur,5,21.965,1.117
+Baja California Sur,baja california sur,6,24.74,3.42
+Baja California Sur,baja california sur,7,26.709,6.447
+Baja California Sur,baja california sur,8,28.439,35.181
+Baja California Sur,baja california sur,9,27.327,92.759
+Baja California Sur,baja california sur,10,25.038,9.128
+Baja California Sur,baja california sur,11,21.937,1.847
+Baja California Sur,baja california sur,12,20.557,
+Campeche,campeche,1,24.169,23.032
+Campeche,campeche,2,25.743,35.604
+Campeche,campeche,3,27.686,6.021
+Campeche,campeche,4,28.209,9.665
+Campeche,campeche,5,30.894,20.513
+Campeche,campeche,6,28.836,126.11
+Campeche,campeche,7,28.889,53.31
+Campeche,campeche,8,28.278,121.052
+Campeche,campeche,9,27.511,182.834
+Campeche,campeche,10,26.159,124.648
+Campeche,campeche,11,25.118,35.165
+Campeche,campeche,12,24.906,
+Chiapas,chiapas,1,20.547,69.1
+Chiapas,chiapas,2,21.867,57.394
+Chiapas,chiapas,3,23.236,32.131
+Chiapas,chiapas,4,23.601,49.657
+Chiapas,chiapas,5,25.913,73.03
+Chiapas,chiapas,6,23.417,355.751
+Chiapas,chiapas,7,23.586,136.993
+Chiapas,chiapas,8,23.513,198.713
+Chiapas,chiapas,9,22.941,348.166
+Chiapas,chiapas,10,22.104,201.09
+Chiapas,chiapas,11,21.093,73.284
+Chiapas,chiapas,12,20.884,
+Chihuahua,chihuahua,1,7.614,14.196
+Chihuahua,chihuahua,2,14.193,0.219
+Chihuahua,chihuahua,3,15.196,2.402
+Chihuahua,chihuahua,4,18.831,3.08
+Chihuahua,chihuahua,5,22.156,8.204
+Chihuahua,chihuahua,6,25.51,73.954
+Chihuahua,chihuahua,7,23.515,102.018
+Chihuahua,chihuahua,8,24.451,71.311
+Chihuahua,chihuahua,9,21.852,77.511
+Chihuahua,chihuahua,10,19.784,22.878
+Chihuahua,chihuahua,11,15.201,5.562
+Chihuahua,chihuahua,12,12.854,
+Ciudad de México,ciudad de mexico,1,11.421,24.22
+Ciudad de México,ciudad de mexico,2,12.919,52.983
+Ciudad de México,ciudad de mexico,3,14.845,19.301
+Ciudad de México,ciudad de mexico,4,16.059,4.351
+Ciudad de México,ciudad de mexico,5,16.885,128.833
+Ciudad de México,ciudad de mexico,6,14.215,365.639
+Ciudad de México,ciudad de mexico,7,13.846,210.172
+Ciudad de México,ciudad de mexico,8,14.015,291.719
+Ciudad de México,ciudad de mexico,9,14.165,292.613
+Ciudad de México,ciudad de mexico,10,13.058,134.431
+Ciudad de México,ciudad de mexico,11,12.345,7.502
+Ciudad de México,ciudad de mexico,12,11.423,
+Coahuila de Zaragoza,coahuila,1,10.228,6.841
+Coahuila de Zaragoza,coahuila,2,16.361,2.008
+Coahuila de Zaragoza,coahuila,3,20.212,9.351
+Coahuila de Zaragoza,coahuila,4,23.478,9.612
+Coahuila de Zaragoza,coahuila,5,25.825,43.124
+Coahuila de Zaragoza,coahuila,6,27.318,26.236
+Coahuila de Zaragoza,coahuila,7,25.625,84.255
+Coahuila de Zaragoza,coahuila,8,27.282,29.011
+Coahuila de Zaragoza,coahuila,9,24.495,48.421
+Coahuila de Zaragoza,coahuila,10,22.807,4.08
+Coahuila de Zaragoza,coahuila,11,18.87,6.56
+Coahuila de Zaragoza,coahuila,12,15.377,
+Colima,colima,1,22.454,18.743
+Colima,colima,2,23.617,5.462
+Colima,colima,3,23.525,0.897
+Colima,colima,4,23.971,0.173
+Colima,colima,5,25.937,19.974
+Colima,colima,6,24.619,320.075
+Colima,colima,7,25.071,180.634
+Colima,colima,8,25.013,195.178
+Colima,colima,9,24.542,241.771
+Colima,colima,10,24.449,191.643
+Colima,colima,11,24.323,15.323
+Colima,colima,12,23.24,
+Durango,durango,1,11.281,22.241
+Durango,durango,2,15.392,0.396
+Durango,durango,3,16.648,0.685
+Durango,durango,4,19.27,0.997
+Durango,durango,5,21.73,19.489
+Durango,durango,6,22.656,110.035
+Durango,durango,7,20.039,180.973
+Durango,durango,8,20.986,144.539
+Durango,durango,9,19.416,173.278
+Durango,durango,10,19.0,21.546
+Durango,durango,11,15.899,1.48
+Durango,durango,12,13.978,
+Guanajuato,guanajuato,1,14.895,8.91
+Guanajuato,guanajuato,2,17.323,10.108
+Guanajuato,guanajuato,3,19.467,2.153
+Guanajuato,guanajuato,4,20.572,1.806
+Guanajuato,guanajuato,5,22.518,62.803
+Guanajuato,guanajuato,6,18.575,253.505
+Guanajuato,guanajuato,7,17.723,195.145
+Guanajuato,guanajuato,8,18.507,144.845
+Guanajuato,guanajuato,9,18.204,139.815
+Guanajuato,guanajuato,10,17.275,53.525
+Guanajuato,guanajuato,11,16.332,2.958
+Guanajuato,guanajuato,12,15.179,
+Guerrero,guerrero,1,21.858,24.873
+Guerrero,guerrero,2,23.288,20.607
+Guerrero,guerrero,3,24.136,2.005
+Guerrero,guerrero,4,24.762,5.444
+Guerrero,guerrero,5,25.541,68.028
+Guerrero,guerrero,6,22.753,421.251
+Guerrero,guerrero,7,23.228,210.007
+Guerrero,guerrero,8,23.387,240.568
+Guerrero,guerrero,9,22.919,302.541
+Guerrero,guerrero,10,22.54,239.48
+Guerrero,guerrero,11,22.759,11.765
+Guerrero,guerrero,12,22.329,
+Hidalgo,hidalgo,1,13.096,23.737
+Hidalgo,hidalgo,2,15.289,40.066
+Hidalgo,hidalgo,3,17.957,15.158
+Hidalgo,hidalgo,4,18.405,21.155
+Hidalgo,hidalgo,5,20.664,120.565
+Hidalgo,hidalgo,6,18.136,404.67
+Hidalgo,hidalgo,7,17.768,152.557
+Hidalgo,hidalgo,8,18.273,103.728
+Hidalgo,hidalgo,9,17.845,211.755
+Hidalgo,hidalgo,10,16.5,231.211
+Hidalgo,hidalgo,11,14.955,42.978
+Hidalgo,hidalgo,12,14.216,
+Jalisco,jalisco,1,17.77,15.613
+Jalisco,jalisco,2,20.036,2.348
+Jalisco,jalisco,3,20.972,0.211
+Jalisco,jalisco,4,22.107,0.401
+Jalisco,jalisco,5,23.823,24.203
+Jalisco,jalisco,6,21.521,267.179
+Jalisco,jalisco,7,20.665,221.154
+Jalisco,jalisco,8,20.879,235.567
+Jalisco,jalisco,9,20.737,241.945
+Jalisco,jalisco,10,20.643,73.849
+Jalisco,jalisco,11,19.869,3.76
+Jalisco,jalisco,12,18.372,
+México,mexico,1,13.383,29.333
+México,mexico,2,15.036,36.15
+México,mexico,3,17.112,9.361
+México,mexico,4,18.079,4.504
+México,mexico,5,19.088,112.652
+México,mexico,6,15.962,368.959
+México,mexico,7,15.618,223.329
+México,mexico,8,15.854,264.003
+México,mexico,9,15.818,282.648
+México,mexico,10,15.002,161.018
+México,mexico,11,14.346,7.994
+México,mexico,12,13.449,
+Michoacán de Ocampo,michoacan,1,19.151,32.798
+Michoacán de Ocampo,michoacan,2,21.059,9.745
+Michoacán de Ocampo,michoacan,3,22.194,1.785
+Michoacán de Ocampo,michoacan,4,23.09,1.635
+Michoacán de Ocampo,michoacan,5,24.163,52.346
+Michoacán de Ocampo,michoacan,6,21.443,343.001
+Michoacán de Ocampo,michoacan,7,21.262,224.362
+Michoacán de Ocampo,michoacan,8,21.612,246.336
+Michoacán de Ocampo,michoacan,9,21.204,252.589
+Michoacán de Ocampo,michoacan,10,20.856,153.224
+Michoacán de Ocampo,michoacan,11,20.798,9.544
+Michoacán de Ocampo,michoacan,12,19.724,
+Morelos,morelos,1,19.337,19.187
+Morelos,morelos,2,22.066,9.842
+Morelos,morelos,3,23.784,3.344
+Morelos,morelos,4,24.694,6.918
+Morelos,morelos,5,25.064,129.587
+Morelos,morelos,6,21.086,362.51
+Morelos,morelos,7,21.486,170.757
+Morelos,morelos,8,21.742,252.371
+Morelos,morelos,9,21.371,352.942
+Morelos,morelos,10,20.538,182.734
+Morelos,morelos,11,20.135,5.316
+Morelos,morelos,12,19.902,
+Nayarit,nayarit,1,18.905,36.204
+Nayarit,nayarit,2,20.825,0.117
+Nayarit,nayarit,3,21.026,0.052
+Nayarit,nayarit,4,22.473,0.291
+Nayarit,nayarit,5,24.692,12.486
+Nayarit,nayarit,6,24.458,261.313
+Nayarit,nayarit,7,23.928,250.841
+Nayarit,nayarit,8,23.944,261.928
+Nayarit,nayarit,9,23.723,328.314
+Nayarit,nayarit,10,23.872,89.207
+Nayarit,nayarit,11,22.456,2.62
+Nayarit,nayarit,12,20.961,
+Nuevo León,nuevo leon,1,11.909,21.89
+Nuevo León,nuevo leon,2,16.76,8.767
+Nuevo León,nuevo leon,3,20.896,32.79
+Nuevo León,nuevo leon,4,23.26,9.936
+Nuevo León,nuevo leon,5,25.575,84.198
+Nuevo León,nuevo leon,6,26.08,55.946
+Nuevo León,nuevo leon,7,25.607,82.863
+Nuevo León,nuevo leon,8,26.728,56.07
+Nuevo León,nuevo leon,9,24.392,104.583
+Nuevo León,nuevo leon,10,23.039,19.039
+Nuevo León,nuevo leon,11,19.745,22.153
+Nuevo León,nuevo leon,12,16.254,
+Oaxaca,oaxaca,1,18.953,39.622
+Oaxaca,oaxaca,2,20.426,45.697
+Oaxaca,oaxaca,3,21.98,17.943
+Oaxaca,oaxaca,4,22.401,23.25
+Oaxaca,oaxaca,5,23.769,133.629
+Oaxaca,oaxaca,6,21.32,442.157
+Oaxaca,oaxaca,7,21.585,183.372
+Oaxaca,oaxaca,8,21.429,292.865
+Oaxaca,oaxaca,9,21.165,352.167
+Oaxaca,oaxaca,10,20.447,218.646
+Oaxaca,oaxaca,11,19.972,52.447
+Oaxaca,oaxaca,12,19.492,
+Puebla,puebla,1,15.591,25.964
+Puebla,puebla,2,17.44,38.133
+Puebla,puebla,3,19.563,21.122
+Puebla,puebla,4,19.757,27.367
+Puebla,puebla,5,21.248,154.434
+Puebla,puebla,6,18.671,321.766
+Puebla,puebla,7,18.729,124.217
+Puebla,puebla,8,19.139,154.111
+Puebla,puebla,9,18.869,216.436
+Puebla,puebla,10,17.78,169.643
+Puebla,puebla,11,16.942,40.267
+Puebla,puebla,12,16.257,
+Querétaro,queretaro,1,14.023,11.289
+Querétaro,queretaro,2,16.58,23.448
+Querétaro,queretaro,3,19.288,7.312
+Querétaro,queretaro,4,19.888,10.072
+Querétaro,queretaro,5,21.991,98.798
+Querétaro,queretaro,6,18.522,287.322
+Querétaro,queretaro,7,18.011,176.428
+Querétaro,queretaro,8,18.899,86.293
+Querétaro,queretaro,9,18.105,225.255
+Querétaro,queretaro,10,16.797,131.525
+Querétaro,queretaro,11,15.648,19.436
+Querétaro,queretaro,12,14.776,
+Quintana Roo,quintana roo,1,23.49,51.866
+Quintana Roo,quintana roo,2,24.898,44.05
+Quintana Roo,quintana roo,3,26.213,12.827
+Quintana Roo,quintana roo,4,26.623,33.379
+Quintana Roo,quintana roo,5,28.709,56.603
+Quintana Roo,quintana roo,6,27.772,174.415
+Quintana Roo,quintana roo,7,28.139,70.503
+Quintana Roo,quintana roo,8,28.159,120.322
+Quintana Roo,quintana roo,9,27.649,149.127
+Quintana Roo,quintana roo,10,26.328,150.254
+Quintana Roo,quintana roo,11,24.797,63.296
+Quintana Roo,quintana roo,12,24.436,
+San Luis Potosí,san luis potosi,1,13.596,18.049
+San Luis Potosí,san luis potosi,2,17.14,9.531
+San Luis Potosí,san luis potosi,3,19.8,5.295
+San Luis Potosí,san luis potosi,4,21.198,10.179
+San Luis Potosí,san luis potosi,5,23.771,63.727
+San Luis Potosí,san luis potosi,6,21.004,179.35
+San Luis Potosí,san luis potosi,7,20.54,111.1
+San Luis Potosí,san luis potosi,8,21.817,68.101
+San Luis Potosí,san luis potosi,9,20.567,143.098
+San Luis Potosí,san luis potosi,10,19.293,65.521
+San Luis Potosí,san luis potosi,11,17.486,15.303
+San Luis Potosí,san luis potosi,12,15.968,
+Sinaloa,sinaloa,1,17.826,19.936
+Sinaloa,sinaloa,2,20.306,0.498
+Sinaloa,sinaloa,3,21.223,0.106
+Sinaloa,sinaloa,4,23.735,0.38
+Sinaloa,sinaloa,5,26.405,4.11
+Sinaloa,sinaloa,6,28.143,79.892
+Sinaloa,sinaloa,7,27.194,176.051
+Sinaloa,sinaloa,8,27.284,195.487
+Sinaloa,sinaloa,9,26.599,201.27
+Sinaloa,sinaloa,10,25.991,58.073
+Sinaloa,sinaloa,11,23.446,1.576
+Sinaloa,sinaloa,12,21.562,
+Sonora,sonora,1,12.705,5.102
+Sonora,sonora,2,17.841,0.132
+Sonora,sonora,3,18.175,4.236
+Sonora,sonora,4,21.437,0.76
+Sonora,sonora,5,24.98,1.202
+Sonora,sonora,6,29.364,21.365
+Sonora,sonora,7,29.484,53.776
+Sonora,sonora,8,30.157,49.751
+Sonora,sonora,9,26.845,110.381
+Sonora,sonora,10,23.947,52.833
+Sonora,sonora,11,19.427,20.938
+Sonora,sonora,12,17.505,
+Tabasco,tabasco,1,23.473,94.965
+Tabasco,tabasco,2,25.041,99.405
+Tabasco,tabasco,3,26.848,25.929
+Tabasco,tabasco,4,28.235,27.151
+Tabasco,tabasco,5,31.517,26.201
+Tabasco,tabasco,6,28.62,204.981
+Tabasco,tabasco,7,28.786,92.026
+Tabasco,tabasco,8,28.138,159.114
+Tabasco,tabasco,9,27.264,276.596
+Tabasco,tabasco,10,25.891,192.977
+Tabasco,tabasco,11,24.656,77.146
+Tabasco,tabasco,12,24.355,
+Tamaulipas,tamaulipas,1,15.301,20.158
+Tamaulipas,tamaulipas,2,18.985,9.281
+Tamaulipas,tamaulipas,3,22.9,24.514
+Tamaulipas,tamaulipas,4,24.651,10.571
+Tamaulipas,tamaulipas,5,27.537,63.654
+Tamaulipas,tamaulipas,6,27.193,169.21
+Tamaulipas,tamaulipas,7,26.864,94.614
+Tamaulipas,tamaulipas,8,28.238,65.005
+Tamaulipas,tamaulipas,9,26.176,155.751
+Tamaulipas,tamaulipas,10,24.752,47.22
+Tamaulipas,tamaulipas,11,22.107,24.643
+Tamaulipas,tamaulipas,12,19.278,
+Tlaxcala,tlaxcala,1,11.817,13.171
+Tlaxcala,tlaxcala,2,13.054,37.627
+Tlaxcala,tlaxcala,3,15.341,24.243
+Tlaxcala,tlaxcala,4,15.404,20.495
+Tlaxcala,tlaxcala,5,16.709,146.624
+Tlaxcala,tlaxcala,6,14.412,260.33
+Tlaxcala,tlaxcala,7,14.203,101.327
+Tlaxcala,tlaxcala,8,14.594,131.253
+Tlaxcala,tlaxcala,9,14.592,138.892
+Tlaxcala,tlaxcala,10,13.298,98.308
+Tlaxcala,tlaxcala,11,12.564,6.674
+Tlaxcala,tlaxcala,12,11.646,
+Veracruz de Ignacio de la Llave,veracruz,1,19.367,73.291
+Veracruz de Ignacio de la Llave,veracruz,2,21.474,82.165
+Veracruz de Ignacio de la Llave,veracruz,3,23.978,22.613
+Veracruz de Ignacio de la Llave,veracruz,4,25.027,22.343
+Veracruz de Ignacio de la Llave,veracruz,5,27.787,110.528
+Veracruz de Ignacio de la Llave,veracruz,6,25.545,414.359
+Veracruz de Ignacio de la Llave,veracruz,7,25.417,206.267
+Veracruz de Ignacio de la Llave,veracruz,8,25.69,203.218
+Veracruz de Ignacio de la Llave,veracruz,9,25.14,262.548
+Veracruz de Ignacio de la Llave,veracruz,10,23.928,236.812
+Veracruz de Ignacio de la Llave,veracruz,11,22.308,102.878
+Veracruz de Ignacio de la Llave,veracruz,12,21.28,
+Yucatán,yucatan,1,23.706,20.434
+Yucatán,yucatan,2,25.479,22.685
+Yucatán,yucatan,3,26.784,5.429
+Yucatán,yucatan,4,27.523,6.332
+Yucatán,yucatan,5,29.94,45.088
+Yucatán,yucatan,6,28.947,98.213
+Yucatán,yucatan,7,28.957,62.508
+Yucatán,yucatan,8,28.265,117.454
+Yucatán,yucatan,9,27.549,151.292
+Yucatán,yucatan,10,26.143,119.229
+Yucatán,yucatan,11,24.887,29.293
+Yucatán,yucatan,12,24.68,
+Zacatecas,zacatecas,1,13.008,13.185
+Zacatecas,zacatecas,2,16.506,0.644
+Zacatecas,zacatecas,3,17.69,0.257
+Zacatecas,zacatecas,4,19.756,1.402
+Zacatecas,zacatecas,5,22.281,31.565
+Zacatecas,zacatecas,6,20.68,91.042
+Zacatecas,zacatecas,7,18.724,164.028
+Zacatecas,zacatecas,8,19.676,135.793
+Zacatecas,zacatecas,9,18.417,151.91
+Zacatecas,zacatecas,10,17.996,22.212
+Zacatecas,zacatecas,11,16.148,1.731
+Zacatecas,zacatecas,12,14.201,
